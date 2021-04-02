@@ -1,25 +1,10 @@
-import io
-import os
-import string
-from logging import Logger
-from math import sqrt
-
-import matplotlib.pyplot as plt
-from pandas._typing import Level
-from pandas.plotting._matplotlib import lag_plot
-from pyspark.sql.functions import col
-from pyspark.shell import spark
-from pyspark.sql import SQLContext, SparkSession
-
-from statsmodels.tsa.arima_model import ARIMA, ARIMA_DEPRECATION_WARN
-
-from sklearn.metrics import mean_squared_error
-import numpy as np
+from pyspark.sql.session import SparkSession
 from pyspark.sql.types import *
 from pyspark import SparkConf, SparkContext, SparkFiles
 from pyspark.sql import HiveContext
 import pyspark.sql.functions as sqf
-
+from hmmlearn import hmm
+import numpy as np
 def int_or_float(s):
     try:
         return int(s)
@@ -54,7 +39,7 @@ schema = StructType([
 
 
 readfrmfile = spark.read.csv("tmp/temp.txt", header="false", schema=schema, sep='\\t')
-readfrmfile = readfrmfile.filter(readfrmfile.Name == "SpO2")
+readfrmfile = readfrmfile.filter(readfrmfile.Name == "HR")
 
 df = readfrmfile.toPandas()
 train_data, test_data = df[0:int(len(df)*0.5)], df[int(len(df)*0.5):]
@@ -64,27 +49,8 @@ training_data = training_data.astype(int)
 test_data = test_data['val1'].values
 test_data = np.array(test_data)
 test_data = test_data.astype(int)
-print(training_data)
-history = [x for x in training_data]
-model_predictions = []
-N_test_observations = len(test_data)
-for time_point in range(N_test_observations):
-    model = ARIMA(history, order=(4,1,1))
-    model_fit = model.fit()
-    output = model_fit.forecast()
-    yhat = output[0]
-    model_predictions.append(yhat)
-    true_test_value = test_data[time_point]
-    history.append(true_test_value)
-    print('predicted=%f, expected=%f' % (yhat, true_test_value))
-    model_fit.save("sp02.pkl")
-
-rmse = sqrt(mean_squared_error(test_data, model_predictions))
-print('Test RMSE: %.3f' % rmse)
-
-test_set_range = df[int(len(df)*0.5):].index
-plt.plot(test_set_range, model_predictions, color='blue', marker='o', linestyle='dashed',label='Predicted Price')
-plt.plot(test_set_range, test_data, color='red', label='Actual Price')
-plt.legend()
-plt.show()
-os.remove("tmp/temp.txt")
+model = hmm.GaussianHMM(n_components=3)
+model.fit(training_data.reshape(-1,1))
+#print(training_data.reshape(-1,1))
+predictions = model.predict(test_data.reshape(-1,1))
+print(predictions)

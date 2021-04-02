@@ -32,6 +32,26 @@
         return false;
       });
     });
+    
+     
+
+    
+</script>
+<script type="text/javascript">
+  (function updatePage() {
+    var name = "HR";
+    $.getJSON('/data_stream', function(current) {
+        // Your code to update the page here.
+        // `data` is the response JSON, in JavaScript object form.
+        name = String(current.name);
+                $("#HR.val1").html(current.val1);
+                $("#"+name+" .condition").html(current.condition);
+                $("#"+name+" .message").html(current.message);
+                $("#"+name+" .change").html(current.change);
+    });
+});
+
+setInterval(updatePage, 1000);
 </script>
   <table name="patient_data">
     {% for row in data %}
@@ -66,112 +86,112 @@
     <a href=# id="start"><input type="button" value="start" name="start"/></a> 
     <input type="button" id="end" value="end" name="end"/> 
   </form>
-  {% for item in data2 %}
-  <h2>RESP</h2>
-  {% if item.name == "RESP" %}
-    <h3>Value: </h3>
-    <span>{{item.val1}}</span><br>
-    <h3>Current Nature: </h3>
-    <span>{{item.condition}}</span><br>
-    <span>{{item.msg}}</span><br>
-    <h3>Nature of Change: </h3>
-    <span>{{item.ntu}}</span>
-  {% endif %}
-  <h2>CBP</h2>
-  <h2>ABP</h2>
-  <h2>NBP</h2>
-  <h2>SpO2</h2>
-  {% if item.name == "SpO2" %}
-    <h3>Value: </h3>
-    <span>{{item.val1}}</span><br>
-    <h3>Current Nature: </h3>
-    <span>{{item.condition}}</span><br>
-    <span>{{item.msg}}</span><br>
-    <h3>Nature of Change: </h3>
-    <span>{{item.ntu}}</span>
-  {% endif %}
-  <h2>HR</h2>
-  {% if item.name == "HR" %}
-    <h3>Value: </h3>
-    <span>{{item.val1}}</span><br>
-    <h3>Current Nature: </h3>
-    <span>{{item.condition}}</span><br>
-    <span>{{item.msg}}</span><br>
-    <h3>Nature of Change: </h3>
-    <span>{{item.ntu}}</span>
-  {% endif %}
-  <h2>PULSE</h2>
-  {% if item.name == "PULSE" %}
-    <h3>Value: </h3>
-    <span>{{item.val1}}</span><br>
-    <h3>Current Nature: </h3>
-    <span>{{item.condition}}</span><br>
-    <span>{{item.msg}}</span><br>
-    <h3>Nature of Change: </h3>
-    <span>{{item.ntu}}</span>
-  {% endif %}
-  <h2>CO</h2>
-  {% if item.name == "CO" %}
-    <h3>Value: </h3>
-    <span>{{item.val1}}</span><br>
-    <h3>Current Nature: </h3>
-    <span>{{item.condition}}</span><br>
-    <span>{{item.msg}}</span><br>
-    <h3>Nature of Change: </h3>
-    <span>{{item.ntu}}</span>
-  {% endif %}
-  <h2>TBlood</h2>
-  <h2>PAP</h2>
-  <h2>LAP</h2>
-  {% if item.name == "LAP" %}
-    <h3>Value: </h3>
-    <span>{{item.val1}}</span><br>
-    <h3>Current Nature: </h3>
-    <span>{{item.condition}}</span><br>
-    <span>{{item.msg}}</span><br>
-    <h3>Nature of Change: </h3>
-    <span>{{item.ntu}}</span>
-  {% endif %}
-  <h2>CVP</h2>
-  {% if item.name == "CVP" %}
-    <h3>Value: </h3>
-    <span>{{item.val1}}</span><br>
-    <h3>Current Nature: </h3>
-    <span>{{item.condition}}</span><br>
-    <span>{{item.msg}}</span><br>
-    <h3>Nature of Change: </h3>
-    <span>{{item.ntu}}</span>
-  {% endif %}
-  <h2>EtCO2</h2>
-  {% if item.name == "EtCO2" %}
-    <h3>Value: </h3>
-    <span>{{item.val1}}</span><br>
-    <h3>Current Nature: </h3>
-    <span>{{item.condition}}</span><br>
-    <span>{{item.msg}}</span><br>
-    <h3>Nature of Change: </h3>
-    <span>{{item.ntu}}</span>
-  {% endif %}
-  <h2>AWRR</h2>
-  {% if item.name == "AWRR" %}
-    <h3>Value: </h3>
-    <span>{{item.val1}}</span><br>
-    <h3>Current Nature: </h3>
-    <span>{{item.condition}}</span><br>
-    <span>{{item.msg}}</span><br>
-    <h3>Nature of Change: </h3>
-    <span>{{item.ntu}}</span>
-  {% endif %}
-  <h2>PAWP</h2>
-  {% if item.name == "PAWP" %}
-    <h3>Value: </h3>
-    <span>{{item.val1}}</span><br>
-    <h3>Current Nature: </h3>
-    <span>{{item.condition}}</span><br>
-    <span>{{item.msg}}</span><br>
-    <h3>Nature of Change: </h3>
-    <span>{{item.ntu}}</span>
-  {% endif %}
+  
+  
+  <h3 id="RESP">RESP</h2>
+  
+    <p>Value: </p>
+    <span class="val1"></span><br>
+    <p>Current Nature: </p>
+    <span class="condition"></span><br>
+    <span class="message"></span><br>
+    <p>Nature of Change: </p>
+    <span class="change"></span>
+
+  <h2 id="CBP">CBP</h2>
+  <h2 id="ABP">ABP</h2>
+  <h2 id="NBP">NBP</h2>
+  <h2 id="SpO2">SpO2</h2>
+  
+    <p>Value: </p>
+    <span class="val1"></span><br>
+    <p>Current Nature: </p>
+    <span class="condition"></span><br>
+    <span class="message"></span><br>
+    <p>Nature of Change: </p>
+    <span class="change"></span>
+
+  <h2 id="HR">HR</h2>
+
+    <p>Value: </p>
+    <span class="val1"></span><br>
+    <p>Current Nature: </p>
+    <span class="condition"></span><br>
+    <span class="message"></span><br>
+    <p>Nature of Change: </p>
+    <span class="change"></span>
+
+  <h2 id="PULSE">PULSE</h2>
+  
+    <p>Value: </p>
+    <span class="val1"></span><br>
+    <p>Current Nature: </p>
+    <span class="condition"></span><br>
+    <span class="message"></span><br>
+    <p>Nature of Change: </p>
+    <span class="change"></span>
+  <h2 id="CO">CO</h2>
+  
+    <p>Value: </p>
+    <span class="val1"></span><br>
+    <p>Current Nature: </p>
+    <span class="condition"></span><br>
+    <span class="message"></span><br>
+    <p>Nature of Change: </p>
+    <span class="change"></span>
+  
+  <h2 id="TBlood">TBlood</h2>
+  <h2 id="PAP">PAP</h2>
+  <h2 id="LAP">LAP</h2>
+ 
+    <p>Value: </p>
+    <span class="val1"></span><br>
+    <p>Current Nature: </p>
+    <span class="condition"></span><br>
+    <span class="message"></span><br>
+    <p>Nature of Change: </p>
+    <span class="change"></span>
+
+  <h2  id="CVP">CVP</h2>
+  
+    <p>Value: </p>
+    <span class="val1"></span><br>
+    <p>Current Nature: </p>
+    <span class="condition"></span><br>
+    <span class="message"></span><br>
+    <p>Nature of Change: </p>
+    <span class="change"></span>
+
+  <h2  id="EtCO2">EtCO2</h2>
+  
+    <p>Value: </p>
+    <span class="val1"></span><br>
+    <p>Current Nature: </p>
+    <span class="condition"></span><br>
+    <span class="message"></span><br>
+    <p>Nature of Change: </p>
+    <span class="change"></span>
+    
+  <h2 id="AWRR">AWRR</h2>
+  
+    <p>Value: </p>
+    <span class="val1"></span><br>
+    <p>Current Nature: </p>
+    <span class="condition"></span><br>
+    <span class="message"></span><br>
+    <p>Nature of Change: </p>
+    <span class="change"></span>
+ 
+  <h2 id="PAWP">PAWP</h2>
+  
+    <p>Value: </p>
+    <span class="val1"></span><br>
+    <p>Current Nature: </p>
+    <span class="condition"></span><br>
+    <span class="message"></span><br>
+    <p>Nature of Change: </p>
+    <span class="change"></span>
+  
   <h2>IMCO2</h2>
   <h2>ART</h2>
   <h2>ART1</h2>
@@ -180,6 +200,6 @@
   <h2>ST3</h2>
   <h2>P4</h2>
   <h2>UAP</h2>
-  {% endfor %}
+
 </div>
   {% endblock %}

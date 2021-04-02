@@ -41,6 +41,7 @@
     </div>
   </div> -->
   <!-- for login-->
+  
   <div class="loginbox">
      <img src="{{url_for('static',filename='img/avatar.png')}}" class="avatar"> 
      <h1>Login Here</h1>
@@ -49,10 +50,19 @@
        <input id="username" type="text" name="username" placeholder="Enter Username">
        <p>Password</p>
        <input id="password" type="password" name="password" placeholder="Enter Password">
+       <div class = "error" style="color: #cc0033;
+       font-size: 12px;
+       line-height: 20px;
+       margin: 5px 0 0;">{{msg}}</div>
        <input type="submit" name=""  value="Login" onclick="getInfo()">
        <a href="#">Lost your password?</a><br>
        <a href="#">Don't have an account?</a>
+       
      </form>
+     
+     
     </div>
+    
+    
 {% endblock %}
   
