@@ -1,14 +1,10 @@
 {%extends "layout.html" %}
 
-<head>
-	{%block head %}
-  <link rel="stylesheet" href="static/css/clean-blog.min.css">
-  <link rel="stylesheet" href=href= "{{ url_for('static',filename='css/mainpage.css') }}>
 
-  	{% endblock %}
-</head>
 <body>
 {%block body %}
+<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='findpatient.css') }}"/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
 	<header class="masthead" style="background-image: url('static/img/heartbeat.gif');">
     <div class="overlay"></div>
     
@@ -24,41 +20,21 @@
     </div>
   </header>
 
-  <div class="findpatient" style=" width: fit-content;
-  height: 430px;
-  background: rgb(51, 12, 88);
-  color: #ffffff;
-  top:120%;
-  left:50%;
-  position: absolute;
-  transform: translate(-50%,-50%);
-  box-sizing: border-box;
-  padding: 30px 30px;">
-<img src="{{url_for('static',filename='img/avatar.png')}}" class="avatar"> 
-     <h1 style="padding: 30px 30px;"">Find Patient</h1>
-		<form class= "form-group" action="{{ url_for('find_patient')}}" method="POST" >
-			<div class = "form-group" style="left: 50%; ">
-				<label class="control-label col-sm-2"  for="pid" style="color:white; ">Enter Patient ID:</label><br>
-				<input type="text" id="pid" name="pid" style="border: rgb(248, 248, 248); background:rgb(172, 172, 172, 0.5)"><br>
-			
-			  <span class="error"><?php echo $piderr;?></span>
-			  <div class = "submitbutton">
-				  <button type="submit" class="btn btn-default" style="color:white">Submit</button>
-			  </div>
-    </div>
-    <div>
-      {% with msg = get_flashed_messages() %}
-  {% if meg %}
-    <ul class="flashes">
-    {% for message in msg %}
-      <li>{{ message }}</li>
-    {% endfor %}
-    </ul>
-  {% endif %}
-{% endwith %}
-    </div>
-		</form>
-	</div>
+  
+  <form class= "searchpatient" action="{{ url_for('find_patient')}}" method="POST" >
+    <div class="searchBox">
+
+      <input class="searchInput"type="text" name="pid" id="pid" placeholder="Enter Patient ID">
+      <button class="submitbutton" type="submit" >
+        <span class="material-icons">
+          search
+        </span>
+      </button>
+  </div>
+</form>
+
+  
+    
 	{% endblock %}
 </body>
 		

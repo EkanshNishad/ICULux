@@ -47,13 +47,14 @@
      <h1>Login Here</h1>
      <form action="/login" method="post">
        <p>Username</p>
-       <input id="username" type="text" name="username" placeholder="Enter Username">
+       <input id="username" type="text" name="username" placeholder="Enter Username" autocomplete="username" required>
        <p>Password</p>
-       <input id="password" type="password" name="password" placeholder="Enter Password">
+       <input id="password" type="password" name="password" placeholder="Enter Password" autocomplete="on" required>
+       
        <div class = "error" style="color: #cc0033;
        font-size: 12px;
        line-height: 20px;
-       margin: 5px 0 0;">{{msg}}</div>
+       ">{{msg}}</div>
        <input type="submit" name=""  value="Login" onclick="getInfo()">
        <a href="#">Lost your password?</a><br>
        <a href="#">Don't have an account?</a>

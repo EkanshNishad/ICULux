@@ -23,6 +23,8 @@ from jinja2.loaders import FileSystemLoader
 
 import re
 import os
+
+
 app = Flask(__name__)
 
 app.config['MYSQL_HOST'] = 'localhost'
@@ -273,10 +275,18 @@ def contact():
 @app.route('/login', methods=['GET','POST'])
 def do_admin_login():
      if request.method=='POST':
-          if request.form.get('password') == 'iculux' and request.form.get('username') == 'admin':
-               return render_template('find_patient.html')
+          name = request.form.get('username')
+          password = request.form.get('password')
+          cnx = mysql.connector.connect(user='root', password='', host='localhost', database='icu')
+          cursor = cnx.cursor()
+          cursor.execute('SELECT * FROM DOCTOR WHERE Name = %s and Password = %s', (name,password,))
+          account = cursor.fetchone()
+          cursor.close()
+          if account:
+               return render_template("find_patient.html")
           else:
-               return render_template('index.html')
+               msg = "Invalid Username or password"
+               return render_template('index.html', msg = msg)
 @app.route('/find_patient', methods=['POST','GET'])
 def find_patient():
      msg = ""
