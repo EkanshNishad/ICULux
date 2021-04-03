@@ -63,11 +63,14 @@
     </table>
     <div class="search-wrapper">
       <div class="input-holder">
-          <input type="text" class="search-input" name="pid" id='pid' placeholder="Enter Patient ID" />
+          <input type="text" class="search-input" name="pid" id='pid' placeholder="Enter Patient ID" required />
           <button class="search-icon" onclick="searchToggle(this, event);"><span></span></button>
+          
       </div>
       <span class="close" onclick="searchToggle(this, event);"></span>
+      <div class="error">{{msg}}</div>
   </div>
+  
 
     
    

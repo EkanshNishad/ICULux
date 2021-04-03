@@ -2,6 +2,7 @@
  .searchpatient{
      margin-left: 10px;
  }
+ 
  ::selection {
     background: #212129;
  }
@@ -9,8 +10,10 @@
  .search-wrapper {
      position: absolute;
      transform: translate(-50%, -50%);
-     top:130%;
-     left:50%;
+     top:80%;
+     right: 5px;
+     border-color: tomato;
+     border-width: 2px;
  }
 
  .search-wrapper .input-holder {    
@@ -140,4 +143,14 @@
      height: 5px;
      left: 0px;
      top: 10px;
+ }
+ .error{
+    font-family:"Open Sans", Arial, Verdana;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #FE5F55;
+    top:80%;
+    right: 5px;
+    position: relative;
  }

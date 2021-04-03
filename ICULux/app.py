@@ -300,7 +300,7 @@ def find_patient():
                pid = request.form['pid']
                if re.match(r'[A-Za-z]+', pid):
                     msg += "Patient id should be numeric in value."
-                    return render_template("find_patient.html", msg=msg)
+                    return render_template("find_patient.html",  data=doctordata, msg=msg)
                elif re.match(r'[0-9]+', pid):
                     cnx = mysql.connector.connect(user='root', password='', host='localhost', database='icu')
                     cursor = cnx.cursor()
@@ -309,13 +309,17 @@ def find_patient():
                     cursor.close()
                     global patientdata
                     patientdata = details
-                    return redirect(url_for('data'))
+                    if patientdata:
+                         return redirect(url_for('data'))
+                    else:
+                         msg = "Patient record not found"
+                         return render_template("find_patient.html", data=doctordata, msg=msg)
                else:
                     msg += "Please enter valid input."
-                    return render_template("find_patient.html", msg=msg)
+                    return render_template("find_patient.html", data=doctordata, msg=msg)
           else:
                msg += "Please fill the form."
-               return render_template("find_patient.html", msg=msg)
+               return render_template("find_patient.html", data=doctordata, msg=msg)
 
 def inner(rows, dict):
           # simulate a long process to watch
