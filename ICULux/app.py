@@ -32,6 +32,8 @@ app.config['MYSQL_USER'] = 'root'
 app.config['MYSQL_PASSWORD'] = ''
 app.config['MYSQL_DB'] = 'icu'
 patientdata = None
+doctordata = None
+
 flag = False
 state = 0
 index = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -280,10 +282,12 @@ def do_admin_login():
           cnx = mysql.connector.connect(user='root', password='', host='localhost', database='icu')
           cursor = cnx.cursor()
           cursor.execute('SELECT * FROM DOCTOR WHERE Name = %s and Password = %s', (name,password,))
-          account = cursor.fetchone()
+          account = cursor.fetchall()
           cursor.close()
           if account:
-               return render_template("find_patient.html")
+               global doctordata
+               doctordata = account
+               return render_template("find_patient.html", data=doctordata)
           else:
                msg = "Invalid Username or password"
                return render_template('index.html', msg = msg)

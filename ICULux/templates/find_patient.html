@@ -3,8 +3,8 @@
 
 <body>
 {%block body %}
-<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='findpatient.css') }}"/>
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
+<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/findpatient.css') }}"/>
+
 	<header class="masthead" style="background-image: url('static/img/heartbeat.gif');">
     <div class="overlay"></div>
     
@@ -20,22 +20,60 @@
     </div>
   </header>
 
+  <script>
+    function searchToggle(obj, evt){
+    var container = $(obj).closest('.search-wrapper');
+        if(!container.hasClass('active')){
+            container.addClass('active');
+            evt.preventDefault();
+        }
+        else if(container.hasClass('active') && $(obj).closest('.input-holder').length == 0){
+            container.removeClass('active');
+            // clear input
+            container.find('.search-input').val('');
+        }
+}
+  </script>
+  
   
   <form class= "searchpatient" action="{{ url_for('find_patient')}}" method="POST" >
-    <div class="searchBox">
-
-      <input class="searchInput"type="text" name="pid" id="pid" placeholder="Enter Patient ID">
-      <button class="submitbutton" type="submit" >
-        <span class="material-icons">
-          search
-        </span>
-      </button>
+    <table name="Doctor_data">
+      {% for row in data %}
+          <tr>
+              <th>Doctor ID:</th>
+              <td>{{row[2]}}</td>
+          </tr>  
+          <tr>
+              <th>Name:</th>
+              <td>{{row[0]}}</td>
+          </tr>
+          <tr>
+              <th>Age:</th>
+              <td>{{row[1]}}</td>
+          </tr>
+          <tr>
+              <th>Email:</th>
+              <td>{{row[3]}}</td>
+          </tr>
+          <tr>
+              <th>Specialization:</th>
+              <td>{{row[5]}}</td>
+          </tr>
+      {% endfor %}
+    </table>
+    <div class="search-wrapper">
+      <div class="input-holder">
+          <input type="text" class="search-input" name="pid" id='pid' placeholder="Enter Patient ID" />
+          <button class="search-icon" onclick="searchToggle(this, event);"><span></span></button>
+      </div>
+      <span class="close" onclick="searchToggle(this, event);"></span>
   </div>
-</form>
 
-  
     
+   
+</form>
 	{% endblock %}
+  
+
 </body>
 		
-
