@@ -38,28 +38,30 @@
   
   <form class= "searchpatient" action="{{ url_for('find_patient')}}" method="POST" >
     <table name="Doctor_data">
+      <tbody>
       {% for row in data %}
           <tr>
-              <th>Doctor ID:</th>
-              <td>{{row[2]}}</td>
+              <th class="text">Doctor ID:</th>
+              <td class="numeric">{{row[2]}}</td>
           </tr>  
           <tr>
-              <th>Name:</th>
-              <td>{{row[0]}}</td>
+              <th class="text">Name:</th>
+              <td class="numeric">{{row[0]}}</td>
           </tr>
           <tr>
-              <th>Age:</th>
-              <td>{{row[1]}}</td>
+              <th class="text">Age:</th>
+              <td class="numeric">{{row[1]}}</td>
           </tr>
           <tr>
-              <th>Email:</th>
-              <td>{{row[3]}}</td>
+              <th class="text">Email:</th>
+              <td class="numeric">{{row[3]}}</td>
           </tr>
           <tr>
-              <th>Specialization:</th>
-              <td>{{row[5]}}</td>
+              <th class="text">Specialization:</th>
+              <td class="numeric">{{row[5]}}</td>
           </tr>
       {% endfor %}
+      </tbody>
     </table>
     <div class="search-wrapper">
       <div class="input-holder">
