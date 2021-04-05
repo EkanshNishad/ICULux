@@ -1,0 +1,95 @@
+main {
+    padding: 1em;
+  }
+
+h3{
+    text-align: center;
+    padding: 20px;
+}
+  
+  tr {
+    border-bottom: 1px solid;
+  }
+  
+  th {
+    background-color: #555;
+    color: #fff;
+    white-space: nowrap;
+  }
+  
+  th,
+  td {
+    text-align: left;
+    padding: 0.5em 1em;
+    white-space: nowrap;
+  }
+  
+  @media screen and (max-width: 1140px) {
+    table {
+      display: flex;
+      margin-left: 10px;
+      padding: 30px 30px 30px 30px;
+      width: 100%;
+    }
+  
+    tbody {
+      display: flex;
+      position: absolute;
+      overflow-x: auto;
+      overflow-y: hidden;
+      margin-left: 10px;
+      
+      background:
+        linear-gradient(to right, white 30%, rgba(255,255,255,0)),
+        linear-gradient(to right, rgba(255,255,255,0), white 70%) 0 100%,
+        radial-gradient(farthest-side at 0% 50%, rgba(0,0,0,.4), rgba(0,0,0,0)),
+        radial-gradient(farthest-side at 100% 50%, rgba(0,0,0,.2), rgba(0,0,0,0)) 0 100%;
+      background-repeat: no-repeat;
+      background-color: white;
+      background-size: contain cover;
+      background-attachment: local, local, scroll, scroll;
+      padding: 30px 30px 30px 30px;
+      width: 100%;
+    }
+  
+    th,
+    td {
+      display: block;
+    }
+  
+    .numeric {
+      text-align: right;
+    }
+  
+    .text {
+      text-align: center;
+    }
+  }
+
+  .systolic, .diastolic, .mean{
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    text-align: left;
+    color: #444444;
+    font-weight: 300;
+    font-size: 25px;
+  }
+
+  .systolic .val2, .diastolic .val3, .mean .val1{
+    
+    font-size: 50px;
+  }
+
+
+  .value{
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    text-align: left;
+    color: #444444;
+    font-weight: 300;
+    font-size: 50px;
+    
+  }
+
+  
+  

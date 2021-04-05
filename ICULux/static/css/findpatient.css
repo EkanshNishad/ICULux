@@ -71,7 +71,7 @@ main {
  .search-wrapper {
      position: absolute;
      transform: translate(-50%, -50%);
-     top:80%;
+     top:90%;
      right: 5px;
      border-color: tomato;
      border-width: 2px;

@@ -1,8 +1,10 @@
+import json
 import time
 
 import flask
 import mysql
 #import numpy as np
+
 from flask import Flask, render_template, flash, redirect, request, session, abort, jsonify, url_for, Response, \
      stream_with_context, render_template_string
 from flaskext.mysql import MySQL
@@ -13,7 +15,7 @@ import pyspark.sql.functions as sqf
 import os
 from pyspark.sql.types import *
 from pyspark import SparkConf, SparkContext, SparkFiles
-from pyspark.sql.functions import col
+from pyspark.sql.functions import col, countDistinct
 from skmultiflow.drift_detection.adwin import ADWIN
 from pyspark import SparkContext
 from pyspark.streaming import StreamingContext
@@ -42,6 +44,7 @@ cond = {}
 rows = None
 previous_variance = {}
 adwin = {}
+div = 1
 
 def temp():
      return render_template("data.html", data=patientdata)
@@ -50,7 +53,7 @@ def stream_template(template_name, **context):
     app.update_template_context(context)
     t = app.jinja_env.get_template(template_name)
     rv = t.stream(context)
-    #rv.enable_buffering(5)
+    rv.enable_buffering(5)
     return rv
 
 def int_or_float(s):
@@ -321,107 +324,7 @@ def find_patient():
                msg += "Please fill the form."
                return render_template("find_patient.html", data=doctordata, msg=msg)
 
-def inner(rows, dict):
-          # simulate a long process to watch
-     ntu = ""
-     #print(rows)
 
-     for i in rows:
-          name = i[0]
-          val1 = i[1]
-          val2 = i[2]
-          val3 = i[3]
-
-          time.sleep(1)
-               # this value should be inserted into an HTML template
-          if (val3 != None and val2 != None):
-               if (len(dict[name]) <= 10):
-                    dict[name].append(val3)
-               else:
-                    dict[name].pop(0)
-                    dict[name].append(val3)
-                         # yield str(name) + " " + str(val1) + " " + str(val2) + " " + str(val3) + '<br/>\n'
-               print(name + " : " + val1 + "\t" + val2 + "\t" + val3)
-               templist = find_current_nature(str(name), str(val1), str(val2), str(val3))
-               adwin[name].add_element(int_or_float(val3))
-               if (templist[2] == True):
-                    print("Current Nature: Critical")
-                    condition = "Critical"
-                    message = templist[0]
-
-                    if ((templist[1] > 0) and (trendline(data=dict[name]) > 0)):
-                         ntu = "Depreciating at high rate"
-                    elif ((templist[1] < 0) and (trendline(data=dict[name]) < 0)):
-                         ntu = "Depreciating at high rate"
-                    else:
-                         ntu = "recovery would take time"
-                    print("Nature: " + ntu)
-               elif (templist[1] != 0):
-                    print("Current Nature: Needs Care")
-                    condition = "Needs Care"
-                    message = templist[0]
-                    if (len(dict[name]) >= 10):
-                         if ((templist[1] > 0) and (trendline(data=dict[name]) > 0)):
-                              ntu = "Degrading"
-                         elif ((templist[1] < 0) and (trendline(data=dict[name]) < 0)):
-                              ntu = "Degrading"
-                         else:
-                              ntu = "Improving"
-                         print("Nature: "+ntu)
-               else:
-                    print("Current Nature: Normal")
-                    condition = "Normal"
-
-               if adwin[name].detected_change():
-                    print("Percentage Variance for name: {}".format(adwin[name].variance))
-                    previous_variance[name] = adwin[name].variance
-               update_page(name, val1, val2, val3, condition, message, ntu)
-          else:
-               if (len(dict[name]) <= 10):
-                    dict[name].append(val1)
-               else:
-                    dict[name].pop(0)
-                    dict[name].append(val1)
-                         # yield str(name) + " " + str(val1) + '<br/>\n'
-               print(name + " : " + val1)
-               templist = find_current_nature(str(name), str(val1))
-               condition = templist[0]
-               adwin[name].add_element(int_or_float(val1))
-               if (templist[2] == True):
-                    print("Current Nature: Critical")
-                    print(templist[0])
-                    condition = "Critical"
-                    message = templist[0]
-
-                    if((templist[1] > 0) and (trendline(data=dict[name]) > 0)):
-                         ntu = "Depreciating at high rate"
-                    elif((templist[1] < 0) and (trendline(data=dict[name]) < 0)):
-                         ntu = "Depreciating at high rate"
-                    else:
-                         ntu = "recovery would take time"
-                    print("Nature: " + ntu)
-               elif (templist[1] != 0):
-                    print("Current Nature: Needs Care")
-                    print(templist[0])
-                    condition = "Needs Care"
-                    message = templist[0]
-
-                    if(len(dict[name]) >= 10):
-                         if ((templist[1] > 0) and (trendline(data=dict[name]) > 0)):
-                              ntu = "Degrading"
-                         elif ((templist[1] < 0) and (trendline(data=dict[name]) < 0)):
-                              ntu = "Degrading"
-                         else:
-                              ntu = "Improving"
-                         print("Nature: " + ntu)
-               else:
-                    print("Current Nature: Normal")
-
-               if adwin[name].detected_change():
-                    print("Percentage Variance{}".format(adwin[name].variance))
-               previous_variance[name] = adwin[name].variance
-               update_page(name, val1, val2, val3, condition, message, ntu)
-     return render_template("data.html", data=patientdata)
 
 
 @app.route('/data', methods=['POST','GET'])
@@ -466,6 +369,8 @@ def data():
           adwin[name] = ADWIN()
           previous_variance[name] = 0
 
+     global div
+     div = 1/len(distinct_rows)
 
 
      rows = readfrmfile.collect()
@@ -473,13 +378,136 @@ def data():
      os.remove("tmp/temp.txt")
 
 
-     return render_template("data.html", data=patientdata)
+     return render_template("data2.html", data=patientdata)
 
 @app.route('/data_stream', methods=['POST', 'GET'])
 def data_stream():
      temp()
-     inner(rows, dict)
-     return render_template("data.html", data=patientdata)
+
+     def inner(rows, dict):
+
+          # simulate a long process to watch
+          ntu = ""
+          # print(rows)
+
+          for i in rows:
+               name = i[0]
+               val1 = i[1]
+               val2 = i[2]
+               val3 = i[3]
+
+               time.sleep(div)
+               # this value should be inserted into an HTML template
+               if (val3 != None and val2 != None):
+                    if (len(dict[name]) <= 10):
+                         dict[name].append(val3)
+                    else:
+                         dict[name].pop(0)
+                         dict[name].append(val3)
+                         # yield str(name) + " " + str(val1) + " " + str(val2) + " " + str(val3) + '<br/>\n'
+                    print(name + " : " + val1 + "\t" + val2 + "\t" + val3)
+                    templist = find_current_nature(str(name), str(val1), str(val2), str(val3))
+                    adwin[name].add_element(int_or_float(val3))
+                    if (templist[2] == True):
+                         print("Current Nature: Critical")
+                         condition = "Critical"
+                         message = templist[0]
+
+                         if ((templist[1] > 0) and (trendline(data=dict[name]) > 0)):
+                              ntu = "Depreciating at high rate"
+                         elif ((templist[1] < 0) and (trendline(data=dict[name]) < 0)):
+                              ntu = "Depreciating at high rate"
+                         else:
+                              ntu = "recovery would take time"
+                         print("Nature: " + ntu)
+                    elif (templist[1] != 0):
+                         print("Current Nature: Needs Care")
+                         condition = "Needs Care"
+                         message = templist[0]
+                         if (len(dict[name]) >= 10):
+                              if ((templist[1] > 0) and (trendline(data=dict[name]) > 0)):
+                                   ntu = "Degrading"
+                              elif ((templist[1] < 0) and (trendline(data=dict[name]) < 0)):
+                                   ntu = "Degrading"
+                              else:
+                                   ntu = "Improving"
+                              print("Nature: " + ntu)
+                    else:
+                         print("Current Nature: Normal")
+                         condition = "Normal"
+
+                    if adwin[name].detected_change():
+                         print("Percentage Variance for name: {}".format(adwin[name].variance))
+                         previous_variance[name] = adwin[name].variance
+                    data2 = {
+                         "name": name,
+                         "val1": val1,
+                         "val2": val2,
+                         "val3": val3,
+                         "condition": condition,
+                         "message": message,
+                         "change": ntu
+                    }
+
+                    _data = json.dumps(data2)
+                    yield f"id: 1\ndata: {_data}\nevent: online\n\n"
+               else:
+                    if (len(dict[name]) <= 10):
+                         dict[name].append(val1)
+                    else:
+                         dict[name].pop(0)
+                         dict[name].append(val1)
+                         # yield str(name) + " " + str(val1) + '<br/>\n'
+                    print(name + " : " + val1)
+                    templist = find_current_nature(str(name), str(val1))
+                    condition = templist[0]
+                    adwin[name].add_element(int_or_float(val1))
+                    if (templist[2] == True):
+                         print("Current Nature: Critical")
+                         print(templist[0])
+                         condition = "Critical"
+                         message = templist[0]
+
+                         if ((templist[1] > 0) and (trendline(data=dict[name]) > 0)):
+                              ntu = "Depreciating at high rate"
+                         elif ((templist[1] < 0) and (trendline(data=dict[name]) < 0)):
+                              ntu = "Depreciating at high rate"
+                         else:
+                              ntu = "recovery would take time"
+                         print("Nature: " + ntu)
+                    elif (templist[1] != 0):
+                         print("Current Nature: Needs Care")
+                         print(templist[0])
+                         condition = "Needs Care"
+                         message = templist[0]
+
+                         if (len(dict[name]) >= 10):
+                              if ((templist[1] > 0) and (trendline(data=dict[name]) > 0)):
+                                   ntu = "Degrading"
+                              elif ((templist[1] < 0) and (trendline(data=dict[name]) < 0)):
+                                   ntu = "Degrading"
+                              else:
+                                   ntu = "Improving"
+                              print("Nature: " + ntu)
+                    else:
+                         print("Current Nature: Normal")
+
+                    if adwin[name].detected_change():
+                         print("Percentage Variance{}".format(adwin[name].variance))
+                    previous_variance[name] = adwin[name].variance
+                    data2 = {
+                         "name": name,
+                         "val1": val1,
+                         "val2": val2,
+                         "val3": val3,
+                         "condition": condition,
+                         "message": message,
+                         "change": ntu
+                    }
+                    _data = json.dumps(data2)
+                    yield f"id: 1\ndata: {_data}\nevent: online\n\n"
+
+     return Response(inner(rows,dict), mimetype='text/event-stream')
 
 
 
