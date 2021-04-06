@@ -68,28 +68,88 @@ h3{
 
   .systolic, .diastolic, .mean{
     font-family: 'Open Sans', sans-serif;
-    display: block;
-    text-align: left;
+    display: inline-block;
     color: #444444;
     font-weight: 300;
     font-size: 25px;
+    margin-left: 10px;
+    padding: 30px 30px 30px 30px;
   }
 
-  .systolic .val2, .diastolic .val3, .mean .val1{
+  .systolic .val2, .diastolic .val1, .mean .val3{
     
     font-size: 50px;
+    
+  }
+  .systolic{
+    left: 20%;
+  }
+  .diastolic{
+    left: 40%;
+  }
+  .mean{
+    left: 65%;
   }
 
 
   .value{
     font-family: 'Open Sans', sans-serif;
     display: block;
-    text-align: left;
+    text-align: center;
     color: #444444;
     font-weight: 300;
     font-size: 50px;
     
   }
+  .nature, .noc, .percent{
+
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    padding: 30px 30px 30px 30px;
+    margin-left: 10px;
+    width: 30%;
+    height: 150px;
+    background-color: whitesmoke;
+     align-items: center;
+  }
+  .nature{
+    left: 15%;
+  }
+
+  .noc{
+    align-content: center;
+  }
+
+  .percent{
+    right: 15%;
+  }
+  
+  .message{
+
+    display: block;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:25px;
+    margin-left: 10px;
+  }
+
+  .change{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+  }
+  .drift{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+  }
+  .condition{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+  }
+
 
   
   

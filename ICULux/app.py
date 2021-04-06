@@ -45,7 +45,7 @@ rows = None
 previous_variance = {}
 adwin = {}
 div = 1
-
+pid = None
 def temp():
      return render_template("data.html", data=patientdata)
 
@@ -300,6 +300,7 @@ def find_patient():
      if(request.method == 'POST'):
           print(request.form['pid'])
           if 'pid' in request.form:
+               global pid
                pid = request.form['pid']
                if re.match(r'[A-Za-z]+', pid):
                     msg += "Patient id should be numeric in value."
@@ -335,11 +336,12 @@ def data():
      spark = SparkSession.builder.master('local[*]').appName('ICULux').config("spark.files.overwrite", "true") \
           .config("spark.worker.cleanup.enabled", "true").getOrCreate()
      sc = spark.sparkContext
-     url = "https://physionet.org/files/mimicdb/1.0.0/037/03700001.txt"
+     url = "https://physionet.org/files/mimicdb/1.0.0/"+str(pid)+"/"+str(pid)+"00001.txt"
+     print(url)
      sc.addFile(url)
 
      # first get all lines from file
-     with open(SparkFiles.get("03700001.txt"), 'r') as f:
+     with open(SparkFiles.get(str(pid)+"00001.txt"), 'r') as f:
           lines = f.readlines()
 
      # remove spaces
@@ -435,10 +437,14 @@ def data_stream():
                     else:
                          print("Current Nature: Normal")
                          condition = "Normal"
+                         message = ""
+                         ntu = "Normal"
 
+                    variance_det = "No drift detected"
                     if adwin[name].detected_change():
-                         print("Percentage Variance for name: {}".format(adwin[name].variance))
-                         previous_variance[name] = adwin[name].variance
+                         print("Percentage Variance{}".format(adwin[name].variance))
+                         variance_det = adwin[name].variance
+                    previous_variance[name] = adwin[name].variance
                     data2 = {
                          "name": name,
                          "val1": val1,
@@ -446,7 +452,8 @@ def data_stream():
                          "val3": val3,
                          "condition": condition,
                          "message": message,
-                         "change": ntu
+                         "change": ntu,
+                         "drift": variance_det
                     }
 
                     _data = json.dumps(data2)
@@ -491,9 +498,20 @@ def data_stream():
                               print("Nature: " + ntu)
                     else:
                          print("Current Nature: Normal")
+                         condition = "Normal"
+                         message = ""
+                         ntu = "Normal"
 
+                    if(int_or_float(val1) == 0):
+                         condition = "[INACTIVE]"
+                         ntu = "[INACTIVE]"
+
+                    if(int_or_float(val1) == dict[name][len(dict[name])-1]):
+                         ntu = "No change detected"
+                    variance_det = "No significant drift detected"
                     if adwin[name].detected_change():
                          print("Percentage Variance{}".format(adwin[name].variance))
+                         variance_det = adwin[name].variance
                     previous_variance[name] = adwin[name].variance
                     data2 = {
                          "name": name,
@@ -502,7 +520,8 @@ def data_stream():
                          "val3": val3,
                          "condition": condition,
                          "message": message,
-                         "change": ntu
+                         "change": ntu,
+                         "drift": variance_det
                     }
                     _data = json.dumps(data2)
                     yield f"id: 1\ndata: {_data}\nevent: online\n\n"
