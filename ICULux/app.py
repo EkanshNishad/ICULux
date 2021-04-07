@@ -1,4 +1,5 @@
 import json
+import random
 import time
 
 import flask
@@ -278,7 +279,7 @@ def about():
 def contact():
      return render_template('contact.html')
 @app.route('/login', methods=['GET','POST'])
-def do_admin_login():
+def login():
      if request.method=='POST':
           name = request.form.get('username')
           password = request.form.get('password')
@@ -294,6 +295,31 @@ def do_admin_login():
           else:
                msg = "Invalid Username or password"
                return render_template('index.html', msg = msg)
+
+@app.route('/newuser', methods=['POST', 'GET'])
+def newuser():
+     return render_template("newuser.html")
+
+@app.route('/register',  methods=['POST', 'GET'])
+def register():
+     if (request.method == 'POST'):
+          username = request.form['username']
+          gender = request.form['gender']
+          age = request.form['age']
+          email = request.form['email']
+          password = request.form['password']
+          phno = request.form['phone']
+          spec = request.form['spec']
+          id = random.SystemRandom()
+          id = id.randint(12183, 13000)
+          cnx = mysql.connector.connect(user='root', password='', host='localhost', database='icu')
+          cursor = cnx.cursor()
+          cursor.execute('INSERT INTO DOCTOR VALUES (%s,%s,%s,%s,%s,%s)',
+                         (username, age, id, email, password, spec))
+          cnx.commit()
+          cursor.close()
+          return render_template("index.html")
+
 @app.route('/find_patient', methods=['POST','GET'])
 def find_patient():
      msg = ""
