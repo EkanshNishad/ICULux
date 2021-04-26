@@ -20,22 +20,58 @@
   <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.7.3/socket.io.min.js"></script>
-
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
   <script>
     var eventSource = new EventSource("/data_stream")
     
     eventSource.addEventListener("message", function(e) {
       console.log(e.data)
     }, false)
-
+    var name = ""
     eventSource.addEventListener("online", function(e) {
       // console.log(e.data.color)
       data = JSON.parse(e.data)
-      var name = String(data.name)
-      document.querySelector("#"+name+".val1").innerText = data.val1
+      name = String(data.name)
+      name = '#' + name
+      
+      var element = document.querySelector(name)
+      element.querySelector(".val1").innerText = data.val1
+      element.querySelector(".condition").innerText = String(data.condition)
+      if(data.message != undefined && data.message != null)
+      {
+        element.querySelector(".message").innerText = data.message
+      }
+      else{
+        element.querySelector(".message").innerText = ""
+      }
+
+      element.querySelector(".change").innerText = data.change
+      
+      
+      if(data.val2 != undefined && data.val2 != null)
+      {
+        element.querySelector(".val2").innerText = data.val2
+      }
+      else(data.val3 != undefined && data.val3 != null)
+      {
+        element.querySelector(".val3").innerText = data.val3
+      }
+      element.querySelector(".drift").innerText = data.prediction
+
+      if(data.prediction != undefined && data.prediction != null)
+      {
+        element.querySelector(".prevalue").innerText = data.prediction
+      }
+
+      if(data.perchange != undefined && data.perchange != null)
+      {
+        element.querySelector(".pchange").innerText = data.perchange
+      }
+      
+      
+      
     }, true)
 </script>
-
 <h3>Patient Information</h3>
   <table name="patient_data" style="width: 100%;">
     {% for row in data %}
@@ -68,166 +104,452 @@
     {% endfor %}
   </table>
 
-  <a href="/data_stream"><button name="start" id="start" onclick="startload()">Start</button></a>
+  <a href="/data_stream"><button name="start" id="start">Start</button></a>
 
   
+  <div id="RESP">
+    <h3>Respiratory Rate</h3>
   
-  <h3 id="RESP">Respiratory Rate</h3>
-  
-    <p>Value: </p>
-    <span class="val1"></span><br>
-    <p>Current Nature: </p>
-    <span class="condition"></span><br>
-    <span class="message"></span><br>
-    <p>Nature of Change: </p>
-    <span class="change"></span>
-
-  <h3 id="CBP">CBP</h3>
-
-  <p>Systolic: </p>
-    <span class="val2"></span><br>
-  <p>Mean: </p>
-    <span class="val3"></span><br>
-  <p>Diastolic: </p>
-    <span class="val1"></span><br>
-    <p>Current Nature: </p>
-    <span class="condition"></span><br>
-    <span class="message"></span><br>
-    <p>Nature of Change: </p>
-    <span class="change"></span>
-
-  <h3 id="ABP">Arterial Blood Pressure</h3>
-  
-  <p>Systolic: </p>
-    <span class="val2"></span><br>
-  <p>Mean: </p>
-    <span class="val3"></span><br>
-  <p>Diastolic: </p>
-    <span class="val1"></span><br>
-    <p>Current Nature: </p>
-    <span class="condition"></span><br>
-    <span class="message"></span><br>
-    <p>Nature of Change: </p>
-    <span class="change"></span>
+    <div class="value">
+      <span class="val1">&#91;INACTIVE&#93;</span><br>
+    </div>
+    <div class="nature">
+      <span>Current Nature: </span><br>
+      <span class="condition">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="noc">
+      <span>Nature of Change: </span><br>
+      <span class="change">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="percent">
+      <span>Drift:</span>
+      <span class="drift">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="prediction">
+      <span>Predicted Value:</span>
+      <span class="prevalue">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="perchange">
+      <span>&#37; Change</span>
+      <span class="pchange">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="msg">
+      <span class="message"></span><br>
+    </div>
     
-  <h3 id="NBP">Non-Invasive Blood Pressure</h3>
-  
-  <p>Systolic: </p>
-    <span class="val2"></span><br>
-  <p>Mean: </p>
-    <span class="val3"></span><br>
-  <p>Diastolic: </p>
-    <span class="val1"></span><br>
-    <p>Current Nature: </p>
-    <span class="condition"></span><br>
-    <span class="message"></span><br>
-    <p>Nature of Change: </p>
-    <span class="change"></span>
+  </div>
+  <div id="CBP">
+    <h3>CBP</h3>
+    <div class="value">
+      <div class="systolic">
+        <span>Systolic </span><br>
+        <span class="val2">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
+      </div>
+      <div class="mean">
+      <span>Mean </span><br>
+        <span class="val3">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
+      </div>
+      <div class="diastolic">
+      <span>Diastolic </span><br>
+        <span class="val1">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
+      </div>
+    </div>
+    <br>
+    <div class="nature">
+      <span>Current Nature: </span><br>
+      <span class="condition">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="noc">
+      <span>Nature of Change: </span><br>
+      <span class="change">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="percent">
+      <span>Drift:</span>
+      <div class="drift">&#91;INACTIVE&#93;</div>
+    </div>
+    <div class="msg">
+      <span class="message"></span><br>
+    </div>
     
-  <h3 id="SpO2">SpO2</h3>
+  </div>
+  <div id="ABP">
+    <h3>Arterial Blood Pressure</h3>
+    <div class="value">
+      <div class="systolic">
+        <span>Systolic </span><br>
+        <span class="val2">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
+      </div>
+      <div class="mean">
+      <span>Mean </span><br>
+        <span class="val3">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
+      </div>
+      <div class="diastolic">
+      <span>Diastolic </span><br>
+        <span class="val1">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
+      </div>
+    </div>
+    
+    <br>
+      <div class="nature">
+        <span >Current Nature: </span>
+        <span class="condition">&#91;INACTIVE&#93;</span><br>
+      </div>
+      <div class="noc">
+        <span>Nature of Change: </span>
+        <span class="change">&#91;INACTIVE&#93;</span>
+      </div>
+      <div class="percent">
+        <span>Drift:</span>
+        <div class="drift">&#91;INACTIVE&#93;</div>
+      </div>
+      <div class="msg">
+        <span class="message"></span><br>
+      </div>
+      
+    
+  </div>
+  <div id="NBP">
+      <h3>Non-Invasive Blood Pressure</h3>
+    
+      <div class="value">
+        <div class="systolic">
+          <span>Systolic </span><br>
+          <span class="val2">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
+        </div>
+        <div class="mean">
+        <span>Mean </span><br>
+          <span class="val3">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
+        </div>
+        <div class="diastolic">
+        <span>Diastolic </span><br>
+          <span class="val1">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
+        </div>
+    </div>
+    </div>
+      <br>
+        <div class="nature">
+          <span >Current Nature: </span>
+          <span class="condition">&#91;INACTIVE&#93;</span><br>
+        </div>
+        <div class="noc">
+          <span>Nature of Change: </span>
+          <span class="change">&#91;INACTIVE&#93;</span>
+        </div>
+        <div class="percent">
+          <span>Drift:</span>
+          <div class="drift">&#91;INACTIVE&#93;</div>
+        </div>
+        <div class="msg">
+          <span class="message"></span><br>
+        </div>
+        
+      
+  </div>
+  <div id="SpO2">
+    <h3>SpO2</h3>
   
-    <p>Value: </p>
-    <span class="val1"></span><br>
-    <p>Current Nature: </p>
-    <span class="condition"></span><br>
-    <span class="message"></span><br>
-    <p>Nature of Change: </p>
-    <span class="change"></span>
+    <div class="value">
+      <span class="val1">&#91;INACTIVE&#93;</span><span style="font-size: 10px;">&#37;</span><br>
+    </div>
+    <div class="nature">
+      <span>Current Nature: </span><br>
+      <span class="condition">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="noc">
+      <span>Nature of Change: </span><br>
+      <span class="change">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="percent">
+      <span>Drift:</span>
+      <span class="drift">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="prediction">
+      <span>Predicted Value:</span>
+      <span class="prevalue">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="perchange">
+      <span>&#37; Change</span>
+      <span class="pchange">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="msg">
+      <span class="message"></span><br>
+    </div>
+    
+  </div>
+  <div id="HR">
+    <h3>Heart Rate</h3>
 
-  <h3 id="HR">Heart Rate</h3>
-
-    <p>Value: </p>
-    <span class="val1"></span><br>
-    <p>Current Nature: </p>
-    <span class="condition"></span><br>
-    <span class="message"></span><br>
-    <p>Nature of Change: </p>
-    <span class="change"></span>
-
-  <h3 id="PULSE">Pulse</h3>
+    <div class="value">
+      <span class="val1">&#91;INACTIVE&#93;</span><span style="font-size: 10px;">bpm</span><br>
+    </div>
+    <div class="nature">
+      <span>Current Nature: </span><br>
+      <span class="condition">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="noc">
+      <span>Nature of Change: </span><br>
+      <span class="change">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="percent">
+      <span>Drift:</span>
+      <span class="drift">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="prediction">
+      <span>Predicted Value:</span>
+      <span class="prevalue">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="perchange">
+      <span>&#37; Change</span>
+      <span class="pchange">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="msg">
+      <span class="message"></span><br>
+    </div>
+    
+  </div>
+  <div id="PULSE">
+    <h3>Pulse</h3>
   
-    <p>Value: </p>
-    <span class="val1"></span><br>
-    <p>Current Nature: </p>
-    <span class="condition"></span><br>
-    <span class="message"></span><br>
-    <p>Nature of Change: </p>
-    <span class="change"></span>
-  <h3 id="CO">Cardiac Output</h3>
+    <div class="value">
+      <span class="val1">&#91;INACTIVE&#93;</span><span style="font-size: 10px;">bpm</span><br>
+    </div>
+    <div class="nature">
+      <span>Current Nature: </span><br>
+      <span class="condition">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="noc">
+      <span>Nature of Change: </span><br>
+      <span class="change">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="percent">
+      <span>Drift:</span>
+      <span class="drift">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="prediction">
+      <span>Predicted Value:</span>
+      <span class="prevalue">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="perchange">
+      <span>&#37; Change</span>
+      <span class="pchange">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="msg">
+      <span class="message"></span><br>
+    </div>
+    
+  </div>
+  <div id="CO">
+    <h3>Cardiac Output</h3>
   
-    <p>Value: </p>
-    <span class="val1"></span><br>
-    <p>Current Nature: </p>
-    <span class="condition"></span><br>
-    <span class="message"></span><br>
-    <p>Nature of Change: </p>
-    <span class="change"></span>
-  
+    <div class="value">
+      <span class="val1">&#91;INACTIVE&#93;</span><br>
+    </div>
+    <div class="nature">
+      <span>Current Nature: </span><br>
+      <span class="condition">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="noc">
+      <span>Nature of Change: </span><br>
+      <span class="change">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="percent">
+      <span>Drift:</span>
+      <div class="drift">&#91;INACTIVE&#93;</div>
+    </div>
+    <div class="msg">
+      <span class="message"></span><br>
+    </div>
+    
+    </div>
   <h3 id="TBlood">Blood Temperature</h3>
-  <h3 id="PAP">Pulmonary Artery Pressure</h3>
+  <div id="PAP">
+    <h3>Pulmonary Artery Pressure</h3>
   
-  <p>Systolic: </p>
-    <span class="val2"></span><br>
-  <p>Mean: </p>
-    <span class="val3"></span><br>
-  <p>Diastolic: </p>
-    <span class="val1"></span><br>
-    <p>Current Nature: </p>
-    <span class="condition"></span><br>
-    <span class="message"></span><br>
-    <p>Nature of Change: </p>
-    <span class="change"></span>
+    <div class="value">
+      <div class="systolic">
+        <span>Systolic </span><br>
+        <span class="val2">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
+      </div>
+      <div class="mean">
+      <span>Mean </span><br>
+        <span class="val3">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
+      </div>
+      <div class="diastolic">
+      <span>Diastolic </span><br>
+        <span class="val1">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
+      </div>
+    </div>
     
-  <h3 id="LAP">LAP</h3>
- 
-    <p>Value: </p>
-    <span class="val1"></span><br>
-    <p>Current Nature: </p>
-    <span class="condition"></span><br>
-    <span class="message"></span><br>
-    <p>Nature of Change: </p>
-    <span class="change"></span>
-
-  <h3  id="CVP">Central Venous Pressure</h3>
-  
-    <p>Value: </p>
-    <span class="val1"></span><br>
-    <p>Current Nature: </p>
-    <span class="condition"></span><br>
-    <span class="message"></span><br>
-    <p>Nature of Change: </p>
-    <span class="change"></span>
-
-  <h3  id="EtCO2">End Tidal CO2</h3>
-  
-    <p>Value: </p>
-    <span class="val1"></span><br>
-    <p>Current Nature: </p>
-    <span class="condition"></span><br>
-    <span class="message"></span><br>
-    <p>Nature of Change: </p>
-    <span class="change"></span>
+    <br>
+      <div class="nature">
+        <span >Current Nature: </span>
+        <span class="condition">&#91;INACTIVE&#93;</span><br>
+      </div>
+      <div class="noc">
+        <span>Nature of Change: </span>
+        <span class="change">&#91;INACTIVE&#93;</span>
+      </div>
+      <div class="percent">
+        <span>Drift:</span>
+        <div class="drift">&#91;INACTIVE&#93;</div>
+      </div>
+      <div class="msg">
+        <span class="message"></span><br>
+      </div>
+      
     
-  <h3 id="AWRR">Airway Respiratory Rate</h3>
-  
-    <p>Value: </p>
-    <span class="val1"></span><br>
-    <p>Current Nature: </p>
-    <span class="condition"></span><br>
-    <span class="message"></span><br>
-    <p>Nature of Change: </p>
-    <span class="change"></span>
+  </div>
+  <div id="NBP">
+      <h3>Non-Invasive Blood Pressure</h3>
+    
+      <div class="value">
+        <div class="systolic">
+          <span>Systolic </span><br>
+          <span class="val2">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
+        </div>
+        <div class="mean">
+        <span>Mean </span><br>
+          <span class="val3">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
+        </div>
+        <div class="diastolic">
+        <span>Diastolic </span><br>
+          <span class="val1">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
+        </div>
+    </div>
+    </div>
+      <br>
+        <div class="nature">
+          <span >Current Nature: </span>
+          <span class="condition">&#91;INACTIVE&#93;</span><br>
+        </div>
+        <div class="noc">
+          <span>Nature of Change: </span>
+          <span class="change">&#91;INACTIVE&#93;</span>
+        </div>
+        <div class="percent">
+          <span>Drift:</span>
+          <div class="drift">&#91;INACTIVE&#93;</div>
+        </div>
+        <div class="msg">
+          <span class="message"></span><br>
+        </div>
+    
+  </div>
+  <div id="LAP">
+  <h3>LAP</h3>
  
-  <h3 id="PAWP">Pulmonary Artery Wedge Pressure</h3>
+    <div class="value">
+      <span class="val1">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span><br>
+    </div>
+    <div class="nature">
+      <span>Current Nature: </span><br>
+      <span class="condition">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="noc">
+      <span>Nature of Change: </span><br>
+      <span class="change">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="percent">
+      <span>Drift:</span>
+      <div class="drift">&#91;INACTIVE&#93;</div>
+    </div>
+    <div class="msg">
+      <span class="message"></span><br>
+    </div>
+    
+  </div>
+  <div id="CVP">
+    <h3>Central Venous Pressure</h3>
   
-    <p>Value: </p>
-    <span class="val1"></span><br>
-    <p>Current Nature: </p>
-    <span class="condition"></span><br>
-    <span class="message"></span><br>
-    <p>Nature of Change: </p>
-    <span class="change"></span>
+    <div class="value">
+      <span class="val1"></span><span style="font-size: 10px;">mmHg</span><br>
+    </div>
+    <div class="nature">
+      <span>Current Nature: </span><br>
+      <span class="condition"></span>
+    </div>
+    <div class="noc">
+      <span>Nature of Change: </span><br>
+      <span class="change"></span>
+    </div>
+    <div class="percent">
+      <span>Drift:</span>
+      <div class="drift"></div>
+    </div>
+    <div class="msg">
+      <span class="message"></span><br>
+    </div>
+    
+  </div>
+  <div id="EtCO2">
+  <h3>End Tidal CO2</h3>
   
+    <div class="value">
+      <span class="val1">&#91;INACTIVE&#93;</span><br>
+    </div>
+    <div class="nature">
+      <span>Current Nature: </span><br>
+      <span class="condition">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="noc">
+      <span>Nature of Change: </span><br>
+      <span class="change">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="percent">
+      <span>Drift:</span>
+      <div class="drift">&#91;INACTIVE&#93;</div>
+    </div>
+    <div class="msg">
+      <span class="message"></span><br>
+    </div>
+    
+  </div> 
+  <div id="AWRR">
+    <h3>Airway Respiratory Rate</h3>
+  
+    <div class="value">
+      <span class="val1">&#91;INACTIVE&#93;</span><br>
+    </div>
+    <div class="nature">
+      <span>Current Nature: </span><br>
+      <span class="condition">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="noc">
+      <span>Nature of Change: </span><br>
+      <span class="change">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="percent">
+      <span>Drift:</span>
+      <div class="drift">&#91;INACTIVE&#93;</div>
+    </div>
+    <div class="msg">
+      <span class="message"></span><br>
+    </div>
+    
+  </div>
+  <div id="PAWP">
+    <h3>Pulmonary Artery Wedge Pressure</h3>
+  
+    <div class="value">
+      <span class="val1">&#91;INACTIVE&#93;</span><br>
+    </div>
+    <div class="nature">
+      <span>Current Nature: </span><br>
+      <span class="condition">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="noc">
+      <span>Nature of Change: </span><br>
+      <span class="change">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="percent">
+      <span>Drift:</span>
+      <div class="drift">&#91;INACTIVE&#93;</div>
+    </div>
+    <div class="msg">
+      <span class="message"></span><br>
+    </div>
+    
+  </div>
   <h3 id="IMCO2">Inspired Minimum CO2</h3>
   <h3 id="ART">ART</h3>
   <h3 id="ART1">ART1</h3>
@@ -236,6 +558,8 @@
   <h3 id="ST3">ST3</h3>
   <h3 id="P4">P4</h3>
   <h3 id="Unlicensed assistive personnel">UAP</h3>
+
+ 
 
 </div>
   {% endblock %}

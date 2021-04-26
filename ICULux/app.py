@@ -1,16 +1,17 @@
 import json
+import pickle
 import random
 import time
 
 import flask
 import mysql
-#import numpy as np
+import numpy as np
 
 from flask import Flask, render_template, flash, redirect, request, session, abort, jsonify, url_for, Response, \
      stream_with_context, render_template_string
 from flaskext.mysql import MySQL
 from mysql import connector
-from pandas import np
+import pandas as pd
 from pyspark.sql import SQLContext, SparkSession
 import pyspark.sql.functions as sqf
 import os
@@ -29,6 +30,7 @@ import os
 
 
 app = Flask(__name__)
+model_fitted = pickle.load(open('model.pkl', 'rb'))
 
 app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_USER'] = 'root'
@@ -401,7 +403,7 @@ def data():
      div = 1/len(distinct_rows)
 
 
-     rows = readfrmfile.collect()
+
 
      os.remove("tmp/temp.txt")
 
@@ -412,13 +414,16 @@ def data():
 def data_stream():
      temp()
 
+     temp_train = train.copy(deep=True)
+     temp_db = main_db.copy(deep=True)
      def inner(rows, dict):
+
 
           # simulate a long process to watch
           ntu = ""
           # print(rows)
 
-          for i in rows:
+          for i in rows[-10*60:]:
                name = i[0]
                val1 = i[1]
                val2 = i[2]
@@ -427,7 +432,7 @@ def data_stream():
                time.sleep(div)
                # this value should be inserted into an HTML template
                if (val3 != None and val2 != None):
-                    if (len(dict[name]) <= 10):
+                    if (len(dict[name]) <= 30):
                          dict[name].append(val3)
                     else:
                          dict[name].pop(0)
@@ -466,6 +471,13 @@ def data_stream():
                          message = ""
                          ntu = "Normal"
 
+                    if (int_or_float(val3) == 0):
+                         condition = "[INACTIVE]"
+                         ntu = "[INACTIVE]"
+
+                    if (int_or_float(val3) == dict[name][len(dict[name]) - 1]):
+                         ntu = "No change detected"
+
                     variance_det = "No drift detected"
                     if adwin[name].detected_change():
                          print("Percentage Variance{}".format(adwin[name].variance))
@@ -482,10 +494,12 @@ def data_stream():
                          "drift": variance_det
                     }
 
+
+
                     _data = json.dumps(data2)
                     yield f"id: 1\ndata: {_data}\nevent: online\n\n"
                else:
-                    if (len(dict[name]) <= 10):
+                    if (len(dict[name]) <= 30):
                          dict[name].append(val1)
                     else:
                          dict[name].pop(0)
@@ -549,6 +563,9 @@ def data_stream():
                          "change": ntu,
                          "drift": variance_det
                     }
+
+
+
                     _data = json.dumps(data2)
                     yield f"id: 1\ndata: {_data}\nevent: online\n\n"
 

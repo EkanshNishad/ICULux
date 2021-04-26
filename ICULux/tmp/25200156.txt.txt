@@ -1,0 +1,3517 @@
+[21:31:17 20/11/1995]	25200156.txt
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	19
+ABP   	85	119	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	19
+ABP   	86	119	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	19
+ABP   	86	120	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	19
+ABP   	86	120	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	19
+ABP   	86	120	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	19
+ABP   	87	121	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	18
+ABP   	87	122	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	67
+HR    	67
+RESP  	17
+ABP   	87	122	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	67
+HR    	67
+RESP  	19
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	67
+HR    	67
+RESP  	16
+ABP   	88	123	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	67
+HR    	67
+RESP  	16
+ABP   	87	123	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	122	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	122	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	122	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	122	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	122	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	85	121	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	122	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	86	122	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	86	122	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	86	122	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	86	122	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	87	122	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	87	123	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	87	123	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	128	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	128	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	128	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	128	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	91	127	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	90	127	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	90	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	15
+ABP   	89	126	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	15
+ABP   	89	126	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	67
+RESP  	15
+ABP   	88	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	15
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	15
+ABP   	87	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	15
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	15
+ABP   	87	123	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	14
+ABP   	87	123	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	14
+ABP   	87	123	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	14
+ABP   	87	123	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	14
+ABP   	87	123	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	15
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	15
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	15
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	15
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	89	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	89	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	89	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	14
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	88	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	17
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	90	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	17
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	15
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	17
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	18
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	18
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	18
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	18
+ABP   	90	126	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	18
+ABP   	90	126	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	18
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	18
+ABP   	90	126	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	19
+ABP   	90	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	19
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	19
+ABP   	90	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	19
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	19
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	17
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	17
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	17
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	17
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	17
+ABP   	90	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	17
+ABP   	90	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	17
+ABP   	90	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	126	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	67
+HR    	67
+RESP  	15
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	67
+HR    	67
+RESP  	14
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	67
+HR    	67
+RESP  	13
+ABP   	87	122	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	67
+HR    	67
+RESP  	13
+ABP   	87	122	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	67
+HR    	67
+RESP  	13
+ABP   	87	122	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	67
+HR    	67
+RESP  	13
+ABP   	87	122	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	67
+HR    	67
+RESP  	13
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	13
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	13
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	13
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	13
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	13
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	13
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	13
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	13
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	13
+ABP   	90	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	13
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	13
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	13
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	13
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	13
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	13
+ABP   	92	129	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	13
+ABP   	93	129	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	13
+ABP   	93	129	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	13
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	13
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	13
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	13
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	13
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	13
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	13
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	13
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	130	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	128	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	17
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	67
+HR    	67
+RESP  	18
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	67
+HR    	67
+RESP  	18
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	67
+HR    	67
+RESP  	18
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	67
+HR    	67
+RESP  	18
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	18
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	18
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	18
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	18
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	87	123	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	122	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	122	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	86	121	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	121	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	121	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	121	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	121	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	121	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	121	66
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	121	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	121	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	121	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	87	122	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	87	122	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	87	122	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	87	122	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	126	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	126	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	126	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	126	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	126	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	93	129	72
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	65
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	65
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	65
+RESP  	16
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	91	128	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	91	128	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	65
+RESP  	16
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	90	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	65
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	90	126	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	87	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	17
+ABP   	87	122	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	17
+ABP   	87	122	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	17
+ABP   	87	122	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	17
+ABP   	87	121	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	86	121	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	86	120	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	86	120	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	86	120	67
+NBP   	0	0	0
+SpO2  	94
+PULSE 	68
+HR    	66
+RESP  	16
+ABP   	85	119	66
+NBP   	0	0	0
+SpO2  	94
+PULSE 	68
+HR    	66
+RESP  	16
+ABP   	85	119	66
+NBP   	0	0	0
+SpO2  	94
+PULSE 	68
+HR    	66
+RESP  	16
+ABP   	85	118	66
+NBP   	0	0	0
+SpO2  	94
+PULSE 	68
+HR    	66
+RESP  	16
+ABP   	85	118	66
+NBP   	0	0	0
+SpO2  	94
+PULSE 	68
+HR    	66
+RESP  	16
+ABP   	85	118	66
+NBP   	0	0	0
+SpO2  	94
+PULSE 	68
+HR    	66
+RESP  	16
+ABP   	85	118	66
+NBP   	0	0	0
+SpO2  	94
+PULSE 	68
+HR    	66
+RESP  	16
+ABP   	85	118	66
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	85	118	66
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	85	118	65
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	85	119	66
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	85	119	66
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	85	119	66
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	85	119	66
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	85	120	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	85	120	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	86	121	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	86	121	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	86	122	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	87	122	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	87	122	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	67
+HR    	66
+RESP  	16
+ABP   	87	123	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	67
+HR    	66
+RESP  	16
+ABP   	87	123	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	67
+HR    	67
+RESP  	16
+ABP   	86	122	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	67
+HR    	67
+RESP  	15
+ABP   	86	122	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	67
+HR    	67
+RESP  	15
+ABP   	86	122	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	67
+HR    	67
+RESP  	15
+ABP   	86	122	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	67
+HR    	67
+RESP  	15
+ABP   	85	122	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	122	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	85	122	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	85	121	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	85	121	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	122	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	122	66
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	86	122	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	87	123	67
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	127	70
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	127	70
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	91	127	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	92	129	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	92	129	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	92	129	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	17
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	19
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	65
+HR    	66
+RESP  	19
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	17
+ABP   	92	129	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	92	128	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	92	128	72
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	18
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	18
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	18
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	18
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	67
+RESP  	18
+ABP   	92	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	91	128	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	91	128	71
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	18
+ABP   	91	128	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	18
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	18
+ABP   	91	128	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	18
+ABP   	91	128	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	18
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	18
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	18
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	18
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	18
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	91	127	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	65
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	88	123	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	14
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	68
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	88	124	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	68
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	124	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	89	125	69
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	125	70
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	125	70
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	125	70
+NBP   	0	0	0
+SpO2  	95
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	126	70
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	125	69
+NBP   	0	0	0
+SpO2  	94
+PULSE 	66
+HR    	66
+RESP  	16
+ABP   	90	125	69

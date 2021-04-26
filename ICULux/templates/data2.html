@@ -35,6 +35,15 @@
       name = '#' + name
       
       var element = document.querySelector(name)
+      if(data.prediction != undefined && data.prediction != null)
+      {
+        element.querySelector(".prevalue").innerText = data.prediction
+      }
+
+      if(data.perchange != undefined && data.perchange != null)
+      {
+        element.querySelector(".pchange").innerText = data.perchange
+      }
       element.querySelector(".val1").innerText = data.val1
       element.querySelector(".condition").innerText = String(data.condition)
       if(data.message != undefined && data.message != null)
@@ -56,7 +65,12 @@
       {
         element.querySelector(".val3").innerText = data.val3
       }
-      element.querySelector(".drift").innerText = data.drift
+      element.querySelector(".drift").innerText = data.prediction
+
+      
+      
+      
+      
     }, true)
 </script>
 <h3>Patient Information</h3>
@@ -110,7 +124,15 @@
     </div>
     <div class="percent">
       <span>Drift:</span>
-      <div class="drift">&#91;INACTIVE&#93;</div>
+      <span class="drift">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="prediction">
+      <span>Predicted Value:</span>
+      <span class="prevalue">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="perchange">
+      <span>&#37; Change</span>
+      <span class="pchange">&#91;INACTIVE&#93;</span>
     </div>
     <div class="msg">
       <span class="message"></span><br>
@@ -240,7 +262,15 @@
     </div>
     <div class="percent">
       <span>Drift:</span>
-      <div class="drift">&#91;INACTIVE&#93;</div>
+      <span class="drift">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="prediction">
+      <span>Predicted Value:</span>
+      <span class="prevalue">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="perchange">
+      <span>&#37; Change</span>
+      <span class="pchange">&#91;INACTIVE&#93;</span>
     </div>
     <div class="msg">
       <span class="message"></span><br>
@@ -263,7 +293,15 @@
     </div>
     <div class="percent">
       <span>Drift:</span>
-      <div class="drift">&#91;INACTIVE&#93;</div>
+      <span class="drift">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="prediction">
+      <span>Predicted Value:</span>
+      <span class="prevalue">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="perchange">
+      <span>&#37; Change</span>
+      <span class="pchange">&#91;INACTIVE&#93;</span>
     </div>
     <div class="msg">
       <span class="message"></span><br>
@@ -286,7 +324,15 @@
     </div>
     <div class="percent">
       <span>Drift:</span>
-      <div class="drift">&#91;INACTIVE&#93;</div>
+      <span class="drift">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="prediction">
+      <span>Predicted Value:</span>
+      <span class="prevalue">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="perchange">
+      <span>&#37; Change</span>
+      <span class="pchange">&#91;INACTIVE&#93;</span>
     </div>
     <div class="msg">
       <span class="message"></span><br>
@@ -455,7 +501,7 @@
       <div class="drift">&#91;INACTIVE&#93;</div>
     </div>
     <div class="msg">
-      <span class="message">&#91;INACTIVE&#93;</span><br>
+      <span class="message"></span><br>
     </div>
     
   </div> 

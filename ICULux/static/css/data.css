@@ -113,8 +113,25 @@ h3{
     background-color: whitesmoke;
      align-items: center;
   }
+
+  .perchange, .prediction{
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    padding: 30px 30px 30px 30px;
+    margin-left: 10px;
+    width: 30%;
+    height: 150px;
+    background-color: whitesmoke;
+     align-items: center;
+  }
+
   .nature{
     left: 15%;
+  }
+
+  .prediction{
+    left: 25%;
   }
 
   .noc{
@@ -123,6 +140,24 @@ h3{
 
   .percent{
     right: 15%;
+  }
+
+  .perchange{
+    right: 25%;
+  }
+
+  .prevalue{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    color: #555;
+  }
+
+  .pchange{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    color: #555;
   }
   
   .message{
@@ -137,18 +172,20 @@ h3{
   .change{
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    font-size: 40px;
+    font-size: 30px;
   }
   .drift{
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    font-size: 40px;
+    font-size: 30px;
   }
   .condition{
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    font-size: 40px;
+    font-size: 30px;
   }
+
+  
 
 
   
