@@ -1,0 +1,5393 @@
+[03:57:19 04/03/1995]	05500219.txt 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+PAP   	48	55	41 
+ABP   	109	139	95 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	109	140	95 
+PAP   	48	55	42 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+PAP   	47	55	41 
+ABP   	108	139	94 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	109	140	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	109	140	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	108	139	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+PAP   	47	55	41 
+ABP   	108	139	94 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	108	139	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+PAP   	47	54	40 
+ABP   	108	139	94 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	139	94 
+PAP   	47	54	41 
+C.O.  	4.49 
+Tblood	37 
+ALARM	** VPBs > 5/MIN    
+SpO2  	100 
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	139	94 
+PAP   	47	54	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	139	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	139	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37 
+ALARM	** VPBs > 5/MIN    
+SpO2  	100 
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	139	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+PAP   	47	55	41 
+ABP   	109	140	95 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	140	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	140	94 
+PAP   	47	54	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	140	94 
+PAP   	47	54	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	107	139	93 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+PAP   	46	54	40 
+ABP   	108	140	94 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+ABP   	107	139	93 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+ABP   	108	139	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+ABP   	108	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+ABP   	108	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+ABP   	109	141	95 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+ABP   	108	140	94 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+ABP   	109	141	95 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+PAP   	46	54	40 
+ABP   	109	141	95 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+ABP   	109	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+ABP   	109	141	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+PAP   	47	55	41 
+ABP   	109	141	95 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+ABP   	109	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+ABP   	109	141	95 
+PAP   	48	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+ABP   	109	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+ABP   	108	140	94 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+ABP   	108	140	94 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+PAP   	47	55	41 
+ABP   	108	141	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+PAP   	47	55	41 
+ABP   	107	139	93 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+PAP   	47	55	40 
+ABP   	107	139	93 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+PAP   	46	55	41 
+ABP   	107	139	93 
+C.O.  	4.49 
+Tblood	37.1 
+ALARM	** VPBs > 5/MIN    
+SpO2  	100 
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+PAP   	46	54	40 
+ABP   	106	138	92 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+ABP   	106	138	92 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	100 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	106	139	92 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	100 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	106	140	91 
+PAP   	43	52	35 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	100 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+PAP   	43	52	35 
+ABP   	107	139	92 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	100 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	106	140	92 
+PAP   	44	53	36 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	100 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	106	141	92 
+PAP   	44	53	36 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	100 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	107	142	93 
+PAP   	43	55	34 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	100 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	108	142	94 
+PAP   	43	55	35 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	106 
+PULSE 	86 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+PAP   	43	55	35 
+ABP   	108	141	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	106 
+PULSE 	80 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	110	142	96 
+PAP   	45	55	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	80 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	110	143	97 
+PAP   	45	55	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	80 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	110	142	96 
+PAP   	45	55	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	106 
+ALARM	** VPBs > 5/MIN    
+PULSE 	94 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	111	143	97 
+PAP   	45	55	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	106 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	110	142	97 
+PAP   	45	55	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	106 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	111	143	97 
+PAP   	45	55	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	106 
+PULSE 	108 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	111	144	97 
+PAP   	47	56	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	110	143	97 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	110	142	95 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	110	143	96 
+PAP   	48	56	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	109	142	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	109	142	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	110	143	95 
+PAP   	48	56	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	109	142	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	109	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+PAP   	48	56	42 
+ABP   	109	142	94 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	109	142	95 
+PAP   	48	56	42 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	108	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	109	141	94 
+PAP   	48	55	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+PAP   	47	55	41 
+ABP   	109	141	94 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+PAP   	47	55	41 
+ABP   	108	143	93 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	108	142	93 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	109	142	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	108	141	93 
+PAP   	47	54	40 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	100 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	109	141	94 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	100 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	109	141	94 
+PAP   	48	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	100 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	100 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	109	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	109	142	95 
+PAP   	48	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+PAP   	47	55	41 
+ABP   	108	141	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	109	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	108	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	108	140	93 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	140	93 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	142	93 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	107	140	93 
+PAP   	46	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	107	140	92 
+PAP   	46	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	100 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	107	140	93 
+PAP   	46	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	100 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	107	141	92 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	100 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	108	141	93 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	94 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	108	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	94 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	108	141	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	93 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	108	140	93 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	93 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	109	141	95 
+PAP   	48	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	100 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+PAP   	47	55	41 
+ABP   	109	140	95 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	100 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	109	141	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	110	142	96 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	110	142	96 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	109	141	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	110	142	95 
+PAP   	48	56	42 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	110	142	96 
+PAP   	48	56	42 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	109	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	109	142	95 
+PAP   	48	55	42 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+ABP   	110	142	95 
+PAP   	48	55	42 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	18 
+PAP   	47	55	41 
+ABP   	108	141	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	109	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	109	141	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+ALARM	** VPBs > 5/MIN    
+SpO2  	100 
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+PAP   	47	55	41 
+ABP   	108	140	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	109	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+PAP   	47	55	41 
+ABP   	109	141	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+PAP   	47	55	41 
+ABP   	108	140	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	140	94 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+PAP   	47	55	41 
+ABP   	109	141	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	107	140	93 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+PAP   	47	55	40 
+ABP   	108	140	93 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	140	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	107	139	93 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	140	93 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	108	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+PAP   	46	54	40 
+ABP   	108	140	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	109	141	95 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	109	140	94 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+ABP   	110	141	95 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+ABP   	109	141	95 
+PAP   	44	52	36 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+ABP   	110	142	95 
+PAP   	45	53	37 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+ABP   	110	142	96 
+PAP   	45	53	37 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+PAP   	45	53	37 
+ABP   	110	142	95 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+ABP   	111	143	96 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+PAP   	46	54	39 
+ABP   	110	143	96 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	21 
+ABP   	110	143	95 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	22 
+ABP   	110	144	96 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	22 
+ABP   	109	142	95 
+PAP   	44	52	35 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	22 
+ABP   	110	143	95 
+PAP   	44	52	35 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	22 
+ABP   	109	142	95 
+PAP   	44	52	35 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	22 
+ABP   	109	142	94 
+PAP   	44	52	35 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	23 
+ABP   	109	141	95 
+PAP   	45	53	36 
+C.O.  	4.49 
+Tblood	37.1 
+ALARM	** VPBs > 5/MIN    
+SpO2  	100 
+HR    	109 
+PULSE 	109 
+RESP  	23 
+PAP   	44	52	36 
+ABP   	109	141	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	24 
+ABP   	109	142	95 
+PAP   	45	53	37 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	24 
+ABP   	108	141	94 
+PAP   	44	53	37 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	109 
+RESP  	24 
+ABP   	109	141	95 
+PAP   	45	53	37 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	24 
+PAP   	45	53	37 
+ABP   	109	142	95 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	24 
+ABP   	109	142	95 
+PAP   	44	53	37 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	24 
+ABP   	110	143	95 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+ALARM	** VPBs > 5/MIN    
+SpO2  	100 
+HR    	108 
+PULSE 	108 
+RESP  	24 
+ABP   	109	142	95 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	24 
+ABP   	110	143	95 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	24 
+ABP   	110	143	96 
+PAP   	45	53	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	24 
+ABP   	109	142	95 
+PAP   	45	53	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	24 
+ABP   	110	143	95 
+PAP   	46	53	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	24 
+ABP   	109	142	94 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	24 
+ABP   	110	143	95 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	24 
+ABP   	109	143	94 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	24 
+PAP   	45	53	39 
+ABP   	109	142	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	24 
+ABP   	109	142	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	24 
+ABP   	109	142	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	24 
+ABP   	109	142	94 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	23 
+ABP   	109	142	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	23 
+ABP   	108	141	93 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	23 
+ABP   	109	141	94 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	22 
+ABP   	109	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	22 
+ABP   	108	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	22 
+ABP   	109	141	94 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	22 
+ABP   	109	142	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	22 
+PAP   	46	54	38 
+ABP   	108	141	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	22 
+ABP   	109	141	94 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	21 
+ABP   	109	142	95 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	21 
+ABP   	109	141	94 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	21 
+ABP   	109	141	95 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	21 
+PAP   	46	54	39 
+ABP   	108	141	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	21 
+ABP   	108	140	94 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	22 
+ABP   	109	141	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	22 
+PAP   	46	54	39 
+ABP   	108	140	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	22 
+ABP   	109	141	94 
+PAP   	47	54	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	22 
+ABP   	109	141	95 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	22 
+ABP   	108	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	21 
+PAP   	47	54	41 
+ABP   	109	141	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	21 
+ABP   	109	141	95 
+PAP   	46	54	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	21 
+ABP   	109	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+ALARM	** VPBs > 5/MIN    
+SpO2  	100 
+HR    	108 
+PULSE 	108 
+RESP  	21 
+ABP   	109	141	95 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	21 
+ABP   	108	140	95 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	21 
+ABP   	108	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	21 
+ABP   	109	141	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	21 
+ABP   	109	141	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	21 
+ABP   	108	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	21 
+ABP   	109	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	21 
+PAP   	47	55	41 
+ABP   	108	140	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	21 
+ABP   	108	140	93 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	21 
+ABP   	108	140	93 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	21 
+ABP   	108	140	94 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	21 
+ABP   	107	139	93 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	20 
+ABP   	108	139	94 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	20 
+ABP   	108	139	94 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	20 
+ABP   	108	139	93 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	20 
+ABP   	109	140	94 
+PAP   	46	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	20 
+ABP   	108	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	20 
+ABP   	108	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	20 
+ABP   	109	141	95 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	20 
+ABP   	109	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	20 
+ABP   	110	141	95 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+ALARM	** VPBs > 5/MIN    
+SpO2  	100 
+HR    	109 
+PULSE 	108 
+RESP  	20 
+PAP   	46	54	40 
+ABP   	109	141	95 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	109 
+RESP  	20 
+ABP   	110	141	95 
+PAP   	44	52	36 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	21 
+ABP   	110	142	95 
+PAP   	45	53	37 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	21 
+ABP   	110	142	95 
+PAP   	45	53	37 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	21 
+ABP   	110	142	95 
+PAP   	45	53	37 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	21 
+PAP   	45	53	37 
+ABP   	110	142	96 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	21 
+ABP   	110	142	95 
+PAP   	45	53	37 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	110 
+ALARM	** VPBs > 5/MIN    
+PULSE 	109 
+RESP  	22 
+ABP   	110	143	96 
+PAP   	45	54	38 
+C.O.  	4.49 
+Tblood	37.1 
+ALARM	** VPBs > 5/MIN    
+SpO2  	100 
+HR    	110 
+PULSE 	109 
+RESP  	22 
+ABP   	109	142	95 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	22 
+ABP   	110	143	95 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	22 
+ABP   	109	142	95 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	22 
+ABP   	109	142	95 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	23 
+ABP   	109	142	95 
+PAP   	45	54	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	23 
+ABP   	109	141	94 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	24 
+ABP   	109	142	95 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	24 
+PAP   	45	53	38 
+ABP   	109	141	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	24 
+ABP   	109	142	94 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	110 
+ALARM	** VPBs > 5/MIN    
+PULSE 	109 
+RESP  	24 
+ABP   	109	142	95 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	24 
+ABP   	109	142	94 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	23 
+ABP   	110	142	95 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	23 
+ABP   	109	143	95 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	110 
+ALARM	** VPBs > 5/MIN    
+PULSE 	109 
+RESP  	23 
+ABP   	109	142	94 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	24 
+ABP   	110	143	95 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	24 
+ABP   	109	142	94 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	24 
+ABP   	110	143	95 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	23 
+ABP   	109	143	95 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	23 
+ABP   	109	142	94 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	23 
+ABP   	110	143	95 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	23 
+PAP   	46	54	40 
+ABP   	109	142	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	23 
+ABP   	109	142	94 
+PAP   	44	52	36 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	23 
+ABP   	109	142	94 
+PAP   	45	53	36 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	23 
+PAP   	44	53	37 
+ABP   	108	141	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	109 
+RESP  	23 
+ABP   	109	141	94 
+PAP   	45	53	37 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	22 
+ABP   	109	142	94 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	22 
+ABP   	109	141	94 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	22 
+ABP   	109	141	94 
+PAP   	46	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	21 
+PAP   	46	54	39 
+ABP   	109	142	95 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	21 
+ABP   	109	141	94 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	22 
+ABP   	110	142	95 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	22 
+ABP   	109	141	95 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	22 
+ABP   	109	142	95 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	22 
+ABP   	109	142	95 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	22 
+ABP   	109	141	94 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	22 
+ABP   	110	142	95 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	110 
+ALARM	** VPBs > 5/MIN    
+PULSE 	109 
+RESP  	22 
+ABP   	109	142	95 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	110 
+RESP  	23 
+ABP   	110	143	95 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	110 
+RESP  	23 
+ABP   	110	142	95 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	110 
+ALARM	** VPBs > 5/MIN    
+PULSE 	111 
+RESP  	23 
+ABP   	111	143	96 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	111 
+RESP  	23 
+ABP   	111	144	96 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	111 
+PULSE 	111 
+RESP  	23 
+ABP   	111	144	96 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	111 
+PULSE 	111 
+RESP  	24 
+ABP   	111	144	96 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	111 
+PULSE 	111 
+RESP  	24 
+ABP   	111	144	96 
+PAP   	45	54	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	111 
+PULSE 	111 
+RESP  	25 
+ABP   	112	145	96 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	111 
+PULSE 	111 
+RESP  	25 
+ABP   	111	144	96 
+PAP   	45	53	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	111 
+PULSE 	111 
+RESP  	25 
+ABP   	112	145	97 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+ALARM	** VPBs > 5/MIN    
+PULSE 	111 
+RESP  	25 
+ABP   	111	145	97 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	111 
+PULSE 	111 
+RESP  	25 
+ABP   	111	145	96 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	111 
+PULSE 	111 
+RESP  	25 
+ABP   	111	145	97 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+ALARM	** VPBs > 5/MIN    
+PULSE 	110 
+RESP  	25 
+ABP   	111	145	96 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	111 
+PULSE 	110 
+RESP  	25 
+ABP   	112	145	96 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	111 
+PULSE 	110 
+RESP  	25 
+ABP   	111	145	96 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	110 
+RESP  	25 
+ABP   	111	145	96 
+PAP   	45	53	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	110 
+RESP  	25 
+PAP   	46	54	39 
+ABP   	112	146	96 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	110 
+RESP  	25 
+ABP   	111	144	96 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	110 
+ALARM	** VPBs > 5/MIN    
+PULSE 	110 
+RESP  	25 
+ABP   	111	145	96 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	110 
+RESP  	24 
+ABP   	111	147	95 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	24 
+ABP   	110	145	95 
+PAP   	45	54	38 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	24 
+ABP   	110	145	95 
+PAP   	46	55	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	103 
+RESP  	23 
+ABP   	111	145	95 
+PAP   	46	55	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	96 
+RESP  	23 
+PAP   	45	54	38 
+ABP   	110	144	94 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	96 
+RESP  	23 
+ABP   	110	144	95 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	95 
+RESP  	22 
+ABP   	111	145	96 
+PAP   	47	56	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	95 
+RESP  	22 
+ABP   	110	144	95 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	22 
+ABP   	111	144	95 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	21 
+ABP   	111	145	96 
+PAP   	48	56	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	21 
+ABP   	110	144	96 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	21 
+ABP   	110	144	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	21 
+ABP   	111	145	96 
+PAP   	48	56	42 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	21 
+ABP   	110	144	95 
+PAP   	47	56	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	21 
+ABP   	110	144	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	20 
+ABP   	111	144	95 
+PAP   	48	56	42 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	20 
+ABP   	110	144	96 
+PAP   	47	56	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	20 
+ABP   	109	143	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	20 
+ABP   	109	143	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	19 
+ABP   	109	142	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	19 
+ABP   	108	142	93 
+PAP   	46	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	19 
+ABP   	109	142	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	19 
+ABP   	108	142	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	19 
+ABP   	108	141	93 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	19 
+ABP   	109	142	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	19 
+ABP   	109	143	94 
+PAP   	48	55	42 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	19 
+ABP   	108	141	93 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	19 
+ABP   	109	142	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	19 
+ABP   	109	142	94 
+PAP   	48	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	19 
+ABP   	108	141	93 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	19 
+ABP   	108	141	93 
+PAP   	46	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	19 
+ABP   	109	142	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	19 
+ABP   	108	142	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	19 
+ABP   	108	141	93 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	19 
+ABP   	109	142	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	19 
+ABP   	108	141	94 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	19 
+ABP   	109	141	94 
+PAP   	47	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	19 
+ABP   	109	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	19 
+ABP   	109	142	95 
+PAP   	48	55	42 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	19 
+ABP   	108	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	19 
+ABP   	109	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+ALARM	** VPBs > 5/MIN    
+SpO2  	100 
+HR    	109 
+PULSE 	108 
+RESP  	18 
+ABP   	110	142	95 
+PAP   	48	55	42 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	18 
+ABP   	108	141	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	18 
+ABP   	108	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	18 
+ABP   	109	141	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	18 
+ABP   	108	140	94 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	18 
+ABP   	108	140	94 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	19 
+ABP   	108	140	95 
+PAP   	47	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	19 
+ABP   	108	140	94 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	19 
+ABP   	109	141	95 
+PAP   	47	55	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	19 
+ABP   	109	141	95 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	109 
+RESP  	19 
+ABP   	109	141	95 
+PAP   	46	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	109 
+RESP  	20 
+ABP   	109	142	96 
+PAP   	46	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	20 
+ABP   	110	142	95 
+PAP   	45	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	21 
+ABP   	110	143	96 
+PAP   	46	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	109 
+RESP  	21 
+PAP   	45	55	41 
+ABP   	110	143	96 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	22 
+ABP   	111	144	96 
+PAP   	46	55	41 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	22 
+ABP   	110	143	96 
+PAP   	45	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	23 
+ABP   	110	143	96 
+PAP   	45	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	108 
+RESP  	23 
+ABP   	110	143	96 
+PAP   	45	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	109 
+RESP  	23 
+ABP   	110	143	96 
+PAP   	45	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	110 
+ALARM	** VPBs > 5/MIN    
+PULSE 	109 
+RESP  	24 
+ABP   	110	143	96 
+PAP   	45	54	40 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	110 
+ALARM	** VPBs > 5/MIN    
+PULSE 	110 
+RESP  	24 
+PAP   	45	54	40 
+ABP   	110	143	96 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	110 
+RESP  	24 
+PAP   	45	54	40 
+ABP   	110	144	96 
+C.O.  	4.49 
+Tblood	37.1 
+ALARM	** VPBs > 5/MIN    
+SpO2  	100 
+HR    	110 
+PULSE 	110 
+RESP  	23 
+PAP   	45	54	39 
+ABP   	110	143	95 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	110 
+RESP  	23 
+ABP   	110	143	95 
+PAP   	45	54	39 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	110 
+RESP  	24 
+ABP   	110	143	95 
+PAP   	43	51	35 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	110 
+RESP  	24 
+ABP   	110	143	95 
+PAP   	43	52	36 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	110 
+RESP  	25 
+ABP   	110	142	94 
+PAP   	42	52	35 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	110 
+RESP  	25 
+ABP   	109	142	93 
+PAP   	42	51	35 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	110 
+RESP  	26 
+ABP   	108	142	93 
+PAP   	42	51	35 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	110 
+ALARM	** VPBs > 5/MIN    
+PULSE 	110 
+RESP  	26 
+ABP   	107	141	92 
+PAP   	41	50	34 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	110 
+RESP  	26 
+ABP   	106	139	91 
+PAP   	41	50	34 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	110 
+ALARM	** VPBs > 5/MIN    
+PULSE 	109 
+RESP  	26 
+ABP   	105	138	90 
+PAP   	40	50	33 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	108 
+RESP  	27 
+ABP   	105	138	90 
+PAP   	40	50	33 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	110 
+PULSE 	108 
+RESP  	27 
+ABP   	103	139	88 
+PAP   	40	50	33 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	27 
+ABP   	103	138	88 
+PAP   	40	50	33 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	27 
+ABP   	101	135	86 
+PAP   	39	49	33 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	27 
+ABP   	101	135	86 
+PAP   	39	49	33 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	27 
+ABP   	100	134	85 
+PAP   	38	48	31 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	29 
+PAP   	38	48	31 
+ABP   	101	134	85 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	29 
+ABP   	100	133	85 
+PAP   	38	48	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	29 
+ABP   	101	133	86 
+PAP   	38	47	31 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	28 
+ABP   	101	133	86 
+PAP   	38	48	31 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	28 
+ABP   	102	133	87 
+PAP   	38	47	31 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	28 
+ABP   	103	134	88 
+PAP   	38	48	31 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	28 
+ABP   	102	133	87 
+PAP   	37	46	28 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	27 
+ABP   	102	134	87 
+PAP   	37	46	28 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	108 
+RESP  	27 
+ABP   	102	135	88 
+PAP   	37	46	29 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	108 
+RESP  	27 
+ABP   	103	134	88 
+PAP   	37	46	29 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	26 
+PAP   	37	46	29 
+ABP   	102	135	88 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	26 
+ABP   	102	135	87 
+PAP   	37	46	29 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	25 
+ABP   	102	134	88 
+PAP   	37	46	29 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	101 
+RESP  	25 
+ABP   	102	133	87 
+PAP   	37	46	29 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	101 
+RESP  	26 
+ABP   	102	133	88 
+PAP   	37	47	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	101 
+RESP  	26 
+ABP   	102	133	88 
+PAP   	37	47	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	101 
+RESP  	26 
+ABP   	102	133	88 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	101 
+RESP  	25 
+ABP   	102	133	88 
+PAP   	37	47	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	101 
+RESP  	25 
+ABP   	102	133	88 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	101 
+RESP  	25 
+ABP   	102	134	88 
+PAP   	38	47	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	101 
+RESP  	25 
+PAP   	38	47	30 
+ABP   	101	134	88 
+C.O.  	4.49 
+Tblood	37 
+ALARM	** VPBs > 5/MIN    
+SpO2  	100 
+HR    	108 
+PULSE 	101 
+RESP  	25 
+ABP   	102	135	88 
+PAP   	37	47	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	101 
+RESP  	25 
+PAP   	37	47	30 
+ABP   	102	134	88 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	94 
+RESP  	25 
+ABP   	102	133	88 
+PAP   	37	47	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	94 
+RESP  	25 
+ABP   	103	134	89 
+PAP   	37	47	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	93 
+RESP  	25 
+ABP   	102	133	89 
+PAP   	37	47	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	100 
+RESP  	25 
+ABP   	103	134	89 
+PAP   	37	47	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	25 
+ABP   	103	134	90 
+PAP   	38	47	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	25 
+ABP   	103	134	90 
+PAP   	38	47	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	25 
+ABP   	103	134	90 
+PAP   	38	47	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	25 
+ABP   	103	134	89 
+PAP   	38	47	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	25 
+ABP   	103	134	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	25 
+PAP   	38	47	31 
+ABP   	103	134	89 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	25 
+ABP   	104	135	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	27 
+ABP   	104	134	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	27 
+ABP   	104	134	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	27 
+ABP   	105	135	91 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	27 
+ABP   	106	136	92 
+PAP   	39	49	34 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	27 
+ABP   	105	135	91 
+PAP   	39	49	34 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	28 
+ABP   	106	137	92 
+PAP   	39	49	34 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	28 
+ABP   	106	136	92 
+PAP   	39	49	33 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	28 
+ABP   	107	138	93 
+PAP   	39	49	34 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	28 
+ABP   	106	137	93 
+PAP   	39	49	33 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	28 
+ABP   	107	138	93 
+PAP   	39	49	33 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	28 
+ABP   	107	138	93 
+PAP   	39	48	33 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	29 
+ABP   	107	138	93 
+PAP   	39	48	33 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	29 
+PAP   	37	47	29 
+ABP   	106	137	92 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	29 
+ABP   	107	138	93 
+PAP   	37	47	29 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	29 
+ABP   	106	137	92 
+PAP   	37	47	28 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	29 
+PAP   	38	47	29 
+ABP   	106	137	92 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+PULSE 	107 
+RESP  	29 
+PAP   	37	47	29 
+ABP   	106	137	92 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+PULSE 	107 
+RESP  	28 
+ABP   	106	137	92 
+PAP   	38	47	29 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+PULSE 	107 
+RESP  	28 
+ABP   	106	137	92 
+PAP   	37	47	29 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+PULSE 	107 
+RESP  	28 
+ABP   	106	137	92 
+PAP   	37	47	29 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+PULSE 	107 
+RESP  	28 
+ABP   	105	137	92 
+PAP   	37	47	29 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+PULSE 	107 
+RESP  	28 
+ABP   	105	137	91 
+PAP   	37	47	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+PULSE 	107 
+RESP  	28 
+ABP   	106	138	92 
+PAP   	37	47	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+PULSE 	107 
+RESP  	28 
+ABP   	105	137	91 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+PULSE 	107 
+RESP  	27 
+ABP   	106	137	92 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+PULSE 	107 
+RESP  	27 
+ABP   	105	136	91 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+PULSE 	107 
+RESP  	27 
+ABP   	105	137	91 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+PULSE 	107 
+RESP  	27 
+ABP   	104	137	91 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+PULSE 	107 
+RESP  	27 
+ABP   	105	137	90 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+PULSE 	107 
+RESP  	27 
+ABP   	104	136	90 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+PULSE 	107 
+RESP  	27 
+ABP   	103	134	89 
+PAP   	36	46	29 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+PULSE 	101 
+RESP  	26 
+PAP   	37	46	30 
+ABP   	104	135	90 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+PULSE 	101 
+RESP  	26 
+ABP   	103	134	89 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+PULSE 	95 
+RESP  	26 
+ABP   	104	134	90 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+PULSE 	95 
+RESP  	26 
+ABP   	103	135	90 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+PULSE 	94 
+RESP  	26 
+ABP   	104	135	90 
+PAP   	36	46	30 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+PULSE 	94 
+RESP  	25 
+ABP   	105	136	90 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	108 
+PULSE 	94 
+RESP  	25 
+PAP   	37	46	30 
+ABP   	104	135	90 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	109 
+PULSE 	100 
+RESP  	25 
+ABP   	105	135	91 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	106 
+ALARM	** VPBs > 5/MIN    
+PULSE 	100 
+RESP  	24 
+ABP   	105	136	91 
+PAP   	37	46	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	100 
+RESP  	24 
+ABP   	104	135	90 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	106 
+RESP  	24 
+ABP   	105	136	91 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+RESP  	24 
+ABP   	105	135	91 
+PAP   	37	46	31 
+C.O.  	4.49 
+Tblood	37 
+ALARM	** VPBs > 5/MIN    
+SpO2  	100 
+HR    	107 
+PULSE 	106 
+RESP  	24 
+ABP   	105	136	91 
+PAP   	37	46	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+RESP  	24 
+ABP   	105	136	92 
+PAP   	39	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	106 
+RESP  	24 
+ABP   	104	135	91 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	23 
+ABP   	105	135	91 
+PAP   	39	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+RESP  	23 
+ABP   	104	135	91 
+PAP   	39	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+RESP  	23 
+ABP   	104	134	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	23 
+ABP   	104	135	91 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	23 
+ABP   	103	134	89 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	23 
+ABP   	104	134	89 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	23 
+ABP   	104	135	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	23 
+ABP   	103	134	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	22 
+ABP   	104	135	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	22 
+ABP   	103	133	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	22 
+ABP   	104	134	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	22 
+ABP   	104	134	91 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	22 
+ABP   	103	133	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	23 
+ABP   	104	134	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	23 
+ABP   	103	133	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	23 
+ABP   	104	134	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	23 
+ABP   	104	134	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	23 
+ABP   	104	133	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	23 
+PAP   	38	47	32 
+ABP   	104	134	91 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	23 
+ABP   	104	134	91 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	23 
+ABP   	104	134	91 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	23 
+ABP   	104	134	91 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	23 
+ABP   	104	134	91 
+PAP   	38	46	31 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	23 
+ABP   	105	134	91 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	23 
+ABP   	104	134	91 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	24 
+PAP   	38	47	32 
+ABP   	105	134	91 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	24 
+PAP   	38	47	32 
+ABP   	104	134	91 
+C.O.  	4.49 
+Tblood	37.1 
+ALARM	** VPBs > 5/MIN    
+SpO2  	100 
+HR    	108 
+PULSE 	107 
+RESP  	24 
+ABP   	104	134	91 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	24 
+ABP   	104	134	91 
+PAP   	40	48	34 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	24 
+ABP   	104	134	91 
+PAP   	39	47	34 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	24 
+ABP   	104	134	90 
+PAP   	39	48	33 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	24 
+ABP   	104	134	91 
+PAP   	39	48	33 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	24 
+ABP   	103	133	90 
+PAP   	39	47	33 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	24 
+ABP   	104	134	91 
+PAP   	39	48	33 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	24 
+ABP   	103	133	89 
+PAP   	39	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	24 
+ABP   	103	133	90 
+PAP   	39	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	23 
+ABP   	104	134	90 
+PAP   	39	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	23 
+ABP   	103	132	89 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	23 
+PAP   	39	48	33 
+ABP   	103	133	90 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	23 
+ABP   	103	133	89 
+PAP   	39	47	33 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	23 
+ABP   	102	132	89 
+PAP   	39	47	33 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	23 
+ABP   	103	132	89 
+PAP   	39	47	33 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+RESP  	23 
+ABP   	103	131	89 
+PAP   	39	47	32 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+RESP  	23 
+ABP   	103	132	89 
+PAP   	39	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+RESP  	23 
+ABP   	102	132	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+RESP  	23 
+ABP   	103	132	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	106 
+ALARM	** VPBs > 5/MIN    
+PULSE 	106 
+RESP  	23 
+ABP   	103	133	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	106 
+PULSE 	106 
+RESP  	23 
+ABP   	103	132	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+RESP  	24 
+ABP   	104	133	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+RESP  	24 
+ABP   	104	132	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+RESP  	24 
+ABP   	104	133	91 
+PAP   	39	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	106 
+RESP  	23 
+ABP   	104	134	91 
+PAP   	38	47	33 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	23 
+ABP   	104	133	91 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	23 
+ABP   	105	134	91 
+PAP   	39	47	33 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	23 
+ABP   	104	134	91 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	24 
+ABP   	105	134	91 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	24 
+ABP   	104	134	91 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	24 
+ABP   	104	134	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	24 
+ABP   	104	134	91 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	24 
+ABP   	104	133	90 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	24 
+ABP   	104	133	91 
+PAP   	38	47	32 
+C.O.  	4.49 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	24 
+ABP   	104	133	91 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	24 
+ABP   	104	133	90 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	24 
+ABP   	105	134	91 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	24 
+ABP   	104	134	91 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	24 
+PAP   	38	47	32 
+ABP   	104	134	91 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	24 
+ABP   	104	134	91 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	107 
+RESP  	24 
+PAP   	38	47	32 
+ABP   	104	134	91 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	23 
+ABP   	104	134	91 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	107 
+RESP  	23 
+ABP   	104	133	91 
+PAP   	38	46	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	24 
+ABP   	105	134	91 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	24 
+ABP   	104	133	91 
+PAP   	38	46	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	107 
+RESP  	24 
+ABP   	105	134	91 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	108 
+RESP  	24 
+ABP   	105	134	92 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	24 
+ABP   	105	135	92 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	24 
+ABP   	105	135	92 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	24 
+ABP   	105	135	92 
+PAP   	38	47	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	25 
+ABP   	106	136	92 
+PAP   	38	47	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	25 
+ABP   	105	135	91 
+PAP   	37	46	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	25 
+ABP   	106	136	92 
+PAP   	38	46	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	25 
+ABP   	105	135	91 
+PAP   	37	46	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	25 
+ABP   	106	136	92 
+PAP   	37	46	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	25 
+ABP   	105	135	92 
+PAP   	37	46	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	25 
+ABP   	105	135	92 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	26 
+ABP   	106	136	93 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	26 
+ABP   	105	135	92 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	26 
+ABP   	106	137	93 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	26 
+ABP   	106	136	92 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	26 
+ABP   	106	137	93 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	26 
+PAP   	38	47	32 
+ABP   	106	136	92 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	26 
+ABP   	106	136	92 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	26 
+ABP   	105	137	93 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	26 
+ABP   	106	137	92 
+PAP   	37	46	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	26 
+ABP   	105	137	92 
+PAP   	37	47	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	26 
+PAP   	37	47	31 
+ABP   	105	136	91 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	26 
+ABP   	106	137	92 
+PAP   	38	47	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	26 
+PAP   	37	47	31 
+ABP   	106	136	92 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	26 
+ABP   	106	137	92 
+PAP   	37	47	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	108 
+RESP  	26 
+ABP   	106	137	93 
+PAP   	37	47	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	26 
+ABP   	106	137	92 
+PAP   	37	46	29 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	26 
+ABP   	107	138	93 
+PAP   	38	47	30 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	26 
+ABP   	106	137	92 
+PAP   	38	46	30 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	25 
+ABP   	107	138	93 
+PAP   	38	47	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	25 
+ABP   	106	137	92 
+PAP   	38	47	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	25 
+ABP   	106	137	92 
+PAP   	38	47	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	25 
+ABP   	107	138	93 
+PAP   	39	48	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	25 
+ABP   	106	137	92 
+PAP   	39	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	25 
+ABP   	107	138	93 
+PAP   	39	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	25 
+ABP   	105	136	92 
+PAP   	39	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	25 
+ABP   	106	136	92 
+PAP   	39	48	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	24 
+ABP   	106	137	92 
+PAP   	39	48	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	24 
+ABP   	105	135	91 
+PAP   	39	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	24 
+ABP   	105	136	91 
+PAP   	39	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	24 
+ABP   	105	136	91 
+PAP   	39	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	108 
+RESP  	24 
+ABP   	105	136	91 
+PAP   	39	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+ALARM	** VPBs > 5/MIN    
+SpO2  	100 
+HR    	108 
+PULSE 	108 
+RESP  	24 
+ABP   	105	136	92 
+PAP   	39	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	108 
+RESP  	24 
+ABP   	105	135	91 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	109 
+RESP  	24 
+ABP   	106	137	92 
+PAP   	39	48	33 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	24 
+ABP   	105	136	92 
+PAP   	39	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	24 
+ABP   	106	136	91 
+PAP   	39	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	109 
+RESP  	24 
+ABP   	106	136	92 
+PAP   	39	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	24 
+ABP   	106	136	92 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	24 
+ABP   	106	136	92 
+PAP   	39	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	109 
+RESP  	24 
+ABP   	106	138	91 
+PAP   	38	46	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	24 
+ABP   	105	137	91 
+PAP   	38	46	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	109 
+RESP  	24 
+ABP   	104	137	91 
+PAP   	38	47	31 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	109 
+RESP  	24 
+ABP   	105	137	90 
+PAP   	37	46	29 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	109 
+RESP  	24 
+PAP   	38	48	32 
+ABP   	104	137	90 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	111 
+PULSE 	109 
+RESP  	24 
+ABP   	104	137	89 
+PAP   	38	48	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	111 
+PULSE 	109 
+RESP  	25 
+ABP   	105	136	89 
+PAP   	38	47	32 
+C.O.  	3.95 
+Tblood	37.1 
+ALARM	** VPBs > 5/MIN    
+SpO2  	100 
+HR    	109 
+PULSE 	109 
+RESP  	27 
+ABP   	107	139	91 
+PAP   	38	48	32 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	99 
+RESP  	30 
+ABP   	108	140	92 
+PAP   	41	50	35 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	93 
+RESP  	29 
+ABP   	107	140	93 
+PAP   	41	51	35 
+C.O.  	3.95 
+Tblood	37.1 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	93 
+RESP  	28 
+ABP   	108	141	92 
+PAP   	42	53	35 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	93 
+RESP  	27 
+PAP   	43	53	36 
+ABP   	108	142	93 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	87 
+RESP  	27 
+PAP   	44	54	36 
+ABP   	107	140	92 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	87 
+RESP  	29 
+PAP   	44	54	37 
+ABP   	106	139	91 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	87 
+INOP	NOISY-CHK ECG LEAD 
+RESP  	29 
+ABP   	104	137	90 
+PAP   	44	54	36 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+HR    	109 
+ALARM	** VPBs > 5/MIN    
+PULSE 	87 
+RESP  	29 
+ABP   	102	134	87 
+PAP   	44	54	35 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	87 
+RESP  	28 
+ABP   	101	133	87 
+PAP   	43	54	35 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	87 
+RESP  	26 
+ABP   	99	130	84 
+PAP   	43	54	35 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	87 
+RESP  	26 
+ABP   	98	130	84 
+PAP   	44	54	36 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	87 
+RESP  	26 
+ABP   	98	129	83 
+PAP   	45	55	38 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	109 
+PULSE 	87 
+RESP  	28 
+PAP   	44	54	36 
+ABP   	96	127	83 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	87 
+RESP  	31 
+ABP   	94	125	81 
+PAP   	42	51	29 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	87 
+RESP  	30 
+ABP   	93	123	79 
+PAP   	42	51	30 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	87 
+RESP  	30 
+ABP   	93	121	78 
+PAP   	41	51	29 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	87 
+RESP  	30 
+ABP   	94	121	80 
+PAP   	42	52	29 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	87 
+RESP  	35 
+ABP   	95	124	80 
+PAP   	42	54	28 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+HR    	108 
+ALARM	** VPBs > 5/MIN    
+PULSE 	87 
+RESP  	37 
+ABP   	96	124	80 
+PAP   	42	54	28 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	87 
+RESP  	46 
+ABP   	95	126	82 
+PAP   	43	56	28 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	100 
+ALARM	** VPBs > 5/MIN    
+HR    	108 
+PULSE 	87 
+RESP  	54 
+ABP   	94	125	80 
+PAP   	43	56	28 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+ALARM	** VPBs > 5/MIN    
+PULSE 	0 
+RESP  	54 
+ABP   	92	123	78 
+PAP   	35 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	0 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	0 
+INOP	SpO2 NON-PULSATILE 
+RESP  	54 
+PAP   	43 
+ABP   	90	119	76 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	0 
+ALARM	** VPBs > 5/MIN    
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	44 
+ABP   	92	122	78 
+PAP   	43 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+ALARM	** VPBs > 5/MIN    
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	44 
+PAP   	41 
+ABP   	91	121	77 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	0 
+ALARM	** VPBs > 5/MIN    
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	47 
+ABP   	91	120	77 
+PAP   	41 
+C.O.  	3.95 
+Tblood	37 
+SpO2  	0 
+ALARM	** VPBs > 5/MIN    
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 

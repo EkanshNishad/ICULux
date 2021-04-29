@@ -24,19 +24,19 @@ from pyspark import SparkContext
 from pyspark.streaming import StreamingContext
 from jinja2 import Environment
 from jinja2.loaders import FileSystemLoader
-
+from ICULux.dashboard import app
 
 import re
 import os
 
 
-app = Flask(__name__)
+#app = Flask(__name__)
 model_fitted = pickle.load(open('model.pkl', 'rb'))
 
-app.config['MYSQL_HOST'] = 'localhost'
-app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = ''
-app.config['MYSQL_DB'] = 'icu'
+#app.config['MYSQL_HOST'] = 'localhost'
+#app.config['MYSQL_USER'] = 'root'
+#app.config['MYSQL_PASSWORD'] = ''
+#app.config['MYSQL_DB'] = 'icu'
 patientdata = None
 doctordata = None
 
@@ -279,22 +279,27 @@ def find_current_nature(name, val1, val2=0, val3=0):
 
 
 
-@app.route("/")
+@app.server.route("/")
 def home():
     return render_template('index.html')
 
-@app.route("/about")
+@app.server.route("/stream")
+def dashboard():
+     return app.index()
+
+@app.server.route("/about")
 def about():
      return render_template('about.html')
-@app.route("/contact")
+@app.server.route("/contact")
 def contact():
      return render_template('contact.html')
-@app.route('/login', methods=['GET','POST'])
+@app.server.route('/login', methods=['GET','POST'])
 def login():
      if request.method=='POST':
           name = request.form.get('username')
           password = request.form.get('password')
-          cnx = mysql.connector.connect(user='root', password='', host='localhost', database='icu')
+          cnx = mysql.connector.connect(user='root', password='', host='localhost', port=3306,database='icu')
+          #cnx = mysql.connector.connect(user='root', password='', host='localhost', port=3307,database='csv_db 7')
           cursor = cnx.cursor()
           cursor.execute('SELECT * FROM DOCTOR WHERE Name = %s and Password = %s', (name,password,))
           account = cursor.fetchall()
@@ -307,11 +312,11 @@ def login():
                msg = "Invalid Username or password"
                return render_template('index.html', msg = msg)
 
-@app.route('/newuser', methods=['POST', 'GET'])
+@app.server.route('/newuser', methods=['POST', 'GET'])
 def newuser():
      return render_template("newuser.html")
 
-@app.route('/register',  methods=['POST', 'GET'])
+@app.server.route('/register',  methods=['POST', 'GET'])
 def register():
      if (request.method == 'POST'):
           username = request.form['username']
@@ -323,7 +328,8 @@ def register():
           spec = request.form['spec']
           id = random.SystemRandom()
           id = id.randint(12183, 13000)
-          cnx = mysql.connector.connect(user='root', password='', host='localhost', database='icu')
+          cnx = mysql.connector.connect(user='root', password='', host='localhost',port=3306,database='icu' )
+          #cnx = mysql.connector.connect(user='root', password='', host='localhost',port=3307,database='csv_db 7')
           cursor = cnx.cursor()
           cursor.execute('INSERT INTO DOCTOR VALUES (%s,%s,%s,%s,%s,%s)',
                          (username, age, id, email, password, spec))
@@ -331,7 +337,7 @@ def register():
           cursor.close()
           return render_template("index.html")
 
-@app.route('/find_patient', methods=['POST','GET'])
+@app.server.route('/find_patient', methods=['POST','GET'])
 def find_patient():
      msg = ""
      if(request.method == 'POST'):
@@ -343,7 +349,8 @@ def find_patient():
                     msg += "Patient id should be numeric in value."
                     return render_template("find_patient.html",  data=doctordata, msg=msg)
                elif re.match(r'[0-9]+', pid):
-                    cnx = mysql.connector.connect(user='root', password='', host='localhost', database='icu')
+                    cnx = mysql.connector.connect(user='root', password='', host='localhost',port=3306,database='icu' )
+                    #cnx = mysql.connector.connect(user='root', password='', host='localhost',port=3307,database='csv_db 6' )
                     cursor = cnx.cursor()
                     cursor.execute('SELECT * FROM Patient_Information WHERE pid = %s', (pid,))
                     details = cursor.fetchall()
@@ -365,7 +372,7 @@ def find_patient():
 
 
 
-@app.route('/data', methods=['POST','GET'])
+@app.server.route('/data', methods=['POST','GET'])
 def data():
 
      global rows
@@ -537,7 +544,7 @@ def data():
 
      return render_template("data2.html", data=patientdata)
 
-@app.route('/data_stream', methods=['POST', 'GET'])
+@app.server.route('/data_stream', methods=['POST', 'GET'])
 def data_stream():
      temp()
 

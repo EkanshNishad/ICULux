@@ -1,0 +1,5942 @@
+[02:47:18 04/03/1995]	05500212.txt 
+PULSE 	103 
+RESP  	20 
+ABP   	96	129	82 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	104 
+PULSE 	103 
+RESP  	20 
+ABP   	96	129	82 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	104 
+PULSE 	103 
+RESP  	20 
+ABP   	95	129	81 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	104 
+PULSE 	103 
+RESP  	20 
+ABP   	96	129	81 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	104 
+PULSE 	103 
+RESP  	20 
+ABP   	97	129	82 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	104 
+PULSE 	103 
+RESP  	20 
+ABP   	97	128	82 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	104 
+PULSE 	103 
+RESP  	21 
+ABP   	98	130	83 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	104 
+PULSE 	103 
+RESP  	21 
+ABP   	98	130	84 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	104 
+PULSE 	103 
+RESP  	21 
+ABP   	99	131	85 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	104 
+PULSE 	103 
+RESP  	21 
+ABP   	100	132	85 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	104 
+PULSE 	103 
+RESP  	21 
+ABP   	99	131	85 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	103 
+PULSE 	103 
+RESP  	21 
+PAP   	36	44	30 
+ABP   	100	133	85 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	105 
+PULSE 	103 
+RESP  	21 
+ABP   	100	133	85 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	105 
+PULSE 	103 
+RESP  	21 
+ABP   	100	133	85 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	105 
+PULSE 	103 
+RESP  	21 
+ABP   	100	134	85 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	105 
+PULSE 	103 
+RESP  	21 
+ABP   	99	133	84 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	105 
+PULSE 	103 
+RESP  	21 
+ABP   	99	133	84 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	105 
+PULSE 	103 
+RESP  	21 
+ABP   	99	134	84 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	105 
+PULSE 	103 
+RESP  	21 
+ABP   	98	132	83 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	98 
+HR    	105 
+PULSE 	103 
+RESP  	21 
+ABP   	99	132	83 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	98 
+HR    	105 
+PULSE 	103 
+RESP  	22 
+ABP   	99	133	83 
+PAP   	36	45	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	98 
+HR    	105 
+PULSE 	103 
+RESP  	22 
+ABP   	98	132	83 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	98 
+HR    	105 
+PULSE 	103 
+RESP  	22 
+ABP   	98	132	83 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	98 
+HR    	105 
+PULSE 	103 
+RESP  	21 
+ABP   	99	133	83 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	98 
+HR    	105 
+PULSE 	103 
+RESP  	21 
+ABP   	98	131	83 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	98 
+HR    	105 
+PULSE 	103 
+RESP  	21 
+ABP   	98	132	83 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	98 
+HR    	104 
+PULSE 	103 
+RESP  	21 
+ABP   	98	132	83 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	98 
+HR    	104 
+PULSE 	103 
+RESP  	21 
+ABP   	97	131	82 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	98 
+HR    	104 
+PULSE 	103 
+RESP  	21 
+ABP   	98	131	82 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	98 
+HR    	104 
+PULSE 	97 
+RESP  	21 
+ABP   	98	132	83 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	98 
+HR    	104 
+PULSE 	97 
+RESP  	21 
+ABP   	97	130	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	98 
+HR    	104 
+PULSE 	97 
+RESP  	21 
+ABP   	97	130	82 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	97 
+HR    	104 
+PULSE 	113 
+RESP  	21 
+ABP   	98	131	82 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	97 
+HR    	104 
+PULSE 	116 
+RESP  	21 
+ABP   	97	130	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	97 
+HR    	104 
+PULSE 	116 
+RESP  	21 
+ABP   	97	130	82 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	98 
+HR    	104 
+PULSE 	116 
+RESP  	20 
+ABP   	97	131	83 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	98 
+HR    	104 
+PULSE 	106 
+RESP  	20 
+ABP   	96	129	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	98 
+HR    	104 
+PULSE 	106 
+RESP  	20 
+ABP   	97	130	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	98 
+HR    	104 
+PULSE 	106 
+RESP  	20 
+ABP   	97	130	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	98 
+HR    	104 
+PULSE 	105 
+RESP  	20 
+ABP   	96	129	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	98 
+HR    	104 
+PULSE 	105 
+RESP  	20 
+ABP   	97	129	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	104 
+PULSE 	105 
+RESP  	20 
+ABP   	97	129	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	104 
+PULSE 	105 
+RESP  	20 
+ABP   	96	128	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	104 
+PULSE 	105 
+RESP  	20 
+ABP   	96	128	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	104 
+PULSE 	105 
+RESP  	20 
+PAP   	36	44	30 
+ABP   	95	128	81 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	104 
+PULSE 	105 
+RESP  	20 
+ABP   	96	128	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+HR    	104 
+PULSE 	105 
+RESP  	20 
+ABP   	96	128	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+HR    	104 
+PULSE 	104 
+RESP  	20 
+ABP   	96	128	82 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+HR    	104 
+PULSE 	104 
+RESP  	20 
+ABP   	97	128	82 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+HR    	104 
+PULSE 	104 
+RESP  	21 
+ABP   	97	129	83 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+HR    	104 
+PULSE 	104 
+RESP  	21 
+ABP   	97	129	83 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	104 
+PULSE 	104 
+RESP  	21 
+ABP   	98	130	83 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	104 
+PULSE 	105 
+RESP  	21 
+ABP   	99	131	84 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	104 
+PULSE 	105 
+RESP  	21 
+ABP   	98	130	83 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	104 
+PULSE 	105 
+RESP  	21 
+ABP   	98	130	83 
+PAP   	37	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	105 
+PULSE 	105 
+RESP  	20 
+ABP   	98	131	84 
+PAP   	37	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	105 
+PULSE 	104 
+RESP  	20 
+PAP   	36	44	30 
+ABP   	97	130	83 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	105 
+PULSE 	104 
+RESP  	20 
+ABP   	97	130	83 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	105 
+PULSE 	104 
+RESP  	20 
+ABP   	97	131	82 
+PAP   	36	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	105 
+PULSE 	103 
+RESP  	20 
+ABP   	96	130	81 
+PAP   	34	43	28 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	105 
+PULSE 	103 
+RESP  	20 
+ABP   	96	130	81 
+PAP   	34	43	28 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	104 
+PULSE 	103 
+RESP  	21 
+ABP   	95	130	82 
+PAP   	34	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	104 
+PULSE 	103 
+RESP  	21 
+ABP   	95	131	79 
+PAP   	34	43	28 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	104 
+PULSE 	103 
+RESP  	21 
+ABP   	96	131	80 
+PAP   	34	43	28 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	104 
+PULSE 	103 
+RESP  	21 
+ABP   	95	131	81 
+PAP   	34	43	28 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	104 
+PULSE 	103 
+RESP  	21 
+ABP   	96	131	81 
+PAP   	34	43	28 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	97 
+RESP  	21 
+ABP   	98	132	83 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	91 
+RESP  	21 
+PAP   	36	44	30 
+ABP   	98	131	83 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	85 
+RESP  	21 
+ABP   	99	132	84 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	85 
+RESP  	21 
+ABP   	100	133	85 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	103 
+ALARM	** PAIR VPBs       
+PULSE 	85 
+RESP  	21 
+ABP   	99	133	85 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	91 
+RESP  	21 
+ABP   	100	134	85 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	91 
+RESP  	21 
+PAP   	36	44	29 
+ABP   	100	134	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	98 
+RESP  	21 
+ABP   	101	134	86 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	105 
+RESP  	21 
+ABP   	101	135	86 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	105 
+RESP  	21 
+ABP   	100	134	85 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	105 
+RESP  	21 
+ABP   	100	134	85 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	105 
+RESP  	22 
+PAP   	36	44	30 
+ABP   	100	134	85 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	105 
+RESP  	22 
+PAP   	36	44	30 
+ABP   	99	133	84 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	105 
+RESP  	22 
+ABP   	99	134	84 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	105 
+RESP  	21 
+ABP   	99	134	84 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	105 
+RESP  	21 
+ABP   	98	132	83 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	105 
+RESP  	21 
+ABP   	98	133	83 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	105 
+RESP  	21 
+PAP   	37	45	31 
+ABP   	98	133	83 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	104 
+RESP  	21 
+PAP   	37	45	30 
+ABP   	97	131	82 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	104 
+RESP  	21 
+ABP   	97	131	82 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	104 
+RESP  	21 
+ABP   	97	132	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	103 
+RESP  	21 
+ABP   	96	130	81 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	102 
+RESP  	21 
+ABP   	97	130	81 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	102 
+RESP  	21 
+ABP   	97	131	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	102 
+RESP  	21 
+ABP   	96	129	81 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	102 
+RESP  	21 
+ABP   	96	130	81 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	102 
+RESP  	20 
+ABP   	97	130	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	99 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	102 
+RESP  	20 
+ABP   	97	130	82 
+PAP   	38	45	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	99 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	102 
+RESP  	20 
+ABP   	96	129	81 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	102 
+RESP  	20 
+ABP   	96	129	81 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	102 
+RESP  	19 
+ABP   	96	129	81 
+PAP   	38	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	102 
+RESP  	19 
+ABP   	95	128	80 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	102 
+RESP  	19 
+ABP   	95	128	80 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+ALARM	** PAIR VPBs       
+SpO2  	100 
+HR    	103 
+PULSE 	102 
+RESP  	19 
+ABP   	96	128	81 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	102 
+RESP  	19 
+ABP   	95	128	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	103 
+ALARM	** PAIR VPBs       
+PULSE 	102 
+RESP  	19 
+ABP   	95	127	80 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	102 
+RESP  	19 
+ABP   	96	128	81 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	102 
+RESP  	19 
+ABP   	95	127	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	103 
+RESP  	19 
+ABP   	95	127	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	103 
+RESP  	18 
+ABP   	96	128	81 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	103 
+ALARM	** PAIR VPBs       
+PULSE 	103 
+RESP  	18 
+PAP   	37	44	31 
+ABP   	96	128	81 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	103 
+RESP  	18 
+PAP   	36	44	30 
+ABP   	95	127	81 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	103 
+RESP  	18 
+ABP   	96	128	81 
+PAP   	37	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	103 
+RESP  	18 
+ABP   	96	128	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	103 
+RESP  	18 
+ABP   	96	127	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+HR    	103 
+ALARM	** PAIR VPBs       
+PULSE 	103 
+RESP  	19 
+ABP   	96	128	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	103 
+RESP  	19 
+ABP   	95	127	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	103 
+RESP  	19 
+ABP   	96	127	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	103 
+RESP  	19 
+ABP   	96	127	82 
+PAP   	35	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+HR    	103 
+ALARM	** PAIR VPBs       
+PULSE 	98 
+RESP  	19 
+ABP   	96	127	82 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+HR    	103 
+ALARM	** PAIR VPBs       
+PULSE 	98 
+RESP  	20 
+ABP   	96	128	82 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	98 
+RESP  	20 
+ABP   	97	128	82 
+PAP   	35	43	28 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	98 
+RESP  	21 
+ABP   	97	128	83 
+PAP   	35	43	28 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	98 
+RESP  	21 
+ABP   	97	128	83 
+PAP   	35	43	28 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	98 
+RESP  	22 
+ABP   	98	130	84 
+PAP   	35	43	28 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	98 
+RESP  	22 
+ABP   	98	129	84 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	98 
+RESP  	22 
+PAP   	35	43	29 
+ABP   	99	131	85 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	98 
+RESP  	23 
+ABP   	99	131	85 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	98 
+RESP  	23 
+ABP   	99	131	85 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	100 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	98 
+RESP  	24 
+ABP   	100	132	86 
+PAP   	35	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+RESP  	24 
+ABP   	100	132	85 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	SpO2 NON-PULSATILE 
+RESP  	25 
+ABP   	100	132	86 
+PAP   	35	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	25 
+ABP   	99	132	85 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	100	133	86 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	106 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+PAP   	35	44	29 
+ABP   	99	132	85 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	100	133	85 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	106 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+PAP   	35	44	28 
+ABP   	99	132	84 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	99	132	84 
+PAP   	35	44	28 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	99	132	85 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	99	132	84 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	99	132	85 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	99	132	84 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	99	133	85 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	99	132	84 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	99	132	84 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+PAP   	35	44	29 
+ABP   	99	134	83 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	98	133	83 
+PAP   	35	43	28 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+PAP   	36	44	29 
+ABP   	98	133	84 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	98	132	83 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+PAP   	36	44	29 
+ABP   	99	133	84 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	106 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	25 
+PAP   	36	44	29 
+ABP   	99	133	84 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	25 
+PAP   	35	44	29 
+ABP   	99	133	84 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	24 
+ABP   	100	134	85 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	106 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	24 
+PAP   	36	44	29 
+ABP   	99	134	84 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	24 
+ABP   	100	134	84 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	24 
+ABP   	100	135	85 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	24 
+ABP   	99	134	84 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	24 
+ABP   	100	134	84 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	24 
+PAP   	36	44	30 
+ABP   	99	133	84 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	24 
+ABP   	98	132	83 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	23 
+PAP   	36	45	30 
+ABP   	98	133	83 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	23 
+ABP   	97	133	81 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	23 
+ABP   	97	132	81 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	97	132	81 
+PAP   	37	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	106 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	96	130	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	96	130	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	97	130	81 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	96	130	81 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	96	129	81 
+PAP   	37	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	130	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	130	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	96	129	81 
+PAP   	37	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	97	130	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	97	130	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	95	128	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	96	129	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	36	44	30 
+ABP   	95	128	81 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	36	44	30 
+ABP   	95	127	81 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	95	128	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	96	128	82 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	95	127	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	36	44	30 
+ABP   	96	128	81 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	96	128	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	95	127	81 
+PAP   	36	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	36	44	30 
+ABP   	96	128	81 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	96	128	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	96	128	81 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	36	43	29 
+ABP   	96	128	82 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	96	128	82 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	35	43	29 
+ABP   	96	128	82 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	96	128	82 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	96	128	82 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	96	128	82 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	96	128	82 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	96	128	82 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+PAP   	36	44	30 
+ABP   	97	129	83 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	128	83 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	128	83 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	129	83 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	96	128	82 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	96	128	82 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	130	82 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	96	128	81 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	96	128	82 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	129	83 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	96	128	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	128	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	98	129	83 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	37	44	31 
+ABP   	97	128	83 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	37	44	31 
+ABP   	97	129	83 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	38	45	32 
+ABP   	98	129	83 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	97	129	84 
+PAP   	38	45	32 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	97	128	83 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	38	45	32 
+ABP   	98	130	83 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	98	130	84 
+PAP   	38	45	32 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	96	128	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	97	128	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	37	45	31 
+ABP   	96	128	82 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	95	127	81 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	96	127	81 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	95	127	81 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	95	127	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	36	44	30 
+ABP   	96	127	82 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	96	127	81 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	36	44	29 
+ABP   	96	127	82 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	96	128	82 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	97	128	82 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	36	44	29 
+ABP   	97	129	83 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	97	128	83 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	36	44	29 
+ABP   	98	129	84 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	98	129	84 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+PAP   	36	43	29 
+ABP   	97	129	83 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	129	84 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	131	82 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	130	82 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	130	82 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	107 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	96	129	82 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	130	82 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	98	130	83 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	97	129	83 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	98	130	83 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+PAP   	35	44	29 
+ABP   	97	130	83 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	97	130	83 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+PAP   	37	45	31 
+ABP   	98	130	83 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+PAP   	37	45	31 
+ABP   	98	131	84 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	97	130	83 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+PAP   	37	45	31 
+ABP   	98	130	83 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	130	83 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+PAP   	36	44	30 
+ABP   	96	129	82 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	129	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+PAP   	37	45	31 
+ABP   	97	130	82 
+C.O.  	4.49 
+Tblood	37 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	96	128	81 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+PAP   	37	44	31 
+ABP   	96	128	81 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	96	129	82 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	95	127	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	95	127	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	96	128	81 
+PAP   	37	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	95	127	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	36	44	30 
+ABP   	95	126	80 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	95	127	81 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	95	127	82 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	95	126	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	95	126	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	95	127	81 
+PAP   	37	44	30 
+C.O.  	4.49 
+Tblood	37 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	94	126	80 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	94	126	80 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	95	126	81 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	37	44	31 
+ABP   	95	126	81 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	95	126	80 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+PAP   	36	44	30 
+ABP   	96	127	81 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	95	126	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	95	126	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+PAP   	36	44	30 
+ABP   	96	127	82 
+C.O.  	4.49 
+ALARM	** PAIR VPBs       
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	95	126	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+PAP   	36	44	30 
+ABP   	95	126	82 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	96	127	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	95	128	81 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	35	44	29 
+ABP   	96	128	81 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	96	128	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	36	44	30 
+ABP   	96	128	82 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	96	127	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	37	44	31 
+ABP   	97	128	83 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	97	128	83 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	96	127	82 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	37	44	31 
+ABP   	97	128	82 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	97	129	83 
+PAP   	37	45	32 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	37	45	31 
+ABP   	96	127	82 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	96	128	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	97	128	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	97	129	83 
+PAP   	38	45	32 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	95	127	81 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+PAP   	37	44	31 
+ABP   	95	127	81 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	95	126	81 
+PAP   	36	44	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	95	126	80 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	36	44	30 
+ABP   	95	125	81 
+C.O.  	4.49 
+Tblood	36.9 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	95	125	81 
+PAP   	35	43	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	103 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	35	44	30 
+ABP   	95	125	81 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	95	126	82 
+PAP   	35	43	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	96	126	82 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	36	44	31 
+ABP   	97	128	84 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	97	128	83 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	97	128	84 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	97	129	84 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	35	44	30 
+ABP   	97	129	83 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	98	130	84 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	35	44	29 
+ABP   	98	129	84 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	98	130	84 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+PAP   	36	44	30 
+ABP   	99	131	85 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	98	130	84 
+PAP   	34	42	26 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+PAP   	35	43	28 
+ABP   	99	131	84 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	98	131	84 
+PAP   	35	43	28 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	98	131	83 
+PAP   	35	43	27 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	98	131	84 
+PAP   	35	43	27 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	98	131	84 
+PAP   	35	43	28 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+PAP   	35	43	27 
+ABP   	98	130	83 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	98	131	83 
+PAP   	35	43	28 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+PAP   	35	43	28 
+ABP   	97	130	83 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+PAP   	35	43	28 
+ABP   	97	130	82 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	98	131	83 
+PAP   	35	43	28 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	96	129	82 
+PAP   	35	43	28 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	96	129	82 
+PAP   	35	43	28 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	130	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	96	128	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	96	129	82 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	97	129	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	96	129	82 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+PAP   	37	44	30 
+ABP   	95	128	81 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	96	128	81 
+PAP   	37	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	95	127	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	95	127	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	96	128	81 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	95	127	81 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	95	127	80 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	95	127	80 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	95	127	81 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	36	44	30 
+ABP   	94	126	80 
+C.O.  	4.49 
+Tblood	37 
+ALARM	** PAIR VPBs       
+SpO2  	0 
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	95	127	81 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	37	44	31 
+ABP   	96	127	81 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	95	126	81 
+PAP   	36	44	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	36	44	30 
+ABP   	95	126	80 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	36	44	30 
+ABP   	95	129	80 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	36	44	30 
+ABP   	95	127	80 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	94	126	80 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	104 
+ALARM	** PAIR VPBs       
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	95	127	80 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+ALARM	** PAIR VPBs       
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	95	127	81 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	36	44	30 
+ABP   	95	126	80 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	95	127	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	96	128	82 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+PAP   	36	44	30 
+ABP   	95	126	81 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	95	127	81 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+PAP   	37	44	31 
+ABP   	96	127	81 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	95	127	81 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	95	126	80 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	95	127	81 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	95	127	81 
+PAP   	37	44	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	94	126	80 
+PAP   	36	43	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	94	126	80 
+PAP   	36	43	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	94	125	80 
+PAP   	35	43	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+PAP   	35	43	29 
+ABP   	94	125	80 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	95	126	81 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+PAP   	35	43	29 
+ABP   	94	125	80 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	95	126	81 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	96	126	82 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	96	126	82 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	97	128	83 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	103 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	35	43	29 
+ABP   	97	128	83 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	97	128	83 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	35	43	29 
+ABP   	97	129	83 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	35	43	29 
+ABP   	97	129	83 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	98	130	84 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+PAP   	34	43	28 
+ABP   	97	129	83 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	98	130	84 
+PAP   	35	43	28 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	97	129	84 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	23 
+PAP   	35	43	29 
+ABP   	98	129	84 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	23 
+ABP   	98	129	84 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	97	129	84 
+PAP   	35	43	29 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+PAP   	35	44	30 
+ABP   	98	130	84 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	98	129	84 
+PAP   	35	44	30 
+C.O.  	4.49 
+Tblood	36.9 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	25 
+PAP   	35	44	30 
+ABP   	98	130	84 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	23 
+ABP   	98	130	84 
+PAP   	35	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	23 
+ABP   	99	131	85 
+PAP   	35	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	24 
+ABP   	99	131	85 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	24 
+PAP   	35	44	30 
+ABP   	100	132	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	25 
+ABP   	100	132	86 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	25 
+ABP   	101	132	86 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+PAP   	35	44	29 
+ABP   	101	132	87 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	102	133	87 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	101	133	87 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	25 
+ABP   	102	133	87 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	25 
+ABP   	101	133	87 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	102	133	87 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	26 
+ABP   	101	133	87 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	25 
+ABP   	102	133	87 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	25 
+ABP   	102	134	87 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	25 
+ABP   	102	134	87 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	24 
+ABP   	102	134	87 
+PAP   	35	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	28 
+ABP   	102	134	87 
+PAP   	35	44	27 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	28 
+ABP   	102	134	87 
+PAP   	35	44	28 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	28 
+ABP   	103	134	88 
+PAP   	35	44	28 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	28 
+PAP   	36	46	31 
+ABP   	102	134	88 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	27 
+PAP   	36	46	31 
+ABP   	102	134	88 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	26 
+PAP   	36	46	31 
+ABP   	102	134	88 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	25 
+PAP   	35	44	27 
+ABP   	103	134	88 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	24 
+PAP   	35	43	27 
+ABP   	102	134	88 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+PAP   	35	44	27 
+ABP   	103	135	88 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+PAP   	35	45	30 
+ABP   	103	135	88 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	103	135	88 
+PAP   	35	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	102	135	87 
+PAP   	35	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	102	135	87 
+PAP   	35	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	101	134	87 
+PAP   	35	46	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+PAP   	35	46	30 
+ABP   	101	135	87 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+PAP   	36	46	31 
+ABP   	101	134	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+PAP   	36	46	31 
+ABP   	101	134	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+PAP   	36	46	31 
+ABP   	100	132	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+PAP   	36	46	31 
+ABP   	100	133	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+ABP   	101	134	86 
+PAP   	36	46	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+ABP   	102	135	87 
+PAP   	36	46	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+PAP   	36	45	27 
+ABP   	103	135	88 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+ABP   	105	138	89 
+PAP   	36	45	27 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+ABP   	105	139	89 
+PAP   	37	46	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+PAP   	37	46	29 
+ABP   	106	140	90 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+PAP   	37	46	29 
+ABP   	107	142	91 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	27 
+ABP   	106	141	90 
+PAP   	37	47	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	28 
+PAP   	37	47	31 
+ABP   	106	142	90 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	28 
+PAP   	37	47	30 
+ABP   	106	142	89 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	31 
+ABP   	106	142	89 
+PAP   	36	47	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	31 
+ABP   	105	141	88 
+PAP   	36	47	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	30 
+ABP   	105	142	88 
+PAP   	36	47	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	30 
+ABP   	104	141	88 
+PAP   	36	46	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	30 
+ABP   	104	141	87 
+PAP   	36	46	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	30 
+ABP   	104	141	87 
+PAP   	36	46	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	30 
+ABP   	105	142	87 
+PAP   	36	46	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	29 
+ABP   	105	143	88 
+PAP   	36	46	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	29 
+PAP   	36	46	30 
+ABP   	106	143	88 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	30 
+PAP   	36	46	30 
+ABP   	106	144	89 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	30 
+PAP   	36	46	29 
+ABP   	106	144	88 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	29 
+PAP   	36	46	30 
+ABP   	106	145	89 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	29 
+PAP   	36	46	29 
+ABP   	106	143	88 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	28 
+PAP   	36	46	29 
+ABP   	106	144	89 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	28 
+PAP   	36	46	29 
+ABP   	105	142	87 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	28 
+ABP   	105	142	87 
+PAP   	36	46	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	27 
+PAP   	36	46	29 
+ABP   	104	142	88 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	108 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	27 
+PAP   	36	46	29 
+ABP   	104	140	87 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	27 
+PAP   	36	46	30 
+ABP   	104	141	87 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	27 
+PAP   	36	46	29 
+ABP   	102	139	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	27 
+ABP   	103	139	86 
+PAP   	36	46	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	26 
+PAP   	36	45	29 
+ABP   	102	139	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	26 
+PAP   	36	45	29 
+ABP   	101	138	84 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	25 
+ABP   	102	138	85 
+PAP   	36	46	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	25 
+ABP   	101	136	84 
+PAP   	36	45	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	25 
+PAP   	36	45	29 
+ABP   	101	137	84 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	24 
+ABP   	101	137	85 
+PAP   	36	45	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	24 
+ABP   	101	136	85 
+PAP   	36	45	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	24 
+ABP   	102	136	85 
+PAP   	36	45	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	23 
+PAP   	36	45	29 
+ABP   	102	136	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	23 
+ABP   	101	136	85 
+PAP   	36	45	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	23 
+ABP   	102	136	86 
+PAP   	36	45	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	23 
+ABP   	101	136	86 
+PAP   	36	45	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	23 
+ABP   	101	135	85 
+PAP   	36	45	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	23 
+PAP   	38	46	31 
+ABP   	102	136	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	22 
+ABP   	101	135	85 
+PAP   	37	46	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+ABP   	101	135	85 
+PAP   	37	46	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	22 
+ABP   	102	135	86 
+PAP   	37	46	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+ABP   	101	134	86 
+PAP   	37	46	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+PAP   	37	46	31 
+ABP   	100	134	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+PAP   	38	46	31 
+ABP   	101	134	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+ABP   	100	134	85 
+PAP   	37	46	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+PAP   	37	45	30 
+ABP   	101	134	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	21 
+PAP   	37	46	31 
+ABP   	101	134	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	37	46	31 
+ABP   	101	134	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+PAP   	37	45	31 
+ABP   	101	133	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+PAP   	37	45	31 
+ABP   	101	134	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	133	85 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	133	85 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	133	85 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	134	84 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	99	133	84 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	133	84 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	36	45	30 
+ABP   	100	132	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	132	84 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	133	85 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	132	85 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	132	85 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	36	45	30 
+ABP   	101	133	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	133	86 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	133	86 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	104 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	36	45	30 
+ABP   	101	135	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	134	85 
+PAP   	36	45	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	133	85 
+PAP   	36	45	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	134	86 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	133	85 
+PAP   	36	45	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	134	85 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	37	45	31 
+ABP   	101	134	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	134	86 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	134	86 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	102	135	86 
+PAP   	38	46	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	38	46	32 
+ABP   	101	135	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+PAP   	37	46	31 
+ABP   	101	134	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+PAP   	37	46	31 
+ABP   	102	134	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+PAP   	38	46	32 
+ABP   	102	135	87 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+PAP   	38	46	32 
+ABP   	101	134	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+PAP   	38	46	32 
+ABP   	101	134	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+PAP   	38	46	32 
+ABP   	101	134	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+PAP   	38	45	31 
+ABP   	100	133	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	100	133	85 
+PAP   	38	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	100	133	85 
+PAP   	38	46	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	37	45	31 
+ABP   	99	132	84 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+PAP   	37	45	31 
+ABP   	100	132	84 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	101	133	85 
+PAP   	38	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	100	132	84 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	101	133	85 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	37	45	31 
+ABP   	101	134	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	101	133	86 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	102	134	87 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	37	45	31 
+ABP   	102	135	87 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	102	135	87 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	103	136	87 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	36	44	29 
+ABP   	102	135	87 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	36	44	29 
+ABP   	102	135	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	135	87 
+PAP   	37	46	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	107 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	135	85 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+ABP   	101	135	85 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	135	85 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	133	85 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	134	85 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	135	86 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	133	85 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	37	45	31 
+ABP   	101	134	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+PAP   	37	45	31 
+ABP   	101	134	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+PAP   	37	45	31 
+ABP   	100	133	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	21 
+PAP   	37	45	31 
+ABP   	101	134	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	135	86 
+PAP   	38	46	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	133	85 
+PAP   	38	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+PAP   	38	45	31 
+ABP   	101	134	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	134	86 
+PAP   	38	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	133	85 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	133	85 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	38	46	31 
+ABP   	101	134	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	133	85 
+PAP   	38	46	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+PAP   	37	45	31 
+ABP   	100	133	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	101	133	85 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	100	132	85 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	37	45	31 
+ABP   	100	132	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	100	133	85 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	37	45	31 
+ABP   	99	132	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	99	132	84 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	38	46	32 
+ABP   	100	132	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	38	45	32 
+ABP   	100	133	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	99	131	84 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	100	132	85 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	37	45	31 
+ABP   	99	132	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	99	132	84 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	100	132	85 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	100	133	85 
+PAP   	38	45	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	99	132	85 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	100	132	85 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	100	132	85 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	99	131	85 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	38	45	31 
+ABP   	100	132	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	100	132	86 
+PAP   	38	45	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	37	45	31 
+ABP   	100	132	85 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	100	132	86 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	100	132	86 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	100	132	85 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	133	86 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	132	86 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	132	85 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	133	86 
+PAP   	38	46	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+PAP   	38	46	32 
+ABP   	101	133	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	19 
+ABP   	100	132	85 
+PAP   	38	45	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+INOP	PAP REDUCE SIZE    
+RESP  	20 
+PAP   	38	45	32 
+ABP   	101	133	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	132	85 
+PAP   	37	45	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	132	85 
+PAP   	36	44	28 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+PAP   	36	44	29 
+ABP   	101	133	86 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	132	85 
+PAP   	36	44	28 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	133	85 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	133	86 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	132	85 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	133	85 
+PAP   	36	44	29 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	134	85 
+PAP   	36	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	133	85 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	133	85 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	133	86 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	132	85 
+PAP   	36	44	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	133	86 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	133	86 
+PAP   	37	45	31 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	100	133	85 
+PAP   	36	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	133	86 
+PAP   	37	45	30 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	106 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	102	134	87 
+PAP   	38	45	32 
+C.O.  	4.49 
+Tblood	37 
+SpO2  	0 
+HR    	105 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	101	133	86 
+PAP   	37	45	31 

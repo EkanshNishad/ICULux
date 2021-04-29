@@ -1,0 +1,5047 @@
+[12:16:57 03/03/1995]	05500125.txt 
+RESP  	23 
+PAP   	33	37	28 
+ABP   	110	132	99 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	110	132	99 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	110	132	99 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	129 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+PAP   	32	38	28 
+ABP   	110	131	98 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	129 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	110	131	98 
+PAP   	33	38	29 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	129 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	110	131	99 
+PAP   	33	38	29 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	129 
+RESP  	24 
+ABP   	110	131	98 
+PAP   	33	38	29 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	25 
+ABP   	110	132	99 
+PAP   	33	38	29 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	25 
+ABP   	110	132	99 
+PAP   	33	45	25 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	26 
+ABP   	111	132	100 
+PAP   	31	42	23 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	26 
+ABP   	111	132	100 
+PAP   	29	42	20 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	26 
+ABP   	111	133	101 
+PAP   	30	43	18 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	26 
+ABP   	111	132	100 
+PAP   	30	43	19 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	27 
+ABP   	111	132	100 
+PAP   	31	43	20 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	27 
+ABP   	111	132	100 
+PAP   	31	44	19 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	27 
+PAP   	31	46	17 
+ABP   	111	132	100 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	113 
+RESP  	27 
+ABP   	110	132	100 
+PAP   	32	49	14 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	113 
+RESP  	27 
+ABP   	111	132	100 
+PAP   	34	58	10 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	27 
+ABP   	110	132	99 
+PAP   	34	57	10 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	27 
+ABP   	110	132	99 
+PAP   	33	56	10 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	27 
+PAP   	33	56	10 
+ABP   	110	131	99 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	27 
+ABP   	110	131	99 
+PAP   	32	52	15 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	26 
+ABP   	110	131	99 
+PAP   	32	50	17 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	26 
+ABP   	110	131	99 
+PAP   	32	47	18 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	26 
+ABP   	110	131	99 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	26 
+PAP   	32	38	27 
+ABP   	110	131	99 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+RESP  	26 
+PAP   	33	38	29 
+ABP   	110	132	99 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+RESP  	26 
+PAP   	33	38	29 
+ABP   	110	132	99 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+RESP  	26 
+ABP   	110	132	99 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+RESP  	26 
+ABP   	111	132	99 
+PAP   	33	39	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	113 
+RESP  	26 
+ABP   	110	132	100 
+PAP   	32	38	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	26 
+ABP   	111	132	100 
+PAP   	33	39	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+PAP   	33	37	28 
+ABP   	111	132	100 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	111	132	100 
+PAP   	33	39	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	111	133	100 
+PAP   	33	39	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	111	132	100 
+PAP   	32	38	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	111	133	100 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	111	132	100 
+PAP   	32	38	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	111	132	100 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	111	132	100 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	111	132	100 
+PAP   	33	39	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	111	132	100 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	98 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	110	132	100 
+PAP   	32	38	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	98 
+HR    	114 
+PULSE 	114 
+RESP  	25 
+ABP   	111	132	100 
+PAP   	34	38	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	98 
+HR    	114 
+PULSE 	114 
+RESP  	25 
+PAP   	33	38	27 
+ABP   	111	132	100 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	98 
+HR    	114 
+PULSE 	114 
+RESP  	25 
+PAP   	33	38	27 
+ABP   	111	132	100 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	98 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	111	132	101 
+PAP   	33	38	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	111	132	100 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	111	133	101 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+PAP   	33	38	27 
+ABP   	111	132	100 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+PAP   	33	38	29 
+ABP   	111	132	100 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+RESP  	25 
+ABP   	111	132	100 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+RESP  	25 
+ABP   	111	132	100 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+RESP  	25 
+ABP   	111	132	100 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	110	132	100 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	111	132	100 
+PAP   	33	37	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+PAP   	32	37	27 
+ABP   	110	131	99 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	110	132	99 
+PAP   	33	38	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+PAP   	32	37	27 
+ABP   	110	131	99 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	110	131	99 
+PAP   	32	38	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	110	132	99 
+PAP   	33	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	24 
+ABP   	110	131	99 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	24 
+ABP   	110	131	99 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	24 
+ABP   	110	132	100 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	24 
+ABP   	110	131	99 
+PAP   	33	39	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	110	131	100 
+PAP   	33	38	29 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	110	131	100 
+PAP   	33	38	29 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	110	131	100 
+PAP   	33	38	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	110	131	100 
+PAP   	33	38	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	110	131	99 
+PAP   	31	36	26 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	110	131	99 
+PAP   	32	37	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+RESP  	23 
+ABP   	110	131	99 
+PAP   	31	38	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+RESP  	23 
+ABP   	110	131	99 
+PAP   	32	37	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+RESP  	24 
+ABP   	110	131	99 
+PAP   	31	38	23 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	109	130	99 
+PAP   	31	39	23 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	110	131	99 
+PAP   	32	39	25 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	109	130	98 
+PAP   	31	42	19 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	109	130	99 
+PAP   	32	39	23 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	109	130	98 
+PAP   	32	38	23 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+RESP  	24 
+ABP   	109	130	98 
+PAP   	32	38	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+RESP  	24 
+PAP   	32	37	26 
+ABP   	108	130	98 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	108	129	97 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+PAP   	32	38	26 
+ABP   	108	129	97 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	108	129	97 
+PAP   	31	37	26 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+RESP  	25 
+ABP   	108	129	97 
+PAP   	32	36	26 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+RESP  	25 
+ABP   	108	129	97 
+PAP   	31	35	25 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	25 
+ABP   	108	129	97 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	25 
+ABP   	108	130	97 
+PAP   	32	36	26 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	25 
+ABP   	108	129	97 
+PAP   	31	36	26 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	108	130	97 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+PAP   	31	36	26 
+ABP   	108	130	97 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	25 
+ABP   	108	129	97 
+PAP   	31	35	26 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	108	130	97 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	108	129	97 
+PAP   	31	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	108	129	97 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	108	129	98 
+PAP   	32	36	26 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	108	129	97 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	108	129	98 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+RESP  	24 
+ABP   	108	129	97 
+PAP   	31	36	26 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+RESP  	24 
+ABP   	108	129	97 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+RESP  	23 
+PAP   	31	36	26 
+ABP   	108	129	97 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+RESP  	23 
+ABP   	108	129	97 
+PAP   	31	36	26 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	23 
+ABP   	108	129	98 
+PAP   	32	38	26 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	108	129	97 
+PAP   	32	38	26 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	108	129	97 
+PAP   	30	40	24 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	108	129	97 
+PAP   	30	40	24 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	108	129	97 
+PAP   	30	38	24 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	108	129	97 
+PAP   	32	37	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+PAP   	31	36	27 
+ABP   	108	129	97 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	108	129	97 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	108	129	98 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+PAP   	31	37	27 
+ABP   	108	128	97 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	108	129	98 
+PAP   	32	37	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	108	128	97 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	24 
+ABP   	108	129	98 
+PAP   	33	38	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	24 
+ABP   	108	128	98 
+PAP   	32	38	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	113 
+RESP  	24 
+ABP   	109	129	98 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	108	128	98 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	115 
+RESP  	25 
+PAP   	33	37	27 
+ABP   	108	129	98 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	126 
+RESP  	25 
+ABP   	108	129	97 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	99 
+HR    	114 
+PULSE 	126 
+RESP  	26 
+ABP   	109	129	98 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	126 
+RESP  	26 
+ABP   	109	129	98 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	125 
+RESP  	27 
+ABP   	109	130	99 
+PAP   	33	38	29 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	27 
+PAP   	33	39	28 
+ABP   	109	130	99 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	115 
+PULSE 	109 
+RESP  	28 
+ABP   	110	130	99 
+PAP   	34	38	29 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	109 
+RESP  	28 
+ABP   	109	130	99 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	109 
+RESP  	30 
+ABP   	109	130	99 
+PAP   	33	38	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	109 
+RESP  	31 
+ABP   	110	130	99 
+PAP   	33	39	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	109 
+RESP  	31 
+ABP   	110	130	100 
+PAP   	33	39	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	109 
+RESP  	31 
+ABP   	111	131	100 
+PAP   	33	39	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	101 
+RESP  	31 
+ABP   	110	130	100 
+PAP   	33	40	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	100 
+RESP  	33 
+ABP   	111	130	100 
+PAP   	33	40	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	125 
+RESP  	34 
+ABP   	111	131	101 
+PAP   	33	40	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	137 
+RESP  	34 
+ABP   	111	131	101 
+PAP   	33	40	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	159 
+RESP  	35 
+ABP   	111	131	101 
+PAP   	32	40	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	159 
+RESP  	35 
+ABP   	112	132	102 
+PAP   	33	41	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	159 
+RESP  	35 
+ABP   	112	132	102 
+PAP   	31	40	24 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	114 
+PULSE 	159 
+RESP  	36 
+PAP   	31	40	25 
+ABP   	113	132	102 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	113 
+PULSE 	159 
+RESP  	36 
+ABP   	113	133	103 
+PAP   	31	40	25 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	113 
+PULSE 	159 
+RESP  	36 
+ABP   	114	133	103 
+PAP   	32	41	25 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	113 
+PULSE 	163 
+RESP  	38 
+ABP   	114	134	103 
+PAP   	32	41	26 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	113 
+PULSE 	167 
+RESP  	39 
+ABP   	114	135	103 
+PAP   	32	41	26 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	113 
+PULSE 	167 
+RESP  	40 
+ABP   	114	134	104 
+PAP   	32	41	26 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	113 
+PULSE 	167 
+RESP  	40 
+ABP   	114	135	103 
+PAP   	32	41	26 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	113 
+PULSE 	167 
+RESP  	40 
+PAP   	32	41	26 
+ABP   	115	136	103 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	113 
+PULSE 	167 
+RESP  	41 
+ABP   	115	137	103 
+PAP   	32	42	27 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	112 
+PULSE 	167 
+RESP  	41 
+ABP   	115	137	103 
+PAP   	32	42	26 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	112 
+PULSE 	167 
+RESP  	42 
+ABP   	115	138	103 
+PAP   	32	42	28 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	112 
+PULSE 	167 
+RESP  	42 
+ABP   	116	139	105 
+PAP   	35	43	32 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	112 
+PULSE 	167 
+RESP  	42 
+PAP   	35	42	32 
+ABP   	116	140	105 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	112 
+PULSE 	167 
+RESP  	42 
+ABP   	117	140	105 
+PAP   	35	42	32 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	112 
+PULSE 	167 
+RESP  	42 
+ABP   	118	142	106 
+PAP   	36	43	32 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	112 
+PULSE 	151 
+RESP  	42 
+ABP   	118	141	106 
+PAP   	36	43	31 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	112 
+PULSE 	151 
+RESP  	39 
+ABP   	119	142	107 
+PAP   	36	43	31 
+C.O.  	3.85 
+Tblood	37.2 
+SpO2  	100 
+HR    	112 
+PULSE 	151 
+RESP  	39 
+ABP   	118	141	107 
+PAP   	36	43	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	132 
+RESP  	38 
+ABP   	118	141	107 
+PAP   	36	43	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	112 
+RESP  	38 
+ABP   	117	141	105 
+PAP   	35	42	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	112 
+RESP  	36 
+ABP   	116	140	104 
+PAP   	35	43	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	112 
+RESP  	36 
+ABP   	115	139	103 
+PAP   	34	40	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	112 
+RESP  	34 
+ABP   	115	139	102 
+PAP   	34	39	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	112 
+RESP  	34 
+ABP   	113	138	101 
+PAP   	33	39	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	112 
+RESP  	34 
+ABP   	113	138	100 
+PAP   	33	38	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	113 
+RESP  	30 
+PAP   	33	38	30 
+ABP   	113	137	100 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	113 
+RESP  	30 
+PAP   	32	37	29 
+ABP   	112	137	100 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	113 
+RESP  	30 
+ABP   	113	137	100 
+PAP   	33	38	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	113 
+RESP  	28 
+ABP   	112	136	99 
+PAP   	32	38	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	113 
+RESP  	28 
+PAP   	32	38	29 
+ABP   	112	136	99 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	28 
+ABP   	112	136	99 
+PAP   	32	38	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+RESP  	26 
+ABP   	111	135	98 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	26 
+PAP   	31	37	26 
+ABP   	111	135	98 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	26 
+ABP   	111	135	98 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	111	135	98 
+PAP   	32	37	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	111	134	98 
+PAP   	32	37	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	24 
+ABP   	111	134	98 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	111	134	98 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+PAP   	32	37	26 
+ABP   	110	133	98 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	110	133	98 
+PAP   	32	36	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	109	133	98 
+PAP   	31	36	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	109	132	97 
+PAP   	32	36	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	109	132	97 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	31	36	26 
+ABP   	109	132	97 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	32	36	27 
+ABP   	109	132	97 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	20 
+PAP   	32	37	27 
+ABP   	109	132	98 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	20 
+PAP   	32	37	27 
+ABP   	109	131	98 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	20 
+ABP   	109	131	98 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	32	37	27 
+ABP   	109	131	98 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	109	131	98 
+PAP   	31	36	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	32	37	28 
+ABP   	109	131	98 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	109	131	98 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	109	130	98 
+PAP   	31	37	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	109	130	98 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	109	130	98 
+PAP   	32	38	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	109	130	98 
+PAP   	32	38	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	109	129	98 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+RESP  	21 
+ABP   	109	129	98 
+PAP   	32	38	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+RESP  	21 
+ABP   	108	129	98 
+PAP   	31	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+RESP  	21 
+ABP   	109	129	98 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	112 
+RESP  	20 
+ABP   	108	129	98 
+PAP   	31	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+RESP  	22 
+ABP   	108	129	98 
+PAP   	31	36	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+RESP  	22 
+ABP   	108	129	98 
+PAP   	31	36	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+RESP  	22 
+ABP   	108	128	98 
+PAP   	30	35	25 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+RESP  	22 
+ABP   	108	128	98 
+PAP   	31	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+RESP  	22 
+ABP   	108	128	98 
+PAP   	31	36	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+RESP  	23 
+ABP   	108	128	99 
+PAP   	31	36	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+RESP  	23 
+ABP   	109	129	99 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+RESP  	23 
+ABP   	109	128	99 
+PAP   	31	37	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	113 
+RESP  	23 
+ABP   	109	128	99 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	113 
+RESP  	25 
+ABP   	109	129	99 
+PAP   	32	36	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	113 
+RESP  	25 
+ABP   	109	129	99 
+PAP   	32	36	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	114 
+RESP  	24 
+ABP   	109	129	99 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	114 
+RESP  	25 
+PAP   	32	37	26 
+ABP   	109	129	100 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	113 
+RESP  	27 
+ABP   	109	129	100 
+PAP   	31	36	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	113 
+RESP  	30 
+ABP   	110	129	100 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	113 
+RESP  	30 
+PAP   	31	36	26 
+ABP   	109	129	100 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	113 
+RESP  	30 
+ABP   	109	129	100 
+PAP   	31	37	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	113 
+RESP  	30 
+PAP   	32	38	28 
+ABP   	110	129	100 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	113 
+RESP  	27 
+ABP   	110	129	100 
+PAP   	32	38	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	113 
+RESP  	27 
+ABP   	110	129	100 
+PAP   	32	38	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	113 
+RESP  	27 
+ABP   	110	129	100 
+PAP   	32	36	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	113 
+RESP  	27 
+PAP   	31	37	26 
+ABP   	110	129	100 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	27 
+ABP   	110	130	100 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	27 
+ABP   	110	129	100 
+PAP   	30	36	24 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	27 
+ABP   	109	129	100 
+PAP   	32	38	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	26 
+ABP   	110	129	100 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	26 
+ABP   	110	129	100 
+PAP   	32	37	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	26 
+ABP   	110	129	100 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	24 
+ABP   	110	130	101 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	24 
+ABP   	110	130	101 
+PAP   	30	37	24 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	24 
+ABP   	111	131	101 
+PAP   	33	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	25 
+ABP   	111	131	102 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	25 
+ABP   	111	131	102 
+PAP   	32	37	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	25 
+ABP   	112	132	102 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	23 
+ABP   	112	132	103 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	23 
+ABP   	112	132	103 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	21 
+ABP   	113	133	103 
+PAP   	33	38	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	21 
+ABP   	113	133	103 
+PAP   	32	38	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	21 
+ABP   	113	133	103 
+PAP   	34	39	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	21 
+ABP   	114	134	104 
+PAP   	33	39	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	114	134	104 
+PAP   	33	39	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	114	134	104 
+PAP   	33	39	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	22 
+ABP   	114	135	105 
+PAP   	34	38	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	22 
+ABP   	114	135	105 
+PAP   	31	38	24 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	22 
+ABP   	115	135	105 
+PAP   	33	40	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	21 
+ABP   	115	136	105 
+PAP   	34	39	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	21 
+ABP   	115	136	105 
+PAP   	33	39	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	21 
+ABP   	115	136	105 
+PAP   	33	39	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	21 
+ABP   	115	136	105 
+PAP   	33	39	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	33	39	28 
+ABP   	115	137	105 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	21 
+PAP   	34	39	28 
+ABP   	116	137	106 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	21 
+ABP   	116	137	106 
+PAP   	34	39	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	21 
+ABP   	116	137	106 
+PAP   	33	39	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	21 
+ABP   	116	138	106 
+PAP   	34	40	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	21 
+ABP   	116	138	106 
+PAP   	33	39	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	21 
+PAP   	34	40	29 
+ABP   	117	138	106 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	21 
+ABP   	117	139	107 
+PAP   	34	40	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	21 
+ABP   	117	139	107 
+PAP   	34	40	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	21 
+PAP   	34	41	29 
+ABP   	118	140	107 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	20 
+ABP   	118	140	108 
+PAP   	35	41	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	20 
+ABP   	118	140	107 
+PAP   	34	41	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	20 
+ABP   	119	141	108 
+PAP   	35	41	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	21 
+ABP   	119	141	108 
+PAP   	34	41	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	21 
+ABP   	119	142	108 
+PAP   	35	41	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	21 
+ABP   	120	142	109 
+PAP   	35	41	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	21 
+ABP   	120	143	109 
+PAP   	35	41	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	21 
+ABP   	120	143	109 
+PAP   	35	42	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	21 
+ABP   	120	143	109 
+PAP   	35	42	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	21 
+ABP   	120	144	110 
+PAP   	33	40	26 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	121	144	110 
+PAP   	34	41	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	21 
+ABP   	121	144	110 
+PAP   	35	41	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	21 
+ABP   	121	144	111 
+PAP   	34	41	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	35	41	28 
+ABP   	121	144	110 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	122	145	111 
+PAP   	36	42	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	122	145	111 
+PAP   	36	42	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	36	43	31 
+ABP   	122	145	111 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	123	146	111 
+PAP   	36	43	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	122	146	111 
+PAP   	34	42	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	123	146	111 
+PAP   	35	42	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	123	147	112 
+PAP   	36	43	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	35	43	29 
+ABP   	123	147	112 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	36	43	31 
+ABP   	123	147	112 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	37	43	31 
+ABP   	124	148	112 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	35	42	30 
+ABP   	124	148	112 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	36	44	32 
+ABP   	124	148	112 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	20 
+PAP   	37	44	32 
+ABP   	124	149	113 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	20 
+ABP   	124	149	113 
+PAP   	37	44	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	20 
+PAP   	37	44	32 
+ABP   	124	149	113 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	125	150	113 
+PAP   	37	44	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	125	150	113 
+PAP   	37	45	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	125	150	113 
+PAP   	37	45	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	126	151	114 
+PAP   	37	45	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	125	151	114 
+PAP   	36	44	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	126	151	114 
+PAP   	37	44	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	126	151	114 
+PAP   	37	44	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	19 
+ABP   	126	152	115 
+PAP   	37	44	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	19 
+ABP   	126	152	114 
+PAP   	37	44	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	19 
+ABP   	127	152	115 
+PAP   	38	45	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	127	152	115 
+PAP   	37	45	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	38	45	32 
+ABP   	127	152	114 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	127	153	115 
+PAP   	38	45	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	19 
+ABP   	127	153	115 
+PAP   	36	45	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	19 
+PAP   	38	46	34 
+ABP   	127	153	115 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	128	154	115 
+PAP   	38	46	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	128	154	115 
+PAP   	38	46	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	128	154	115 
+PAP   	38	46	33 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	128	155	116 
+PAP   	38	46	33 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	37	45	32 
+ABP   	128	155	115 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	38	46	33 
+ABP   	128	155	116 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	128	155	116 
+PAP   	38	45	33 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	37	45	29 
+ABP   	128	155	116 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	129	156	116 
+PAP   	38	46	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	38	47	31 
+ABP   	129	156	116 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	129	156	116 
+PAP   	38	47	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	129	157	117 
+PAP   	39	47	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	38	46	32 
+ABP   	129	155	117 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	130	157	117 
+PAP   	39	47	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	40	47	34 
+ABP   	130	158	117 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	130	158	117 
+PAP   	39	47	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	116 
+PULSE 	109 
+RESP  	21 
+ABP   	130	158	117 
+PAP   	39	47	33 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	116 
+PULSE 	109 
+RESP  	21 
+ABP   	130	158	117 
+PAP   	40	48	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	109 
+RESP  	21 
+ABP   	130	158	117 
+PAP   	38	46	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	109 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	39	47	34 
+ABP   	131	158	117 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	21 
+ABP   	131	159	118 
+PAP   	39	48	33 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	21 
+ABP   	131	159	118 
+PAP   	39	48	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	131	159	118 
+PAP   	40	48	33 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	131	159	118 
+PAP   	39	47	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	131	159	118 
+PAP   	40	48	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	132	160	118 
+PAP   	40	48	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	132	160	118 
+PAP   	40	48	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	132	160	119 
+PAP   	40	48	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	132	160	119 
+PAP   	40	48	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	132	160	119 
+PAP   	40	48	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	132	161	119 
+PAP   	40	48	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	132	161	119 
+PAP   	40	48	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	133	161	119 
+PAP   	40	49	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	133	162	119 
+PAP   	41	49	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	39	48	33 
+ABP   	133	162	119 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	133	162	119 
+PAP   	40	48	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	133	162	119 
+PAP   	40	48	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	40	48	33 
+ABP   	133	162	119 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	133	162	119 
+PAP   	41	49	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	134	163	120 
+PAP   	40	49	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	40	49	34 
+ABP   	133	163	119 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	21 
+ABP   	134	163	120 
+PAP   	41	49	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	22 
+PAP   	41	48	35 
+ABP   	134	163	120 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	22 
+ABP   	134	163	119 
+PAP   	41	49	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	41	49	35 
+ABP   	134	164	120 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	40	48	33 
+ABP   	134	163	120 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	41	49	36 
+ABP   	134	164	120 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	164	120 
+PAP   	41	49	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	163	120 
+PAP   	41	49	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	164	120 
+PAP   	41	50	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	164	120 
+PAP   	41	50	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	42	50	37 
+ABP   	134	164	120 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	164	120 
+PAP   	42	50	37 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	164	119 
+PAP   	41	49	37 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	165	120 
+PAP   	42	50	37 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	165	119 
+PAP   	41	49	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	165	119 
+PAP   	41	50	37 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	165	119 
+PAP   	41	50	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	165	119 
+PAP   	41	50	37 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	166	119 
+PAP   	42	50	37 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	134	165	119 
+PAP   	41	50	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	134	166	119 
+PAP   	41	50	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	106 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	134	166	119 
+PAP   	42	50	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	105 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	134	166	119 
+PAP   	41	50	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	105 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+PAP   	41	51	34 
+ABP   	134	166	119 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	105 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	135	167	120 
+PAP   	41	51	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+PAP   	41	51	34 
+ABP   	135	167	119 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	135	167	120 
+PAP   	42	51	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	42	51	35 
+ABP   	135	167	120 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	135	167	120 
+PAP   	40	49	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	135	167	120 
+PAP   	42	50	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	135	167	120 
+PAP   	40	49	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	135	167	120 
+PAP   	40	50	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	135	167	120 
+PAP   	41	50	33 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	41	50	33 
+ABP   	135	167	120 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	135	167	120 
+PAP   	41	50	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	42	50	36 
+ABP   	135	168	120 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	135	168	120 
+PAP   	42	50	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	135	168	120 
+PAP   	42	50	37 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	136	168	120 
+PAP   	42	51	37 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	136	168	121 
+PAP   	42	52	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	135	168	120 
+PAP   	42	52	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	136	168	120 
+PAP   	42	52	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	136	168	121 
+PAP   	42	51	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	135	168	120 
+PAP   	42	51	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	135	168	120 
+PAP   	42	51	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	42	51	35 
+ABP   	135	168	120 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	135	168	120 
+PAP   	42	51	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	135	168	120 
+PAP   	42	51	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	135	168	120 
+PAP   	41	51	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	135	168	120 
+PAP   	42	51	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	135	168	120 
+PAP   	42	51	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	135	168	120 
+PAP   	42	52	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	135	168	120 
+PAP   	42	52	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	21 
+ABP   	135	168	120 
+PAP   	42	52	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	21 
+ABP   	135	168	120 
+PAP   	41	51	33 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+RESP  	21 
+ABP   	135	168	120 
+PAP   	41	51	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	41	52	33 
+ABP   	135	168	120 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	42	52	35 
+ABP   	135	168	120 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	42	52	34 
+ABP   	135	168	120 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	41	52	34 
+ABP   	135	168	119 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	135	168	120 
+PAP   	42	52	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	135	168	120 
+PAP   	42	51	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	135	168	119 
+PAP   	42	51	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	42	51	37 
+ABP   	135	168	120 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	135	168	119 
+PAP   	42	52	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	135	168	119 
+PAP   	42	52	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	42	52	35 
+ABP   	135	168	119 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	135	168	119 
+PAP   	42	52	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	116 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	135	168	119 
+PAP   	42	51	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	116 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	42	51	35 
+ABP   	135	168	119 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	116 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	168	119 
+PAP   	41	50	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	116 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	135	168	119 
+PAP   	42	50	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	116 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	40	50	32 
+ABP   	134	167	119 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	116 
+PULSE 	115 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	167	119 
+PAP   	42	51	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	167	119 
+PAP   	42	51	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	167	119 
+PAP   	40	49	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	167	119 
+PAP   	41	50	33 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	167	119 
+PAP   	41	51	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	167	118 
+PAP   	42	51	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	167	119 
+PAP   	42	51	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	42	51	36 
+ABP   	134	167	119 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	167	119 
+PAP   	42	51	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	22 
+ABP   	134	167	119 
+PAP   	42	51	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+RESP  	22 
+ABP   	134	167	119 
+PAP   	40	49	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	167	119 
+PAP   	40	49	33 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	167	119 
+PAP   	41	50	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	41	50	36 
+ABP   	134	166	118 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	115 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	42	51	36 
+ABP   	134	166	118 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	114 
+PULSE 	114 
+RESP  	22 
+ABP   	134	167	119 
+PAP   	42	52	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	22 
+ABP   	134	166	118 
+PAP   	42	52	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	22 
+ABP   	134	167	118 
+PAP   	42	52	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	22 
+PAP   	42	52	35 
+ABP   	133	166	118 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+RESP  	22 
+ABP   	133	166	118 
+PAP   	42	52	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	114 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	134	166	118 
+PAP   	42	52	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	133	166	118 
+PAP   	41	50	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	133	166	118 
+PAP   	42	51	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	133	166	118 
+PAP   	42	51	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	41	50	36 
+ABP   	133	165	117 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	133	165	117 
+PAP   	42	50	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	114 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	132	165	117 
+PAP   	41	52	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	41	51	35 
+ABP   	132	165	117 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	42	51	35 
+ABP   	132	165	117 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	132	165	117 
+PAP   	42	52	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	132	164	117 
+PAP   	42	51	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	132	165	117 
+PAP   	42	51	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	132	164	117 
+PAP   	40	50	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	132	164	117 
+PAP   	41	50	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	132	164	117 
+PAP   	40	50	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	132	164	116 
+PAP   	40	50	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+RESP  	21 
+ABP   	132	164	116 
+PAP   	41	50	33 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+RESP  	21 
+ABP   	132	163	117 
+PAP   	41	50	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+RESP  	21 
+ABP   	131	163	116 
+PAP   	41	50	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	132	163	116 
+PAP   	41	50	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	131	163	116 
+PAP   	41	50	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	131	163	116 
+PAP   	40	49	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	131	163	116 
+PAP   	41	49	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	131	163	116 
+PAP   	41	49	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	131	162	115 
+PAP   	41	50	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	131	162	116 
+PAP   	41	50	36 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	130	162	115 
+PAP   	41	50	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	41	50	35 
+ABP   	130	162	115 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	130	162	115 
+PAP   	41	50	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	41	50	35 
+ABP   	130	161	115 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+RESP  	21 
+PAP   	42	50	35 
+ABP   	130	162	115 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	113 
+PULSE 	112 
+RESP  	21 
+ABP   	130	162	115 
+PAP   	41	50	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	130	161	115 
+PAP   	40	49	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	41	49	35 
+ABP   	130	162	115 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	130	161	115 
+PAP   	40	49	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	130	161	115 
+PAP   	41	49	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	130	162	115 
+PAP   	41	49	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	130	161	114 
+PAP   	40	48	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	41	49	34 
+ABP   	130	161	115 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	129	161	114 
+PAP   	39	48	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	113 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	39	48	33 
+ABP   	129	161	114 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	129	161	114 
+PAP   	40	49	33 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	129	161	114 
+PAP   	39	49	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	40	49	33 
+ABP   	129	161	114 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	129	160	114 
+PAP   	38	48	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	129	160	114 
+PAP   	39	48	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	129	160	114 
+PAP   	39	48	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	128	159	114 
+PAP   	38	48	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	128	159	114 
+PAP   	39	48	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	112 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	128	159	113 
+PAP   	39	49	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	112 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	23 
+ABP   	128	159	113 
+PAP   	40	48	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+RESP  	23 
+ABP   	128	159	114 
+PAP   	40	49	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+RESP  	23 
+ABP   	128	159	114 
+PAP   	40	49	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	112 
+PULSE 	112 
+RESP  	23 
+ABP   	128	158	113 
+PAP   	40	49	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	112 
+PULSE 	112 
+RESP  	22 
+ABP   	128	158	113 
+PAP   	40	49	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+RESP  	22 
+ABP   	127	158	113 
+PAP   	39	48	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	127	158	113 
+PAP   	40	48	35 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	40	48	34 
+ABP   	127	158	113 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	127	157	112 
+PAP   	39	48	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+RESP  	22 
+ABP   	127	157	112 
+PAP   	40	48	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	113 
+PULSE 	112 
+RESP  	22 
+ABP   	127	157	113 
+PAP   	40	49	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	112 
+RESP  	22 
+ABP   	126	156	112 
+PAP   	40	49	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	112 
+RESP  	22 
+ABP   	127	156	112 
+PAP   	40	49	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	112 
+RESP  	22 
+ABP   	126	156	112 
+PAP   	40	50	33 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	126	156	112 
+PAP   	40	50	34 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+PAP   	40	49	34 
+ABP   	126	156	112 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	112 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	125	155	111 
+PAP   	38	48	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	112 
+RESP  	22 
+ABP   	125	155	111 
+PAP   	38	48	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	112 
+RESP  	21 
+ABP   	125	154	111 
+PAP   	38	48	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	111 
+RESP  	21 
+ABP   	125	154	111 
+PAP   	39	48	33 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	112 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	125	154	111 
+PAP   	39	48	33 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	112 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	38	48	32 
+ABP   	124	153	111 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	112 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	38	46	31 
+ABP   	124	153	110 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	112 
+PULSE 	111 
+RESP  	22 
+ABP   	125	153	110 
+PAP   	38	47	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	112 
+PULSE 	111 
+RESP  	22 
+ABP   	124	153	110 
+PAP   	38	48	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	112 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	22 
+ABP   	124	153	110 
+PAP   	39	48	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	112 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	124	153	110 
+PAP   	39	49	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	112 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	124	152	110 
+PAP   	38	48	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	124	152	110 
+PAP   	38	48	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	111 
+PULSE 	111 
+RESP  	21 
+ABP   	124	152	110 
+PAP   	38	48	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+RESP  	21 
+ABP   	124	151	110 
+PAP   	37	46	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	124	151	110 
+PAP   	38	46	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	123	152	110 
+PAP   	38	47	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	123	151	109 
+PAP   	38	47	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	38	47	32 
+ABP   	123	151	110 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	123	151	109 
+PAP   	38	48	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	123	150	109 
+PAP   	38	48	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	38	48	32 
+ABP   	123	151	110 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	36	44	28 
+ABP   	123	150	109 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	123	150	109 
+PAP   	37	45	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+ABP   	123	150	109 
+PAP   	37	45	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	37	45	30 
+ABP   	122	150	109 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	38	45	32 
+ABP   	122	149	109 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	38	46	32 
+ABP   	122	149	109 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	37	45	31 
+ABP   	122	149	108 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	21 
+PAP   	38	46	33 
+ABP   	122	149	108 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	122	149	108 
+PAP   	38	46	33 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	35	43	28 
+ABP   	121	148	108 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	121	148	108 
+PAP   	36	44	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	121	148	108 
+PAP   	37	45	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	36	44	29 
+ABP   	121	148	108 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	121	148	108 
+PAP   	36	44	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	37	44	31 
+ABP   	121	148	108 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	36	46	28 
+ABP   	121	147	108 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	121	147	107 
+PAP   	37	46	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	121	147	108 
+PAP   	37	46	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	120	146	107 
+PAP   	35	43	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	120	146	107 
+PAP   	36	44	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	120	146	107 
+PAP   	36	44	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	120	146	107 
+PAP   	36	44	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	119	145	106 
+PAP   	37	45	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	120	145	106 
+PAP   	37	45	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	37	45	30 
+ABP   	119	145	106 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	37	45	31 
+ABP   	119	145	106 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	119	145	106 
+PAP   	37	45	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	119	144	106 
+PAP   	36	44	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	119	144	106 
+PAP   	37	44	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	118	144	106 
+PAP   	37	45	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	118	144	105 
+PAP   	36	43	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	118	144	105 
+PAP   	37	44	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	118	144	106 
+PAP   	37	44	32 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	111 
+PULSE 	111 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	36	43	30 
+ABP   	118	143	105 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	111 
+PULSE 	111 
+RESP  	20 
+ABP   	118	144	105 
+PAP   	36	44	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	111 
+PULSE 	111 
+RESP  	20 
+ABP   	118	143	105 
+PAP   	36	43	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	111 
+PULSE 	111 
+RESP  	20 
+PAP   	36	43	31 
+ABP   	118	143	105 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	118	143	105 
+PAP   	37	44	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	36	45	31 
+ABP   	118	143	105 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	36	45	30 
+ABP   	117	142	105 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	118	143	105 
+PAP   	37	45	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	117	142	105 
+PAP   	36	44	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	117	142	104 
+PAP   	36	44	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	36	44	30 
+ABP   	117	142	104 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	117	142	104 
+PAP   	36	44	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	111 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	117	141	104 
+PAP   	36	43	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	110 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+PAP   	37	44	31 
+ABP   	117	141	104 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	110 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	116	141	104 
+PAP   	36	44	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	110 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	116	141	104 
+PAP   	36	44	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	110 
+PULSE 	110 
+RESP  	20 
+ABP   	117	141	104 
+PAP   	37	44	31 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	110 
+PULSE 	110 
+RESP  	20 
+ABP   	116	141	104 
+PAP   	34	43	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	110 
+PULSE 	110 
+RESP  	20 
+ABP   	116	140	104 
+PAP   	35	42	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	110 
+PULSE 	110 
+RESP  	20 
+ABP   	116	141	104 
+PAP   	36	43	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	110 
+PULSE 	110 
+RESP  	20 
+ABP   	116	140	104 
+PAP   	35	42	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	110 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	116	140	104 
+PAP   	36	43	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	110 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	116	140	104 
+PAP   	36	43	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	110 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	116	140	103 
+PAP   	34	43	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	110 
+PULSE 	110 
+RESP  	20 
+ABP   	116	140	103 
+PAP   	34	43	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	110 
+PULSE 	110 
+RESP  	20 
+ABP   	116	140	103 
+PAP   	35	43	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	110 
+PULSE 	110 
+RESP  	20 
+ABP   	115	139	103 
+PAP   	34	42	28 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	110 
+PULSE 	110 
+INOP	INCREASE ECG SIZE  
+RESP  	20 
+ABP   	115	139	103 
+PAP   	35	43	29 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	100 
+HR    	110 
+PULSE 	110 
+RESP  	20 
+ABP   	115	139	103 
+PAP   	35	43	30 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	110 
+PULSE 	110 
+RESP  	20 
+ABP   	115	138	102 
+PAP   	33	41	27 
+C.O.  	3.85 
+Tblood	37.1 
+SpO2  	99 
+HR    	110 
+PULSE 	110 

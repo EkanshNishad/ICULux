@@ -1,0 +1,4689 @@
+[04:36:46 03/03/1995]	05500079.txt 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	24	30	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+PAP   	23	31	19 
+ABP   	87	112	76 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+PAP   	23	30	19 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	21	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	24	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	29	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	88 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	88 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	24	30	21 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+PAP   	23	30	20 
+ABP   	87	112	76 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	24	30	21 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+PAP   	22	30	18 
+ABP   	87	112	76 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	24	30	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+PAP   	23	30	19 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+PAP   	22	30	18 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+PAP   	22	30	18 
+ABP   	87	112	76 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	24	30	21 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	30	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	29	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+PAP   	22	31	18 
+ABP   	87	112	76 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+PAP   	22	31	17 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+PAP   	23	31	19 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	88 
+RESP  	15 
+PAP   	23	31	19 
+ABP   	87	112	76 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	21	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	86	111	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	111	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	88 
+PULSE 	88 
+RESP  	15 
+PAP   	22	30	18 
+ABP   	87	111	76 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	88 
+PULSE 	88 
+RESP  	15 
+ABP   	86	111	76 
+PAP   	21	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	88 
+PULSE 	88 
+RESP  	15 
+ABP   	86	111	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	88 
+PULSE 	88 
+RESP  	15 
+ABP   	87	111	76 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	88 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	88 
+PULSE 	89 
+RESP  	15 
+ABP   	86	111	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	88 
+PULSE 	89 
+RESP  	15 
+ABP   	87	111	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	88 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+PAP   	22	30	18 
+ABP   	87	111	76 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	111	76 
+PAP   	22	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	111	76 
+PAP   	21	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	111	76 
+PAP   	22	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+PAP   	22	30	17 
+ABP   	87	111	76 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+PAP   	23	32	20 
+ABP   	87	111	76 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+PAP   	23	30	19 
+ABP   	87	112	76 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	111	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	88 
+RESP  	15 
+ABP   	87	111	76 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	30	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	111	76 
+PAP   	22	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	86	111	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	111	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	86	111	76 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	111	76 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+ABP   	87	111	76 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	111	76 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	111	76 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	112	77 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	112	77 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+PAP   	22	30	18 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	24	32	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	113	77 
+PAP   	22	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	112	77 
+PAP   	23	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	16 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+PAP   	23	30	18 
+ABP   	88	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	113	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	32	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	88 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+PAP   	22	31	17 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+PAP   	23	31	19 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+PAP   	22	30	18 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+PAP   	23	31	18 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+PAP   	24	31	20 
+ABP   	87	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	24	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+PAP   	22	30	17 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	112	77 
+PAP   	24	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	112	77 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	92 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	92 
+RESP  	15 
+ABP   	88	112	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	88	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	88	112	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	24	33	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+PAP   	23	31	18 
+ABP   	87	112	76 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+PAP   	23	31	18 
+ABP   	87	112	76 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+PAP   	24	32	20 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+PAP   	23	31	19 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	112	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	24	33	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	32	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	24	33	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+PAP   	23	30	18 
+ABP   	87	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	24	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+PAP   	23	31	18 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	91 
+RESP  	15 
+ABP   	87	113	77 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	91 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	106 
+RESP  	15 
+ABP   	87	113	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	112 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	112 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	112 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	112 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	112 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+PAP   	22	30	18 
+ABP   	88	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+PAP   	23	31	19 
+ABP   	88	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	30	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	88 
+PULSE 	88 
+RESP  	15 
+ABP   	87	113	77 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	88 
+PULSE 	88 
+RESP  	15 
+ABP   	87	113	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	88 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	88 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+PAP   	23	31	19 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	76 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+PAP   	22	30	18 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	24	32	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	113	77 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+PAP   	22	30	18 
+ABP   	88	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+PAP   	23	31	19 
+ABP   	88	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+PAP   	23	31	18 
+ABP   	88	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	112	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	24	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	112	77 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	30	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	92 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	92 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	24	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	92 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	92 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	24	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	93 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	93 
+RESP  	15 
+PAP   	23	31	17 
+ABP   	88	113	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	93 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	24	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	93 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	23	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	93 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	93 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	92 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	23	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	92 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	92 
+RESP  	15 
+ABP   	88	114	78 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	92 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	88	114	78 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	25	30	21 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	30	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+PAP   	22	31	18 
+ABP   	88	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+PAP   	24	30	21 
+ABP   	88	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	30	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	24	30	22 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	30	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	24	30	21 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	30	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	113	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	113	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	112	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	87	113	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+PAP   	22	31	17 
+ABP   	87	112	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+PAP   	24	31	19 
+ABP   	88	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+PAP   	23	30	20 
+ABP   	88	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	25	30	22 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+PAP   	23	30	19 
+ABP   	88	113	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+PAP   	23	30	19 
+ABP   	88	113	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	25	31	21 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	24	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	32	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+PAP   	24	32	20 
+ABP   	88	113	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+PAP   	23	31	18 
+ABP   	88	113	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	24	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	32	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+PAP   	22	30	18 
+ABP   	88	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	92 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	24	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	92 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	92 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	92 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	25	30	21 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	92 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	92 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	92 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	92 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	24	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	92 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	92 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	92 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	24	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	92 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	25	31	21 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	92 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	92 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	91 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	23	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	24	32	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	90 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	32	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+PAP   	23	31	19 
+ABP   	88	113	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+PAP   	23	32	19 
+ABP   	88	113	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+PAP   	23	32	19 
+ABP   	89	113	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	92 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	24	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	25	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	31	21 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+PAP   	24	32	19 
+ABP   	88	113	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+PAP   	24	31	21 
+ABP   	88	114	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	92 
+PULSE 	90 
+RESP  	15 
+PAP   	23	31	19 
+ABP   	88	114	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+PAP   	24	31	20 
+ABP   	88	114	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	114	78 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	114	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	32	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	114	78 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	24	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	24	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	92 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	24	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	92 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	24	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	92 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	92 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	93 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	24	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	92 
+RESP  	15 
+PAP   	23	31	18 
+ABP   	89	114	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	92 
+RESP  	15 
+PAP   	23	31	18 
+ABP   	89	114	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+PAP   	24	32	19 
+ABP   	89	114	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	92 
+PULSE 	92 
+RESP  	15 
+PAP   	23	31	18 
+ABP   	89	114	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	24	30	21 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	30	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+PAP   	22	31	18 
+ABP   	89	114	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	92 
+PULSE 	90 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	24	32	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	24	31	21 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	89 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	24	31	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	30	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	30	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	90 
+RESP  	15 
+PAP   	22	30	19 
+ABP   	88	113	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+PAP   	22	31	17 
+ABP   	88	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+PAP   	23	31	20 
+ABP   	88	113	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	24	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+PAP   	23	31	19 
+ABP   	89	113	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	30	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	24	32	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	24	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	89	113	78 
+PAP   	23	30	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	114	78 
+PAP   	24	32	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	114	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	24	33	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	24	32	20 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	88 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+PAP   	23	31	18 
+ABP   	88	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	88 
+RESP  	15 
+PAP   	22	31	18 
+ABP   	88	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+PAP   	23	31	18 
+ABP   	88	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+PAP   	22	31	18 
+ABP   	88	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+PAP   	23	31	18 
+ABP   	88	113	77 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	23	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+PAP   	23	32	18 
+ABP   	88	113	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	90 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	23	32	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	32	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	91 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	79 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	22	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	92 
+PULSE 	91 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	89	115	79 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	91 
+PULSE 	90 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	19 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	32	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	22	31	17 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+PAP   	23	31	18 
+ABP   	89	114	78 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	89 
+PULSE 	89 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	89	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	114	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	114	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	114	78 
+PAP   	23	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	78 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	99 
+HR    	90 
+PULSE 	89 
+RESP  	15 
+ABP   	88	113	77 
+PAP   	22	31	18 
+C.O.  	3.85 
+Tblood	37 
+SpO2  	100 
+HR    	90 
+PULSE 	89 
