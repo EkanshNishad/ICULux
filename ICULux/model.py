@@ -8,6 +8,8 @@ from datetime import time
 from datetime import date
 import matplotlib.pyplot as plt
 from datetime import datetime
+
+import requests
 from pandas import Series
 from logging import Logger
 from pandas._typing import Level
@@ -23,6 +25,12 @@ from statsmodels.tsa.api import VAR
 from statsmodels.tsa.stattools import adfuller
 from statsmodels.tools.eval_measures import rmse, aic
 
+
+def download_txt(example_txt, name):
+    filename = name + ".txt"
+    r = requests.get(example_txt)
+    with open(filename, 'wb') as f:
+        f.write(r.content)
 # In this block all the files of a patient is combined in one. The main takeaway is resp.txt which contains the mean values of RESP every 1 minute window.
 
 spark = SparkSession.builder.master('local[*]').appName('ICULux').config("spark.files.overwrite", "true") \
@@ -41,11 +49,19 @@ del fileDirectory[0]
 del fileDirectory[0]
 
 schema = StructType([
-    StructField("Variable", StringType(), True),
-    StructField("Val1", FloatType(), True),
-    StructField("Val2", FloatType(), True),
-    StructField("Val3", FloatType(), True)])
+    StructField("Name", StringType(), True),
+    StructField("val1", FloatType(), True),
+    StructField("val2", FloatType(), True),
+    StructField("val3", FloatType(), True)])
 
+if (os.path.isfile('./resp.txt')):
+    os.remove('./resp.txt')
+if (os.path.isfile('./hr.txt')):
+    os.remove('./hr.txt')
+if (os.path.isfile('./pulse.txt')):
+    os.remove('./pulse.txt')
+if (os.path.isfile('./spo2.txt')):
+    os.remove('./spo2.txt')
 for fileName in fileDirectory:
     fileName = fileName[:-1] + '.txt'
     print(fileName)
@@ -55,9 +71,12 @@ for fileName in fileDirectory:
     ssc = StreamingContext(sc, 1)
     conf = SparkConf().setMaster("local[2]").setAppName("NetworkWordCount")
     url = "https://physionet.org/files/mimicdb/1.0.0/252/" + fileName
-    sc.addFile(url)
+    if os.path.isfile("tmp/" + fileName + ".txt"):
+        print("file present")
+    else:
+        download_txt(url, "tmp/" + fileName)
 
-    with open(SparkFiles.get(fileName), 'r') as infile:
+    with open("tmp/" + fileName + ".txt", 'r') as infile:
         lines = infile.readlines()
     lines = [line.replace(' ', '') for line in lines]
     with open('output_file.txt', 'w') as outfile:
@@ -65,28 +84,28 @@ for fileName in fileDirectory:
 
     readfrmfile = spark.read.csv(
         "./output_file.txt", header="false", schema=schema, sep='\\t')
-    readfrmfile = readfrmfile.filter((col('Variable').startswith('[') == False) & (
-            col('Variable') != "INOP") & (col('Variable') != "ALARM"))
+    readfrmfile = readfrmfile.filter((col('Name').startswith('[') == False) & (
+            col('Name') != "INOP") & (col('Name') != "ALARM"))
 
     spark.conf.set("spark.sql.execution.arrow.enabled", "false")
     readfrmfile = readfrmfile.toPandas()
 
     # mention the parameter to separate
-    resp = readfrmfile[readfrmfile['Variable'] == "RESP"]
-    del resp['Val2']
-    del resp['Val3']
+    resp = readfrmfile[readfrmfile['Name'] == "RESP"]
+    del resp['val2']
+    del resp['val3']
 
-    hr = readfrmfile[readfrmfile['Variable'] == "HR"]
-    del hr['Val2']
-    del hr['Val3']
+    hr = readfrmfile[readfrmfile['Name'] == "HR"]
+    del hr['val2']
+    del hr['val3']
 
-    pulse = readfrmfile[readfrmfile['Variable'] == "PULSE"]
-    del pulse['Val2']
-    del pulse['Val3']
+    pulse = readfrmfile[readfrmfile['Name'] == "PULSE"]
+    del pulse['val2']
+    del pulse['val3']
 
-    spo2 = readfrmfile[readfrmfile['Variable'] == "SpO2"]
-    del spo2['Val2']
-    del spo2['Val3']
+    spo2 = readfrmfile[readfrmfile['Name'] == "SpO2"]
+    del spo2['val2']
+    del spo2['val3']
 
     # partitioning dataframe, window size: approx 1 minute
     resp_split = np.array_split(resp, 10)
@@ -98,6 +117,7 @@ for fileName in fileDirectory:
     file_object = open('./resp.txt', 'a')
     for i in resp_split:
         temp = i.mean(axis=0, skipna=True)
+        print(temp)
         file_object.write(str(temp) + '\n')
     file_object.close()
 
@@ -105,6 +125,7 @@ for fileName in fileDirectory:
     file_object = open('./hr.txt', 'a')
     for i in hr_split:
         temp = i.mean(axis=0, skipna=True)
+        print(temp)
         file_object.write(str(temp) + '\n')
     file_object.close()
 
@@ -112,6 +133,7 @@ for fileName in fileDirectory:
     file_object = open('./pulse.txt', 'a')
     for i in pulse_split:
         temp = i.mean(axis=0, skipna=True)
+        print(temp)
         file_object.write(str(temp) + '\n')
     file_object.close()
 
@@ -119,6 +141,7 @@ for fileName in fileDirectory:
     file_object = open('./spo2.txt', 'a')
     for i in spo2_split:
         temp = i.mean(axis=0, skipna=True)
+        print(temp)
         file_object.write(str(temp) + '\n')
     file_object.close()
 

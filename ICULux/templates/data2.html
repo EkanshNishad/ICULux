@@ -35,18 +35,27 @@
       name = '#' + name
       
       var element = document.querySelector(name)
-      if(data.prediction != undefined && data.prediction != null)
+      if(data.prediction !== undefined && data.prediction !== null)
       {
         element.querySelector(".prevalue").innerText = data.prediction
       }
 
-      if(data.perchange != undefined && data.perchange != null)
+      if(data.perchange !== undefined && data.perchange !== null)
       {
         element.querySelector(".pchange").innerText = data.perchange
       }
-      element.querySelector(".val1").innerText = data.val1
+
+      if(data.val1 !== undefined && data.val1 != null)
+      {
+        
+        element.querySelector(".val1").innerText = data.val1
+      }
+      
       element.querySelector(".condition").innerText = String(data.condition)
-      if(data.message != undefined && data.message != null)
+
+      
+
+      if(data.message !== undefined && data.message !== null)
       {
         element.querySelector(".message").innerText = data.message
       }
@@ -57,15 +66,155 @@
       element.querySelector(".change").innerText = data.change
       
       
-      if(data.val2 != undefined && data.val2 != null)
+      if(data.val2 !== undefined && data.val2 !== null)
       {
         element.querySelector(".val2").innerText = data.val2
       }
-      else(data.val3 != undefined && data.val3 != null)
+
+      if(data.val3 !== undefined && data.val3 !== null)
       {
         element.querySelector(".val3").innerText = data.val3
       }
-      element.querySelector(".drift").innerText = data.prediction
+      element.querySelector(".drift").innerText = data.drift
+
+      
+      
+      
+
+      if(String(data.condition)=="Critical")
+      {
+        element.querySelector(".val1").style.color = "#ff3838"
+        if(data.val2 !== undefined && data.val2 !== null)
+        {
+          element.querySelector(".val2").style.color = "#ff3838"
+        }
+
+        if(data.val3 !== undefined && data.val3 !== null)
+        {
+          element.querySelector(".val3").style.color = "#ff3838"
+        }
+
+        element.querySelector(".nature").style.background = "#ff3838"
+        element.querySelector(".percent").style.background = "#ff3838"
+        element.querySelector(".noc").style.background = "#ff3838"
+        if(element.querySelector(".prediction") !== null)
+        {
+          element.querySelector(".prediction").style.background = "#ff3838"
+          element.querySelector(".perchange").style.background = "#ff3838"
+        }
+        
+      }
+      else if(String(data.condition)=="Needs Care")
+      {
+        element.querySelector(".val1").style.color = "#ffb302"
+        if(data.val2 !== undefined && data.val2 !== null)
+        {
+          element.querySelector(".val2").style.color = "#ffb302"
+        }
+
+        if(data.val3 !== undefined && data.val3 !== null)
+        {
+          element.querySelector(".val3").style.color = "#ffb302"
+        }
+
+        element.querySelector(".nature").style.background = "#ffb302"
+        element.querySelector(".percent").style.background = "#ffb302"
+        element.querySelector(".noc").style.background = "#ffb302"
+        if(element.querySelector(".prediction") !== null)
+        {
+          element.querySelector(".prediction").style.background = "#ffb302"
+          element.querySelector(".perchange").style.background = "#ffb302"
+        }
+        
+      }
+      else{
+        element.querySelector(".val1").style.color = "#56f000"
+        if(data.val2 !== undefined && data.val2 !== null)
+        {
+          element.querySelector(".val2").style.color = "#56f000"
+        }
+
+        if(data.val3 !== undefined && data.val3 !== null)
+        {
+          element.querySelector(".val3").style.color = "#56f000"
+        }
+        element.querySelector(".nature").style.background = "#56F000"
+        element.querySelector(".percent").style.background = "#56F000"
+        element.querySelector(".noc").style.background = "#56F000"
+        if(element.querySelector(".prediction") !== null)
+        {
+          element.querySelector(".prediction").style.background = "#56F000"
+          element.querySelector(".perchange").style.background = "#56F000"
+        }
+        
+      }
+
+      if(data.val1 !== undefined && data.val1 !== null)
+      {
+        if(element.querySelector(".val1").textContent == "0")
+        {
+          element.querySelector(".message").innerText = " The monitoring system seems to be malfunctioning for this vital sign."
+          element.querySelector(".val1").style.color = "#2dccff"
+          element.querySelector(".nature").style.background = "#2dccff"
+          element.querySelector(".percent").style.background = "#2dccff"
+          element.querySelector(".noc").style.background = "#2dccff"
+          if(element.querySelector(".prediction") !== null)
+          {
+            element.querySelector(".prediction").style.background = "#2dccff"
+            element.querySelector(".perchange").style.background = "#2dccff"
+          }
+        }
+        
+      }
+      else{
+        element.querySelector(".message").innerText = " The monitoring system seems to be malfunctioning for this vital sign."
+        element.querySelector(".val1").style.color = "#2dccff"
+        element.querySelector(".val2").style.color = "#2dccff"
+        element.querySelector(".val3").style.color = "#2dccff"
+          element.querySelector(".nature").style.background = "#2dccff"
+          element.querySelector(".percent").style.background = "#2dccff"
+          element.querySelector(".noc").style.background = "#2dccff"
+          if(element.querySelector(".prediction") !== null)
+          {
+            element.querySelector(".prediction").style.background = "#2dccff"
+            element.querySelector(".perchange").style.background = "#2dccff"
+          }
+      }
+      if(data.val2 !== undefined && data.val2 !== null)
+      {
+        if(element.querySelector(".val2").textContent == "0")
+        {
+          element.querySelector(".val2").style.color = "#2dccff"
+          element.querySelector(".nature").style.background = "#2dccff"
+          element.querySelector(".percent").style.background = "#2dccff"
+          element.querySelector(".noc").style.background = "#2dccff"
+          if(element.querySelector(".prediction") !== null)
+          {
+            element.querySelector(".prediction").style.background = "#2dccff"
+            element.querySelector(".perchange").style.background = "#2dccff"
+          }
+        }
+        
+       
+      }
+      if(data.val3 !== undefined && data.val3 !== null)
+      {
+        if(element.querySelector(".val3").textContent == "0")
+        {
+          element.querySelector(".val3").style.color = "#2dccff"
+          element.querySelector(".nature").style.background = "#2dccff"
+          element.querySelector(".percent").style.background = "#2dccff"
+          element.querySelector(".noc").style.background = "#2dccff"
+          if(element.querySelector(".prediction") !== null)
+          {
+            element.querySelector(".prediction").style.background = "#2dccff"
+            element.querySelector(".perchange").style.background = "#2dccff"
+          }
+        }
+        
+        
+      }
+      
 
       
       
@@ -74,7 +223,10 @@
     }, true)
 </script>
 <h3>Patient Information</h3>
-  <table name="patient_data" style="width: 100%;">
+  <img src="static/img/patient.png" style="margin-left: 40%;">
+  <table name="patient_data" style="
+  width:40%; margin-left:35%">
+    <caption></caption>
     {% for row in data %}
     <tbody>
         <tr>
@@ -105,7 +257,7 @@
     {% endfor %}
   </table>
 
-  <a href="/data_stream"><button name="start" id="start">Start</button></a>
+  <a href="/data_stream"><button name="start" id="start" style="background:transparent; border:none; color:transparent;">Start</button></a>
 
   
   <div id="RESP">
@@ -123,15 +275,15 @@
       <span class="change">&#91;INACTIVE&#93;</span>
     </div>
     <div class="percent">
-      <span>Drift:</span>
+      <span>Drift:</span><br>
       <span class="drift">&#91;INACTIVE&#93;</span>
     </div>
     <div class="prediction">
-      <span>Predicted Value:</span>
+      <span>Predicted Value:</span><br>
       <span class="prevalue">&#91;INACTIVE&#93;</span>
     </div>
     <div class="perchange">
-      <span>&#37; Change</span>
+      <span>&#37; Change</span><br>
       <span class="pchange">&#91;INACTIVE&#93;</span>
     </div>
     <div class="msg">
@@ -192,15 +344,15 @@
     
     <br>
       <div class="nature">
-        <span >Current Nature: </span>
+        <span >Current Nature: </span><br>
         <span class="condition">&#91;INACTIVE&#93;</span><br>
       </div>
       <div class="noc">
-        <span>Nature of Change: </span>
+        <span>Nature of Change: </span><br>
         <span class="change">&#91;INACTIVE&#93;</span>
       </div>
       <div class="percent">
-        <span>Drift:</span>
+        <span>Drift:</span><br>
         <div class="drift">&#91;INACTIVE&#93;</div>
       </div>
       <div class="msg">
@@ -226,14 +378,14 @@
           <span class="val1">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
         </div>
     </div>
-    </div>
+    
       <br>
         <div class="nature">
-          <span >Current Nature: </span>
+          <span >Current Nature: </span><br>
           <span class="condition">&#91;INACTIVE&#93;</span><br>
         </div>
         <div class="noc">
-          <span>Nature of Change: </span>
+          <span>Nature of Change: </span><br>
           <span class="change">&#91;INACTIVE&#93;</span>
         </div>
         <div class="percent">
@@ -243,9 +395,9 @@
         <div class="msg">
           <span class="message"></span><br>
         </div>
-        
+  </div>    
       
-  </div>
+ 
   <div id="SpO2">
     <h3>SpO2</h3>
   
@@ -261,15 +413,16 @@
       <span class="change">&#91;INACTIVE&#93;</span>
     </div>
     <div class="percent">
-      <span>Drift:</span>
+      <span>Drift:</span><br>
       <span class="drift">&#91;INACTIVE&#93;</span>
     </div>
+    <br>
     <div class="prediction">
-      <span>Predicted Value:</span>
+      <span>Predicted Value:</span><br>
       <span class="prevalue">&#91;INACTIVE&#93;</span>
     </div>
     <div class="perchange">
-      <span>&#37; Change</span>
+      <span>&#37; Change</span><br>
       <span class="pchange">&#91;INACTIVE&#93;</span>
     </div>
     <div class="msg">
@@ -292,15 +445,15 @@
       <span class="change">&#91;INACTIVE&#93;</span>
     </div>
     <div class="percent">
-      <span>Drift:</span>
+      <span>Drift:</span><br>
       <span class="drift">&#91;INACTIVE&#93;</span>
     </div>
     <div class="prediction">
-      <span>Predicted Value:</span>
+      <span>Predicted Value:</span><br>
       <span class="prevalue">&#91;INACTIVE&#93;</span>
     </div>
     <div class="perchange">
-      <span>&#37; Change</span>
+      <span>&#37; Change</span><br>
       <span class="pchange">&#91;INACTIVE&#93;</span>
     </div>
     <div class="msg">
@@ -323,15 +476,15 @@
       <span class="change">&#91;INACTIVE&#93;</span>
     </div>
     <div class="percent">
-      <span>Drift:</span>
+      <span>Drift:</span><br>
       <span class="drift">&#91;INACTIVE&#93;</span>
     </div>
     <div class="prediction">
-      <span>Predicted Value:</span>
+      <span>Predicted Value:</span><br>
       <span class="prevalue">&#91;INACTIVE&#93;</span>
     </div>
     <div class="perchange">
-      <span>&#37; Change</span>
+      <span>&#37; Change</span><br>
       <span class="pchange">&#91;INACTIVE&#93;</span>
     </div>
     <div class="msg">
@@ -354,15 +507,37 @@
       <span class="change">&#91;INACTIVE&#93;</span>
     </div>
     <div class="percent">
-      <span>Drift:</span>
+      <span>Drift:</span><br>
       <div class="drift">&#91;INACTIVE&#93;</div>
     </div>
     <div class="msg">
       <span class="message"></span><br>
     </div>
     
+  </div>
+  <div id="TBlood">
+    <h3>Blood Temperature</h3>
+
+    <div class="value">
+      <span class="val1">&#91;INACTIVE&#93;</span><br>
     </div>
-  <h3 id="TBlood">Blood Temperature</h3>
+    <div class="nature">
+      <span>Current Nature: </span><br>
+      <span class="condition">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="noc">
+      <span>Nature of Change: </span><br>
+      <span class="change">&#91;INACTIVE&#93;</span>
+    </div>
+    <div class="percent">
+      <span>Drift:</span><br>
+      <div class="drift">&#91;INACTIVE&#93;</div>
+    </div>
+    <div class="msg">
+      <span class="message"></span><br>
+    </div>
+  </div>
+
   <div id="PAP">
     <h3>Pulmonary Artery Pressure</h3>
   
@@ -383,11 +558,11 @@
     
     <br>
       <div class="nature">
-        <span >Current Nature: </span>
+        <span >Current Nature: </span><br>
         <span class="condition">&#91;INACTIVE&#93;</span><br>
       </div>
       <div class="noc">
-        <span>Nature of Change: </span>
+        <span>Nature of Change: </span><br>
         <span class="change">&#91;INACTIVE&#93;</span>
       </div>
       <div class="percent">
@@ -417,14 +592,14 @@
           <span class="val1">&#91;INACTIVE&#93;</span><span style="font-size: 20px;">mmHg</span>
         </div>
     </div>
-    </div>
+    
       <br>
         <div class="nature">
-          <span >Current Nature: </span>
+          <span >Current Nature: </span><br>
           <span class="condition">&#91;INACTIVE&#93;</span><br>
         </div>
         <div class="noc">
-          <span>Nature of Change: </span>
+          <span>Nature of Change: </span><br>
           <span class="change">&#91;INACTIVE&#93;</span>
         </div>
         <div class="percent">
@@ -551,14 +726,7 @@
     </div>
     
   </div>
-  <h3 id="IMCO2">Inspired Minimum CO2</h3>
-  <h3 id="ART">ART</h3>
-  <h3 id="ART1">ART1</h3>
-  <h3 id="ST1">ST1</h3>
-  <h3 id="ST2">ST2</h3>
-  <h3 id="ST3">ST3</h3>
-  <h3 id="P4">P4</h3>
-  <h3 id="Unlicensed assistive personnel">UAP</h3>
+  
 
  
 

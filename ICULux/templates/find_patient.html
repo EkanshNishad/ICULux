@@ -38,8 +38,12 @@
   
   <h3>Doctor Information</h3>
   <form class= "searchpatient" action="{{ url_for('find_patient')}}" method="POST" >
-    <table name="Doctor_data">
+    <div class="wrapper" >
+      <img src="static/img/51669.png" style="width: 100%;">
+      <table name="Doctor_data" style="width: fit-content;">
+      
       <tbody>
+       
       {% for row in data %}
           <tr>
               <th class="text">Doctor ID:</th>
@@ -64,6 +68,8 @@
       {% endfor %}
       </tbody>
     </table>
+  </div>
+
     <div class="search-wrapper">
       <div class="input-holder">
           <input type="text" class="search-input" name="pid" id='pid' placeholder="Enter Patient ID" required />

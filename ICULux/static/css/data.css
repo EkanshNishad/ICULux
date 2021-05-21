@@ -8,12 +8,12 @@ h3{
 }
   
   tr {
-    border-bottom: 1px solid;
+    border:none;
   }
   
   th {
-    background-color: #555;
-    color: #fff;
+    background-color:#fff;
+    color: #555;
     white-space: nowrap;
   }
   
@@ -29,7 +29,7 @@ h3{
       display: flex;
       margin-left: 10px;
       padding: 30px 30px 30px 30px;
-      width: 100%;
+      width: 70%;
     }
   
     tbody {
@@ -49,7 +49,7 @@ h3{
       background-size: contain cover;
       background-attachment: local, local, scroll, scroll;
       padding: 30px 30px 30px 30px;
-      width: 100%;
+      width: 70%;
     }
   
     th,
@@ -98,18 +98,19 @@ h3{
     text-align: center;
     color: #444444;
     font-weight: 300;
-    font-size: 50px;
+    font-size: 70px;
     
   }
+  
   .nature, .noc, .percent{
 
     display: inline-block;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    padding: 30px 30px 30px 30px;
-    margin-left: 10px;
-    width: 30%;
-    height: 150px;
+    padding: 20px 20px 20px 20px;
+    margin-left: 25px;
+    width: 40%;
+
     background-color: whitesmoke;
      align-items: center;
   }
@@ -118,45 +119,51 @@ h3{
     display: inline-block;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    padding: 30px 30px 30px 30px;
-    margin-left: 10px;
+    padding: 20px 20px 20px 20px;
+    
     width: 30%;
-    height: 150px;
+    margin-top: 30px;
+   
     background-color: whitesmoke;
      align-items: center;
   }
 
   .nature{
     left: 15%;
+    width:25%;
   }
 
   .prediction{
-    left: 25%;
+    left: 35%;
+    margin-left: 200px;
   }
 
   .noc{
+    padding-left: 50px;
     align-content: center;
   }
 
   .percent{
     right: 15%;
+    width: 25%;
   }
 
   .perchange{
-    right: 25%;
+    right: 35%;
+    margin-left: 100px;
   }
 
   .prevalue{
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    font-size: 30px;
+    font-size: 40px;
     color: #555;
   }
 
   .pchange{
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    font-size: 30px;
+    font-size: 40px;
     color: #555;
   }
   
@@ -165,24 +172,30 @@ h3{
     display: block;
     color: red;
     font-family: Arial, Helvetica, sans-serif;
-    font-size:25px;
-    margin-left: 10px;
+    font-size:30px;
+    margin-left: 20px;
   }
 
   .change{
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    font-size: 30px;
+    font-size: 40px;
+
   }
   .drift{
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    font-size: 30px;
+    font-size: 40px;
   }
   .condition{
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    font-size: 30px;
+    font-size: 40px;
+  }
+
+  img{
+    width: 20%;
+    
   }
 
   

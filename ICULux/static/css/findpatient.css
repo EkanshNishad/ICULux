@@ -6,27 +6,36 @@ main {
     border-bottom: 1px solid;
   }
   
-  th {
-    background-color: #555;
-    color: #fff;
-    white-space: nowrap;
-  }
-  
   th,
   td {
     text-align: left;
     padding: 0.5em 1em;
     white-space: nowrap;
   }
+
+  td{
+    background-color: #FFF;
+  }
+
+  th {
+    background-color: #FE5F55;
+    color: floralwhite;
+    white-space: nowrap;
+  }
+  
+  
   
   @media screen and (max-width: 1140px) {
     table {
       display: flex;
+      vertical-align: middle;
+      margin-left:300px;
+      margin-right: 300px;
     }
   
     tbody {
       display: flex;
-      position: relative;
+      position: absolute;
       overflow-x: auto;
       overflow-y: hidden;
   
@@ -38,14 +47,15 @@ main {
         radial-gradient(farthest-side at 100% 50%, rgba(0,0,0,.2), rgba(0,0,0,0)) 0 100%;
       background-repeat: no-repeat;
       background-color: white;
-      background-size: 40px 100%, 40px 100%, 14px 100%, 14px 100%;
-      background-position: 0 0, 100%, 0 0, 100%;
+      background-size: contain cover;
       background-attachment: local, local, scroll, scroll;
+      padding: 30px 30px 30px 30px;
     }
   
     th,
     td {
       display: block;
+      width: 40%;
     }
   
     .numeric {
@@ -71,7 +81,7 @@ main {
  .search-wrapper {
      position: absolute;
      transform: translate(-50%, -50%);
-     top:90%;
+     top:80%;
      right: 5px;
      border-color: tomato;
      border-width: 2px;
@@ -211,7 +221,20 @@ main {
     font-weight: 400;
     line-height: 20px;
     color: #FE5F55;
-    top:80%;
+    top:70%;
     right: 5px;
     position: relative;
+ }
+ .wrapper > *{
+   vertical-align: middle;
+ }
+ 
+ 
+
+ .wrapper{
+   background-color: #FE5F55;
+   margin-left: 550px;
+   margin-right: 550px;
+   
+   
  }
