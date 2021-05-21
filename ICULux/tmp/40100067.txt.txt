@@ -1,0 +1,2929 @@
+[23:41:58 25/01/1995]	40100067.txt 
+PULSE 	74 
+RESP  	16 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	17 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	17 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	17 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	17 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	17 
+ABP   	83	126	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	17 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	17 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	17 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	75 
+RESP  	15 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	75 
+RESP  	15 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	75 
+RESP  	16 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	75 
+RESP  	16 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	75 
+RESP  	16 
+ABP   	83	124	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	83	124	61 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	17 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	17 
+ABP   	83	125	60 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	17 
+ABP   	82	124	60 
+SpO2  	94 
+HR    	75 
+PULSE 	76 
+RESP  	17 
+ABP   	82	124	60 
+SpO2  	94 
+HR    	76 
+PULSE 	76 
+RESP  	17 
+ABP   	82	124	60 
+SpO2  	94 
+HR    	76 
+PULSE 	76 
+RESP  	17 
+ABP   	82	124	60 
+SpO2  	94 
+HR    	75 
+PULSE 	76 
+RESP  	17 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	75 
+PULSE 	76 
+RESP  	17 
+ABP   	81	123	59 
+SpO2  	94 
+HR    	75 
+PULSE 	76 
+RESP  	17 
+ABP   	81	123	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	17 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	74 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	74 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	74 
+PULSE 	74 
+RESP  	18 
+ABP   	81	122	59 
+SpO2  	94 
+HR    	74 
+PULSE 	74 
+RESP  	17 
+ABP   	81	122	59 
+SpO2  	94 
+HR    	74 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	74 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	74 
+PULSE 	74 
+RESP  	18 
+ABP   	81	123	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	18 
+ABP   	81	122	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	18 
+ABP   	81	122	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	19 
+ABP   	82	123	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	19 
+ABP   	82	123	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	19 
+ABP   	82	123	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	19 
+ABP   	82	122	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	18 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	18 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	74 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	74 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	74 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	74 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	18 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	82	123	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	82	124	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	82	124	59 
+SpO2  	94 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	82	123	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	82	123	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	82	123	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	82	123	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	121	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	121	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	121	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	121	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	121	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	121	58 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	121	58 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	121	58 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	121	58 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	121	58 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	80	121	58 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	121	58 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	121	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	121	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	121	58 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	121	58 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	81	121	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	81	121	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	81	121	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	80	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	80	121	58 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	80	121	58 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	80	121	58 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	80	121	58 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	80	121	58 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	80	121	58 
+SpO2  	93 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	80	121	59 
+SpO2  	93 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	80	121	59 
+SpO2  	93 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	73 
+PULSE 	74 
+RESP  	15 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	82	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	82	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	14 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	14 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	14 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	14 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	17 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	17 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	17 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	17 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	17 
+ABP   	81	123	59 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	82	123	59 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	81	124	59 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	123	59 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	82	123	59 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	18 
+ABP   	81	123	59 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	18 
+ABP   	81	123	59 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	18 
+ABP   	81	123	59 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	18 
+ABP   	81	123	59 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	18 
+ABP   	81	123	59 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	18 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	82	124	60 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	82	124	60 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	82	124	60 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	82	124	60 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	82	124	60 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	81	123	60 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	73 
+PULSE 	74 
+RESP  	15 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	81	122	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	81	123	59 
+SpO2  	93 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	82	123	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	82	123	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	81	123	59 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	82	123	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	81	123	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	81	123	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	81	123	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	81	124	59 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	81	123	59 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	14 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	14 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	82	126	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	82	125	59 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	82	125	59 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	81	124	59 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	81	124	59 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	81	124	59 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	81	124	59 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	81	124	59 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	82	124	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	82	125	59 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	125	59 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	82	124	59 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	82	125	59 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	82	125	59 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	82	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	125	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	84	127	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	84	127	61 
+SpO2  	92 
+HR    	75 
+PULSE 	75 
+RESP  	15 
+ABP   	84	127	61 
+SpO2  	92 
+HR    	75 
+PULSE 	75 
+RESP  	15 
+ABP   	84	127	61 
+SpO2  	92 
+HR    	75 
+PULSE 	75 
+RESP  	15 
+ABP   	84	127	61 
+SpO2  	92 
+HR    	75 
+PULSE 	75 
+RESP  	14 
+ABP   	84	127	61 
+SpO2  	92 
+HR    	75 
+PULSE 	75 
+RESP  	14 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	75 
+PULSE 	75 
+RESP  	14 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	75 
+PULSE 	75 
+RESP  	14 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	84	127	61 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	84	127	61 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	84	127	61 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	84	127	61 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	84	127	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	84	127	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	84	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	84	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	75 
+PULSE 	75 
+RESP  	14 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	75 
+PULSE 	75 
+RESP  	14 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	75 
+PULSE 	75 
+RESP  	14 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	75 
+PULSE 	75 
+RESP  	14 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	75 
+PULSE 	75 
+RESP  	14 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	13 
+ABP   	84	128	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	13 
+ABP   	84	128	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	84	127	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	84	127	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	127	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	127	61 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	82	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	82	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	82	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	82	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	82	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	126	59 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	126	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	17 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	17 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	17 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	17 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	91 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	91 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	91 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	84	128	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	14 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	75 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	16 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	84	129	61 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	84	129	61 
+SpO2  	91 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	84	129	61 
+SpO2  	91 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	84	129	61 
+SpO2  	91 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	84	129	61 
+SpO2  	91 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	84	128	61 
+SpO2  	91 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	84	128	61 
+SpO2  	91 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	128	61 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	15 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	14 
+ABP   	83	127	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	73 
+PULSE 	73 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	84	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	84	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	15 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	15 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	14 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	14 
+ABP   	84	128	61 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	73 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	83	128	60 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	82	127	59 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	82	126	59 
+SpO2  	92 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	126	59 
+SpO2  	91 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	126	58 
+SpO2  	91 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	81	125	58 
+SpO2  	91 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	80	125	58 
+SpO2  	91 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	80	125	58 
+SpO2  	91 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	80	125	57 
+SpO2  	91 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	80	125	58 
+SpO2  	91 
+HR    	74 
+PULSE 	74 
+RESP  	14 
+ABP   	80	125	57 
+SpO2  	91 
+HR    	74 
+PULSE 	73 
+RESP  	14 
+ABP   	80	125	57 
+SpO2  	91 
+HR    	74 
+PULSE 	73 
+RESP  	14 
+ABP   	79	125	57 
+SpO2  	91 
+HR    	74 
+PULSE 	73 
+RESP  	14 
+ABP   	79	125	57 
+SpO2  	91 
+HR    	74 
+PULSE 	73 
+RESP  	13 
+ABP   	79	125	57 
+SpO2  	91 
+HR    	74 
+PULSE 	73 
+RESP  	13 
+ABP   	79	125	57 
+SpO2  	91 
+HR    	73 
+PULSE 	73 
+RESP  	13 
+ABP   	79	125	57 
+SpO2  	91 
+HR    	73 
+PULSE 	73 
+RESP  	13 
+ABP   	79	124	57 
+SpO2  	91 
+HR    	73 
+PULSE 	73 
+RESP  	14 
+ABP   	79	125	57 
+SpO2  	91 
+HR    	73 
+PULSE 	73 
+RESP  	14 
+ABP   	79	125	57 
+SpO2  	91 
+HR    	73 
+PULSE 	73 
+RESP  	14 
+ABP   	79	125	57 
+SpO2  	91 
+HR    	73 
+PULSE 	73 
+RESP  	14 
+ABP   	79	124	57 
+SpO2  	91 
+HR    	73 
+PULSE 	72 
+RESP  	14 
+ABP   	79	124	57 
+SpO2  	91 
+HR    	73 
+PULSE 	72 
+RESP  	14 
+ABP   	79	124	57 
+SpO2  	91 
+HR    	73 
+PULSE 	73 
+RESP  	14 
+ABP   	79	124	57 
+SpO2  	91 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	79	124	57 
+SpO2  	91 
+HR    	73 
+PULSE 	73 
+RESP  	16 
+ABP   	78	124	57 
+SpO2  	91 
+HR    	73 
+PULSE 	73 
+RESP  	17 
+ABP   	78	124	57 
+SpO2  	91 
+HR    	73 
+PULSE 	73 
+RESP  	17 
+ABP   	78	124	56 
+SpO2  	91 
+HR    	73 
+PULSE 	73 
+RESP  	17 
+ABP   	78	123	56 
+SpO2  	90 
+HR    	73 
+PULSE 	73 
+RESP  	17 
+ABP   	78	123	56 
+SpO2  	90 
+HR    	73 
+PULSE 	73 
+RESP  	17 
+ABP   	77	123	56 
+SpO2  	90 
+HR    	74 
+PULSE 	73 
+RESP  	17 
+ABP   	77	123	56 
+SpO2  	90 
+HR    	74 
+PULSE 	73 
+RESP  	17 
+ABP   	77	123	55 

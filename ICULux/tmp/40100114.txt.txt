@@ -1,0 +1,3358 @@
+[07:32:06 26/01/1995]	40100114.txt 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	67	100	49 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	67	100	49 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	67	100	49 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	67	100	49 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	67	100	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	66	99	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	66	99	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	67	99	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	66	99	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	66	99	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	66	99	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	67	99	49 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	67	99	49 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	67	100	49 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	68	101	49 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	68	101	49 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	68	101	49 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	67	101	49 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	67	101	49 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	67	101	49 
+SpO2  	96 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	67	101	49 
+SpO2  	96 
+HR    	65 
+PULSE 	66 
+INOP	PLETH NON-PULSATIL 
+RESP  	13 
+ABP   	66	101	48 
+SpO2  	96 
+HR    	65 
+PULSE 	66 
+RESP  	13 
+ABP   	66	100	48 
+SpO2  	96 
+HR    	65 
+PULSE 	66 
+RESP  	13 
+ABP   	66	100	48 
+SpO2  	96 
+HR    	65 
+PULSE 	66 
+RESP  	13 
+ABP   	66	99	48 
+SpO2  	96 
+HR    	65 
+PULSE 	66 
+RESP  	13 
+ABP   	65	99	48 
+SpO2  	96 
+HR    	65 
+PULSE 	66 
+RESP  	13 
+ABP   	65	98	47 
+SpO2  	96 
+HR    	65 
+PULSE 	66 
+RESP  	13 
+ABP   	65	98	47 
+SpO2  	96 
+HR    	65 
+PULSE 	66 
+RESP  	13 
+ABP   	65	97	47 
+SpO2  	96 
+HR    	65 
+PULSE 	66 
+RESP  	13 
+ABP   	65	97	47 
+SpO2  	96 
+HR    	65 
+PULSE 	66 
+RESP  	13 
+ABP   	64	97	47 
+SpO2  	96 
+HR    	65 
+PULSE 	66 
+RESP  	13 
+ABP   	64	97	47 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	64	97	47 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	64	97	47 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	64	96	47 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	64	96	47 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	64	96	47 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	64	95	47 
+SpO2  	95 
+HR    	64 
+PULSE 	64 
+RESP  	14 
+ABP   	64	95	46 
+SpO2  	94 
+HR    	64 
+PULSE 	64 
+RESP  	14 
+ABP   	64	95	47 
+SpO2  	94 
+HR    	64 
+PULSE 	64 
+RESP  	13 
+ABP   	64	95	47 
+SpO2  	94 
+HR    	64 
+PULSE 	63 
+RESP  	13 
+ABP   	64	95	47 
+SpO2  	94 
+HR    	64 
+PULSE 	63 
+RESP  	13 
+ABP   	64	95	47 
+SpO2  	94 
+HR    	64 
+PULSE 	63 
+RESP  	15 
+ABP   	64	95	47 
+SpO2  	94 
+HR    	64 
+PULSE 	63 
+RESP  	15 
+ABP   	64	95	47 
+SpO2  	94 
+HR    	64 
+PULSE 	63 
+RESP  	15 
+ABP   	64	95	47 
+SpO2  	94 
+HR    	64 
+PULSE 	63 
+RESP  	15 
+ABP   	64	95	47 
+SpO2  	94 
+HR    	64 
+PULSE 	63 
+RESP  	15 
+ABP   	64	95	47 
+SpO2  	95 
+HR    	64 
+PULSE 	64 
+RESP  	17 
+ABP   	65	96	47 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	17 
+ABP   	65	96	47 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	17 
+ABP   	65	96	47 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	17 
+ABP   	65	96	47 
+SpO2  	94 
+HR    	65 
+PULSE 	64 
+RESP  	17 
+ABP   	65	96	47 
+SpO2  	93 
+HR    	65 
+PULSE 	64 
+RESP  	17 
+ABP   	65	96	47 
+SpO2  	93 
+HR    	65 
+PULSE 	64 
+RESP  	19 
+ABP   	65	96	47 
+SpO2  	92 
+HR    	65 
+PULSE 	67 
+RESP  	19 
+ABP   	65	96	47 
+SpO2  	92 
+HR    	65 
+PULSE 	67 
+RESP  	19 
+ABP   	65	96	47 
+SpO2  	92 
+HR    	66 
+PULSE 	67 
+RESP  	19 
+ABP   	65	96	47 
+SpO2  	92 
+HR    	66 
+PULSE 	67 
+RESP  	19 
+ABP   	65	96	47 
+SpO2  	93 
+HR    	66 
+PULSE 	67 
+RESP  	17 
+ABP   	65	96	47 
+SpO2  	93 
+HR    	66 
+PULSE 	67 
+RESP  	17 
+ABP   	65	96	47 
+SpO2  	93 
+HR    	66 
+PULSE 	67 
+RESP  	17 
+ABP   	65	96	47 
+SpO2  	93 
+HR    	66 
+PULSE 	65 
+RESP  	17 
+ABP   	65	96	47 
+SpO2  	94 
+HR    	66 
+PULSE 	65 
+RESP  	17 
+ABP   	65	96	47 
+SpO2  	94 
+HR    	66 
+PULSE 	65 
+RESP  	16 
+ABP   	65	96	47 
+SpO2  	94 
+HR    	66 
+PULSE 	65 
+RESP  	16 
+ABP   	65	96	47 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	16 
+ABP   	65	96	47 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	16 
+ABP   	65	96	47 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	16 
+ABP   	65	96	47 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	16 
+ABP   	65	96	47 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	16 
+ABP   	64	96	47 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	16 
+ABP   	65	96	47 
+SpO2  	96 
+HR    	66 
+PULSE 	65 
+RESP  	16 
+ABP   	64	95	47 
+SpO2  	96 
+HR    	66 
+PULSE 	65 
+RESP  	16 
+ABP   	64	95	47 
+SpO2  	96 
+HR    	66 
+PULSE 	65 
+RESP  	16 
+ABP   	64	95	47 
+SpO2  	96 
+HR    	66 
+PULSE 	65 
+RESP  	16 
+ABP   	64	95	47 
+SpO2  	96 
+HR    	66 
+PULSE 	65 
+RESP  	16 
+ABP   	64	95	47 
+SpO2  	96 
+HR    	66 
+PULSE 	65 
+RESP  	16 
+ABP   	64	95	47 
+SpO2  	96 
+HR    	66 
+PULSE 	65 
+RESP  	16 
+ABP   	65	96	47 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	15 
+ABP   	65	96	47 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	15 
+ABP   	65	97	48 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	15 
+ABP   	65	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	15 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	15 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	96 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	96 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	15 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	15 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	15 
+ABP   	65	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	15 
+ABP   	65	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	15 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	15 
+ABP   	65	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	15 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	15 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	15 
+ABP   	65	97	47 
+SpO2  	96 
+HR    	65 
+PULSE 	64 
+RESP  	15 
+ABP   	65	97	48 
+SpO2  	96 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	96 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	99	48 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	99	48 
+SpO2  	96 
+HR    	65 
+PULSE 	67 
+RESP  	14 
+ABP   	66	99	48 
+SpO2  	96 
+HR    	65 
+PULSE 	67 
+RESP  	14 
+ABP   	66	99	48 
+SpO2  	97 
+HR    	65 
+PULSE 	67 
+RESP  	14 
+ABP   	67	99	48 
+SpO2  	97 
+HR    	65 
+PULSE 	67 
+RESP  	14 
+ABP   	67	100	48 
+SpO2  	98 
+HR    	65 
+PULSE 	63 
+RESP  	14 
+ABP   	66	100	48 
+SpO2  	97 
+HR    	66 
+PULSE 	63 
+RESP  	14 
+ABP   	67	99	48 
+SpO2  	97 
+HR    	65 
+PULSE 	63 
+RESP  	14 
+ABP   	66	99	48 
+SpO2  	97 
+HR    	65 
+PULSE 	63 
+RESP  	14 
+ABP   	66	99	48 
+SpO2  	97 
+HR    	65 
+PULSE 	63 
+RESP  	14 
+ABP   	66	99	48 
+SpO2  	96 
+HR    	65 
+PULSE 	64 
+RESP  	15 
+ABP   	66	99	48 
+SpO2  	96 
+HR    	65 
+PULSE 	64 
+RESP  	15 
+ABP   	66	99	48 
+SpO2  	96 
+HR    	65 
+PULSE 	64 
+RESP  	15 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	15 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	15 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	64 
+PULSE 	64 
+RESP  	15 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	64 
+PULSE 	64 
+RESP  	15 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	64 
+PULSE 	64 
+RESP  	15 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	64 
+PULSE 	64 
+RESP  	15 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	64 
+PULSE 	64 
+RESP  	15 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	64 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	47 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	65	96	47 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	65	96	47 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	65	97	47 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	65	96	47 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	65	96	47 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	96 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	96 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	96 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	96 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	96 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	96 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	64 
+RESP  	13 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	94 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	94 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	94 
+HR    	66 
+PULSE 	66 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	94 
+HR    	66 
+PULSE 	66 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	66 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	66 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	66 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	66 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	66 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	66 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	66 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	66 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	66 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	67	99	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	67	99	48 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	67	99	48 
+SpO2  	95 
+HR    	66 
+PULSE 	66 
+RESP  	14 
+ABP   	67	99	49 
+SpO2  	95 
+HR    	66 
+PULSE 	66 
+RESP  	15 
+ABP   	67	99	49 
+SpO2  	95 
+HR    	66 
+PULSE 	66 
+RESP  	15 
+ABP   	67	99	49 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	15 
+ABP   	67	99	49 
+SpO2  	95 
+HR    	66 
+PULSE 	64 
+RESP  	15 
+ABP   	67	99	49 
+SpO2  	94 
+HR    	66 
+PULSE 	63 
+RESP  	15 
+ABP   	67	99	49 
+SpO2  	94 
+HR    	66 
+PULSE 	63 
+RESP  	15 
+ABP   	67	99	49 
+SpO2  	94 
+HR    	66 
+PULSE 	63 
+RESP  	15 
+ABP   	67	99	49 
+SpO2  	94 
+HR    	66 
+PULSE 	63 
+RESP  	15 
+ABP   	67	99	49 
+SpO2  	94 
+HR    	66 
+PULSE 	63 
+RESP  	15 
+ABP   	67	99	49 
+SpO2  	94 
+HR    	66 
+PULSE 	63 
+RESP  	15 
+ABP   	67	99	49 
+SpO2  	94 
+HR    	65 
+PULSE 	63 
+RESP  	14 
+ABP   	67	99	49 
+SpO2  	94 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	67	99	49 
+SpO2  	94 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	67	99	48 
+SpO2  	94 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	67	99	48 
+SpO2  	94 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	67	99	48 
+SpO2  	94 
+HR    	66 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	94 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	94 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	94 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	94 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	94 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	94 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	94 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	94 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	99	48 
+SpO2  	94 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	99	48 
+SpO2  	94 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	67	99	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	67	100	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	67	100	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	67	100	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	67	100	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	67	100	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	13 
+ABP   	67	100	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	13 
+ABP   	67	100	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	13 
+ABP   	66	99	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	13 
+ABP   	66	99	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	13 
+ABP   	66	99	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	12 
+ABP   	66	99	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	12 
+ABP   	66	99	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	12 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	12 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	12 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	13 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	13 
+ABP   	65	97	47 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	13 
+ABP   	65	97	47 
+SpO2  	95 
+HR    	64 
+PULSE 	64 
+RESP  	13 
+ABP   	65	97	47 
+SpO2  	95 
+HR    	64 
+PULSE 	64 
+RESP  	13 
+ABP   	65	97	47 
+SpO2  	95 
+HR    	64 
+PULSE 	64 
+RESP  	13 
+ABP   	65	97	47 
+SpO2  	95 
+HR    	64 
+PULSE 	64 
+RESP  	13 
+ABP   	65	97	47 
+SpO2  	95 
+HR    	64 
+PULSE 	64 
+RESP  	13 
+ABP   	65	96	47 
+SpO2  	95 
+HR    	64 
+PULSE 	64 
+RESP  	13 
+ABP   	65	96	47 
+SpO2  	95 
+HR    	64 
+PULSE 	64 
+RESP  	13 
+ABP   	65	97	47 
+SpO2  	95 
+HR    	64 
+PULSE 	63 
+RESP  	13 
+ABP   	65	97	47 
+SpO2  	95 
+HR    	64 
+PULSE 	63 
+RESP  	13 
+ABP   	65	96	47 
+SpO2  	95 
+HR    	64 
+PULSE 	61 
+RESP  	13 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	61 
+RESP  	13 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	61 
+RESP  	13 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	61 
+RESP  	13 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	61 
+RESP  	13 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	61 
+RESP  	13 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	61 
+RESP  	13 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	61 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	61 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	61 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	65	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	15 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	64 
+RESP  	15 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	64 
+RESP  	15 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	64 
+RESP  	15 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	66 
+PULSE 	64 
+RESP  	15 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	64 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	97	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	14 
+ABP   	66	98	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	67	99	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	67	100	48 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	67	100	49 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	67	100	49 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	68	101	49 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	68	102	49 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	68	102	49 
+SpO2  	95 
+HR    	66 
+PULSE 	65 
+RESP  	13 
+ABP   	68	102	50 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	68	102	50 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	69	103	50 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	69	103	51 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	69	103	51 
+SpO2  	95 
+HR    	65 
+PULSE 	65 
+RESP  	13 
+ABP   	69	103	51 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+RESP  	13 
+ABP   	68	102	50 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	68	101	50 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	68	101	50 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	67	100	50 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	67	99	49 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	66	99	49 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	66	98	49 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	66	98	49 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	65	97	48 
+SpO2  	0 
+HR    	63 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	65	96	48 
+SpO2  	0 
+HR    	63 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	64	96	48 
+SpO2  	0 
+HR    	63 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	12 
+ABP   	64	95	47 
+SpO2  	0 
+HR    	63 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	12 
+ABP   	63	94	47 
+SpO2  	0 
+HR    	63 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	12 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	63	93	46 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	63	93	46 
+SpO2  	0 
+HR    	63 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	62	92	46 
+SpO2  	0 
+HR    	63 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	62	92	46 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	63	93	46 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	63	93	46 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	63	93	47 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	64	94	47 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	64	95	47 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	64	95	47 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	64	95	47 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	64	95	47 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	64	95	47 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	64	95	47 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	13 
+ABP   	64	95	47 
+SpO2  	0 
+HR    	64 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	63	94	47 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	63	94	47 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	62	93	46 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	14 
+ABP   	62	92	45 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	15 
+ABP   	61	92	45 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	15 
+ABP   	61	92	45 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	15 
+ABP   	61	91	45 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	61	91	45 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	61	91	45 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	60	91	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	60	90	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	60	90	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	60	90	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	60	90	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	60	90	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	60	90	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	17 
+ABP   	60	90	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	17 
+ABP   	60	90	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	17 
+ABP   	60	89	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	60	89	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	60	88	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	60	89	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	60	88	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	60	88	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	60	88	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	20 
+ABP   	60	88	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	19 
+ABP   	60	88	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	60	88	44 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	60	88	44 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	60	88	44 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	60	88	44 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	61	89	44 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	61	89	44 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	61	89	45 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	61	90	45 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	61	90	45 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	62	91	45 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	62	91	45 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	62	92	45 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	62	92	45 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	18 
+ABP   	62	92	45 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	17 
+ABP   	62	92	46 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	17 
+ABP   	62	92	46 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	17 
+ABP   	62	93	46 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	17 
+ABP   	62	93	46 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	17 
+ABP   	62	93	46 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	93	46 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	93	46 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	93	46 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	93	46 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	67 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	15 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	15 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	15 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	66 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	94	46 
+SpO2  	0 
+HR    	65 
+PULSE 	0 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  	16 
+ABP   	63	94	46 
+SpO2  [inactive, status = 21a2] 
+HR    	65 
+PULSE [inactive, status = 21a2] 
+INOP	PLETH NON-PULSATIL 
+INOP	SpO2 NON-PULSATILE 
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 6120] 
+SpO2  [inactive, status = 21a2] 
+HR    	65 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 6120] 
+SpO2  [inactive, status = 21a2] 
+HR    	65 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 6120] 
+SpO2  [inactive, status = 21a2] 
+HR    	0 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 6120] 
+SpO2  [inactive, status = 21a2] 
+HR    	0 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+SpO2  [inactive, status = 21a2] 
+HR    	0 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61e0] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
+ABP   [inactive, status = 71a0] 
+HR    [inactive, status = 61a2] 
+SpO2  [inactive, status = 21a2] 
+PULSE [inactive, status = 21e0] 
+INOP	MONITOR STANDBY    
+RESP  [inactive, status = 21e0] 
