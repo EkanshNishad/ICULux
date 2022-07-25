@@ -8,8 +8,8 @@ The MIMIC Database (https://physionet.org/content/mimicdb/1.0.0/) includes data 
 
 ## Predicting data
 
-![alt text](https://github.com/EkanshNishad/ICULux/blob/master/ICULux/images/image6.png?raw=true)
-![alt text](https://github.com/EkanshNishad/ICULux/blob/master/ICULux/images/image8.png?raw=true)
+<img src="https://github.com/EkanshNishad/ICULux/blob/master/ICULux/images/image6.png?raw=true" width="200"/>
+<img src="https://github.com/EkanshNishad/ICULux/blob/master/ICULux/images/image8.png?raw=true" width="200"/>
 
 ## Execution
 
