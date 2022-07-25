@@ -6,6 +6,10 @@ Monitoring ICU data is becoming an important task as , detecting and tracking th
 
 The MIMIC Database (https://physionet.org/content/mimicdb/1.0.0/) includes data recorded from over 90 ICU patients. The data in each case include signals and periodic measurements obtained from a bedside monitor as well as clinical data obtained from the patient's medical record. The recordings vary in length; almost all of them are at least 20 hours, and many are 40 hours or more. In all, the database contains nearly 200 patient-days of real-time signals and accompanying data. 
 
+## Predicting data
+
+
+## Execution
 
 the main application is app.py
 run app.py and you should have an application that can run python application
